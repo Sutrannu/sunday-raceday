@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Sunday RaceDay"
-permalink: /
 ---
 
 ## Mission Deep Sunday RaceDay
