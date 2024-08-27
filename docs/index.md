@@ -1,6 +1,7 @@
+---
 layout: page
 title: "Sunday RaceDay"
-permalink: /URL-PATH
+permalink: /
 ---
 
 ## Mission Deep Sunday RaceDay
