@@ -1,8 +1,8 @@
 title: Sunday Raceday
-description: We're here to race and have fun.
+description: "We're here to race and have fun."
 show_downloads: false
 google_analytics:
-# theme: jekyll-theme-dinky
+theme: jekyll-theme-leap-day
 # defaults:
 #   - scope:
 #       path: ""
