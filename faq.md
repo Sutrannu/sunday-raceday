@@ -33,6 +33,6 @@ title: Sunday RaceDay F.A.Q.
 - Did I win?
   - It's really about the journey
   - We keep score and post it in Discord
-  - If we're tied at the end of the long boy, we drag race to
+  - If we're tied at the end of the long boi, we drag race to
     break it
 - 
