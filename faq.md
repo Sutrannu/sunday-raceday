@@ -24,8 +24,8 @@ title: Sunday RaceDay F.A.Q.
     need to search for by the share code, or the name.
 - Should I panic?
   - Yes.
-- What's the long boy?
-  - The last, but usually not the last, race is a really long one.
+- What's the long boi?
+  - The last, but usually not the least, race is a really long one.
   - like, 15-20 minutes
   - There is usually a nature break right before
 - What if I loose?
