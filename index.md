@@ -53,5 +53,5 @@ feel free to ask questions, as dumb as you like, in discord.
 
 ## Streamers
 
-Several racers stream the races. Check out [there profiles](streamers), and drop in
+Several racers stream the races. Check out [their profiles](streamers), and drop in
 sometime to experience the madness.

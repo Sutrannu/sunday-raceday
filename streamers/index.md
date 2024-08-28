@@ -4,6 +4,7 @@ title: Streamers
 
 Streamers who race. Racers who stream. 
 
+<ul>
 {% for post in site.posts %}
   {% if post.tags contains "streamers" %}
   <li>
@@ -11,4 +12,4 @@ Streamers who race. Racers who stream.
   </li>
   {% endif %}
 {% endfor %}
-
+</ul>
