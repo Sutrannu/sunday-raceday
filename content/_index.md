@@ -1,5 +1,6 @@
-layout: page
+---
 title: Sunday RaceDay
+featured_image: /images/hero.png
 ---
 
 ## MissionDeep Sunday RaceDay
