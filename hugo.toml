@@ -2,3 +2,5 @@ baseURL = 'https://sutrannu.github.io/sunday-raceday/'
 languageCode = 'en-us'
 title = 'Sunday Raceday'
 theme = 'ananke'
+[params.meta]
+  favicon = false
