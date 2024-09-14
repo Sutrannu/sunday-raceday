@@ -2,9 +2,10 @@ baseURL = 'https://sutrannu.github.io/sunday-raceday/'
 languageCode = 'en-us'
 title = 'Sunday Raceday'
 theme = 'ananke'
+[params]
+  favicon = "/sunday-raceday/images/logo.png"
 [params.meta]
   favicon = false
-
 [[params.ananke_socials]]
-name = "discord"
+name = "Discord"
 url = "https://t.co/uQa7fOuaKp"
