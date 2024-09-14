@@ -4,3 +4,7 @@ title = 'Sunday Raceday'
 theme = 'ananke'
 [params.meta]
   favicon = false
+
+[[params.ananke_socials]]
+name = "discord"
+url = "https://t.co/uQa7fOuaKp"
