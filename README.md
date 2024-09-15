@@ -1,3 +1,3 @@
 # sunday-raceday
 
-Getting Started with Sunday Raceday
+Getting Started with Sunday RaceDay

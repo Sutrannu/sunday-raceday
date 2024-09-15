@@ -1,6 +1,6 @@
 baseURL = 'https://sutrannu.github.io/sunday-raceday/'
 languageCode = 'en-us'
-title = 'Sunday Raceday'
+title = 'Sunday RaceDay'
 theme = 'ananke'
 [params]
   favicon = "/sunday-raceday/images/logo.png"
