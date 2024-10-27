@@ -4,6 +4,7 @@ title = 'Sunday RaceDay'
 theme = 'ananke'
 [params]
   favicon = "/sunday-raceday/images/logo.png"
+  custom_css = ["css/race.css"]
 [params.meta]
   favicon = false
 [[params.ananke_socials]]
