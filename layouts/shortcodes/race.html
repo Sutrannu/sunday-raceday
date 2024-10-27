@@ -1,0 +1,10 @@
+  <div id="ad_frame">
+    <div id="glamour"></div>
+    <div id="call" class="text">{{ .Page.Params.callout }}</div>
+    <div id="picktune" class="text">
+      <span class="by">Car Chosen by</span> {{ .Page.Params.car_by }}<br>
+      <span class="by">Tune by</span> {{ .Page.Params.tune_by }}
+    </div>
+    <div id="car" class="text"><span>{{ .Page.Params.car }}</span></div>
+    <div id="code" class="text"><span class="label">Share Code</span>{{ .Page.Params.share_code }}</div>
+  </div>
