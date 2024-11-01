@@ -14,8 +14,8 @@
 }
 #ad_frame .text {
   position: absolute;
-  font-family: "Permanent Marker", cursive;
-  font-weight: 200;
+  font-family: "Indie Flower", cursive;
+  font-weight: 400;
   font-style: normal;
   text-align: center;
   vertical-align: middle;
@@ -40,7 +40,6 @@
   width: 80%;
   height: 80%;
   margin: 6% auto;
-  background-image: url("../images/2024-10-27-car.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
