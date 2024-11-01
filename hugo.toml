@@ -8,5 +8,5 @@ theme = 'ananke'
 [params.meta]
   favicon = false
 [[params.ananke_socials]]
-name = "Discord"
-url = "https://t.co/uQa7fOuaKp"
+  name = "Discord"
+  url = "https://t.co/uQa7fOuaKp"
