@@ -28,7 +28,7 @@ get busy in Upgrades & Tuning.
 
 From My Tunings and Setup, save the tune and give it a name that
 humans can input with a gaming controller. Keeping it alphanumeric
-makes it nice and easy.
+makes it nice and easy. Don't forget to share!
 
 The hardest part: Go to Find Tuning Setups and find your tune.
 Use the name as the description. Aren't you glad I told you to
