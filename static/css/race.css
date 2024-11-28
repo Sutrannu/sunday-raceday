@@ -1,10 +1,10 @@
 #ad_frame {
   background-color:white;
   border: solid 1px #000;
-  width: 1080px;
-  height: 720px;
-  margin: 50px auto 5px auto;
-  font-size: 28pt;
+  width: 80vw;
+  height: 45vw;
+  margin: 10px auto 5px auto;
+  font-size: 2vw;
   position: relative;
   background-image: url("../images/ad-bg.jpg");
   background-position: center;
@@ -14,7 +14,7 @@
 }
 #ad_frame .text {
   position: absolute;
-  font-family: "Indie Flower", cursive;
+  font-family: "Atma", cursive;
   font-weight: 400;
   font-style: normal;
   text-align: center;
@@ -29,17 +29,17 @@
 }
 #ad_frame .text span.label {
   display: block;
-  font-size: 80%;
+  font-size: 2vw;
   margin: 5px;
 }
 #ad_frame .text span.by {
-  font-size: 80%;
+  font-size: 1.5vw;
 }
 #ad_frame #glamour {
   border: solid 1px #000;
-  width: 80%;
-  height: 80%;
-  margin: 6% auto;
+  width: 70vw;
+  height: 40vw;
+  margin: 2vw auto;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -51,30 +51,30 @@
 }
 #ad_frame #call {
   background-color:rgb(83,131,236);
-  width: 10em;
-  height: 1.8em;
-  top: 30px;
+  width: 25vw;
+  height: 4vw;
+  top: 2vw;
   left: -10px;
-  padding: auto;
+  padding: 5px;
   transform: rotate(-15deg);
 }
 #ad_frame #picktune {
   background-color: #F3AF56;
-  width: 15em;
-  height: 2.5em;
-  top: 580px;
-  left: 580px;
-  padding: 15px 0 0 0;
+  width: 25vw;
+  height: 5.5vw;
+  top: 37vw;
+  left: 56vw;
+  padding: 10px 0 0 0;
   transform: rotate(-15deg);
-  line-height: .7em;
+  line-height: .8em;
   color: #595959;
 }
 #ad_frame #car {
   background-color: #48752C;
-  width: 10em;
-  height: 1.8em;
-  top: 600px;
-  left: -10px;
+  width: 25vw;
+  height: 4vw;
+  top: 39vw;
+  left: -1vw;
   padding: auto;
   transform: rotate(15deg);
   text-wrap: nowrap;
@@ -84,10 +84,10 @@
 }
 #ad_frame #code {
   background-color: #634FA2;
-  width: 10em;
-  height: 2.2em;
-  top: 30px;
-  left: 700px;
+  width: 25vw;
+  height: 5vw;
+  top: 2vw;
+  left: 55vw;
   padding: auto;
   transform: rotate(15deg);
   line-height: .7em;
