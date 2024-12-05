@@ -80,7 +80,8 @@
   text-wrap: nowrap;
 }
 #ad_frame #car span {
-  font-size: 1.5vw;
+  font-size: 1.8vw;
+  line-height: 2.3em;
 }
 #ad_frame #code {
   background-color: #634FA2;
@@ -88,7 +89,7 @@
   height: 5vw;
   top: 2vw;
   left: 55vw;
-  padding: auto;
+  padding: 10px 0 0 0;
   transform: rotate(15deg);
   line-height: .7em;
 }
