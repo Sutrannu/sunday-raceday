@@ -29,8 +29,10 @@
 }
 #ad_frame .text span.label {
   display: block;
-  font-size: 2vw;
-  margin: 5px;
+  font-size: 1.5vw;
+  margin: .2vw;
+  padding: 0;
+  font-family: "Atma", cursive;
 }
 #ad_frame .text span.by {
   font-size: 1.5vw;
@@ -55,7 +57,7 @@
   height: 4vw;
   top: 2vw;
   left: -10px;
-  padding: 5px;
+  padding: .4vw 5px;
   transform: rotate(-15deg);
 }
 #ad_frame #picktune {
@@ -64,24 +66,23 @@
   height: 5.5vw;
   top: 37vw;
   left: 56vw;
-  padding: 10px 0 0 0;
+  padding: .8vw 0 0 0;
   transform: rotate(-15deg);
-  line-height: .8em;
+  line-height: .9em;
   color: #595959;
 }
 #ad_frame #car {
   background-color: #48752C;
-  width: 25vw;
+  width: 30vw;
   height: 4vw;
   top: 39vw;
   left: -1vw;
-  padding: auto;
+  padding: .2vw 0;
   transform: rotate(15deg);
   text-wrap: nowrap;
 }
 #ad_frame #car span {
   font-size: 1.8vw;
-  line-height: 2.3em;
 }
 #ad_frame #code {
   background-color: #634FA2;
@@ -89,7 +90,8 @@
   height: 5vw;
   top: 2vw;
   left: 55vw;
-  padding: 10px 0 0 0;
+  padding: 0;
   transform: rotate(15deg);
-  line-height: .7em;
+  line-height: .9em;
+  font-family: monospace;
 }
