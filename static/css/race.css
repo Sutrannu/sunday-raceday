@@ -95,3 +95,23 @@
   line-height: .9em;
   font-family: monospace;
 }
+#ad_frame #tunename {
+  background-color: #706694;
+  width: 10vw;
+  height: 4vw;
+  top: 7vw;
+  left: 61vw;
+  padding: 1vw 0;
+  transform: rotate(15deg);
+  line-height: .9em;
+}
+#ad_frame #class {
+  background-color: #334524;
+  width: 10vw;
+  height: 5vw;
+  top: 30vw;
+  left: 60vw;
+  padding: 0;
+  transform: rotate(-2deg);
+  line-height: .9em;
+}
