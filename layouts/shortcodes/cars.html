@@ -1,0 +1,19 @@
+{{ range $.Site.Data.cars }}
+    <p>
+	<span style="font-family: Atma, cursive; font-weight: 400; font-size: 1.5em" id="{{ replace .name " " "_" | lower }}">
+		<i class="fas fa-exclamation-circle"></i>
+		{{ .name }}</span>
+	{{ if isset . "year" }}
+        <span style="font-family: Consolas, menlo, monospace; font-size: .85em">
+			<i class="fas fa-tools"></i>
+			{{ .year }}
+		</span>
+	{{ end }}
+	{{ if isset . "lastUsed" }}
+		<a href="../race/{{ .lastUsed }}">
+			<i class="fa fa-chart-bar"></i>
+			{{ .lastUsed }}
+		</a>
+	{{ end }}
+    </p>
+{{ end }}
