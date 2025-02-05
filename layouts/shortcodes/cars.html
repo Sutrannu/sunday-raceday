@@ -1,6 +1,7 @@
+<ul style="list-style-type: none">
 {{ range $.Site.Data.cars }}
-    <p>
-	<span style="font-family: Atma, cursive; font-weight: 400; font-size: 1.5em" id="{{ replace .name " " "_" | lower }}">
+    <li>
+	<span style="font-size: 1em" id="{{ replace .name " " "_" | lower }}">
 		<i class="fas fa-exclamation-circle"></i>
 		{{ .name }}</span>
 	{{ if isset . "year" }}
@@ -9,11 +10,16 @@
 			{{ .year }}
 		</span>
 	{{ end }}
-	{{ if isset . "lastUsed" }}
-		<a href="../race/{{ .lastUsed }}">
-			<i class="fa fa-chart-bar"></i>
-			{{ .lastUsed }}
-		</a>
-	{{ end }}
-    </p>
+    {{ $car := . }}
+    {{ range where $.Site.RegularPages "Section" "race" }}
+        {{ if strings.Contains .Params.car $car.name }}
+            Last Used,
+            <a href="../race/{{ .File.BaseFileName }}">
+                <i class="fa fa-chart-bar"></i>
+                {{ .File.BaseFileName }}
+            </a>
+        {{ end }}
+    {{ end }}
+    </li>
 {{ end }}
+</ul>
