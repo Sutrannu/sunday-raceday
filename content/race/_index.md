@@ -6,4 +6,4 @@ menu:
 
 Sunday Races 
 
-{{< pages-with-tag race >}}
+{{< race_list >}}
