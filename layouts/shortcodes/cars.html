@@ -1,25 +1,57 @@
-<ul style="list-style-type: none">
+<input type="text" id="searchInput" placeholder="Search for cars..." onkeyup="filterCars()" style="width:100%;">
+<ul id="carList" style="list-style-type:none;width:100%">
 {{ range $.Site.Data.cars }}
-    <li>
-	<span style="font-size: 1em" id="{{ replace .name " " "_" | lower }}">
-		<i class="fas fa-exclamation-circle"></i>
-		{{ .name }}</span>
-	{{ if isset . "year" }}
-        <span style="font-family: Consolas, menlo, monospace; font-size: .85em">
-			<i class="fas fa-tools"></i>
-			{{ .year }}
-		</span>
-	{{ end }}
+    {{ $full := printf "%s" .model | printf "%s %s" .manufacturer | printf "%d %s" .year | printf "%s" }}
     {{ $car := . }}
+    {{ $used := false }}
+    {{ $racedate := "1970-01-01" }}
     {{ range where $.Site.RegularPages "Section" "race" }}
-        {{ if strings.Contains .Params.car $car.name }}
-            Last Used,
-            <a href="../race/{{ .File.BaseFileName }}">
-                <i class="fa fa-chart-bar"></i>
-                {{ .File.BaseFileName }}
-            </a>
+        {{ if eq .Params.car_id $car.id }}
+            {{ $used = true }}
+            {{ $racedate = .File.BaseFileName }}
+            {{ break }}
         {{ end }}
     {{ end }}
+    <li id="{{ replace $full " " "_" | lower }}{{ if $used }}_used{{ end }}" class="car">
+        <a style="text-decoration: none; color:inherit;" href="https://www.kudosprime.com/fh5/car_sheet.php?id={{ .id }}">
+            {{ if isset . "year" }}
+                <span style="font-family:Consolas,menlo,monospace;font-size:.85em;">
+                    {{ printf "%d" .year }}
+                </span>
+            {{ else }}
+                <span style="font-family:Consolas,menlo,monospace;font-size:.85em">
+                    &nbsp;&nbsp;&nbsp;&nbsp;
+                </span>
+            {{ end }}
+            <span style="font-size:1em;color:#000;">{{ .manufacturer | safeHTML }}</span>
+            <span style="font-size: 1em">{{ .model | safeHTML }}</span>
+        </a>
+        {{ if $used }}
+        </br> 
+        <span style="font-size:.8em;float:right;">
+            Last Used,
+            <a href="../race/{{ $racedate }}">
+                {{ $racedate }}
+            </a>
+        </span>
+        {{ end }}
     </li>
 {{ end }}
 </ul>
+<script>
+function filterCars() {
+    var input, filter, ul, li, a, i, txtValue;
+    input = document.getElementById('searchInput');
+    filter = input.value.toLowerCase();
+    ul = document.getElementById("carList");
+    li = ul.getElementsByTagName('li');
+    for (i = 0; i < li.length; i++) {
+        txtValue = li[i].id;
+        if (txtValue.toLowerCase().indexOf(filter) > -1) {
+            li[i].style.display = "";
+        } else {
+            li[i].style.display = "none";
+        }
+    }
+}
+</script>

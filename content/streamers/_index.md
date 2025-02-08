@@ -7,4 +7,4 @@ menu:
 
 Streamers who race. Racers who stream. 
 
-{{< pages-with-tag streamer >}}
+{{< streamer_list >}}

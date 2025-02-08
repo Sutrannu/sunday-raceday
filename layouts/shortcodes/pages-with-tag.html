@@ -1,7 +1,0 @@
-<ul>
-  {{ range (where .Site.Pages "Params.tags" "intersect" (slice (.Get 0))).Reverse }}
-    <div class="bg-white mb3 pa4 gray overflow-hidden">
-      <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
-    </div>
-  {{ end }}
-</ul>
