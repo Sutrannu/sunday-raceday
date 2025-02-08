@@ -115,3 +115,7 @@
   transform: rotate(-2deg);
   line-height: .9em;
 }
+li.car:hover {
+  background-color: #DDDDFF !important;
+  color: #000 !important;
+}

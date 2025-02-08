@@ -1,2814 +1,5360 @@
-- lastUsed: null
-  year: 1968
-  name: Abarth 595 '68
-  manufacturer: Abarth
-  model: Abarth 595 esseesse
-  type: Cult Classics
-- lastUsed: null
+- id: 1
+  manufacturer: Acura
+  model: Integra Type-R
   year: 2001
-  name: Acura Integra
+  class: C 596
+  weight: 1197 Kg
+- id: 2
   manufacturer: Acura
-  model: Integra Type R
-  type: Retro Hot Hatch
-- lastUsed: null
+  model: RSX Type-S
   year: 2002
-  name: Acura RSX
-  manufacturer: Acura
-  model: RSX Type S
-  type: Retro Hot Hatch
-- lastUsed: null
-  year: 2017
-  name: Acura NSX '17
+  class: C 585
+  weight: 1279 Kg
+- id: 3
   manufacturer: Acura
   model: NSX
-  type: Modern Supercars
-- lastUsed: "2025-01-19"
   year: 2017
-  name: Alfa Giulia '17
-  manufacturer: Alfa Romeo
-  model: Giulia Quadrifoglio
-  type: Super Saloons
-- lastUsed: null
-  year: 1965
-  name: Alfa Romeo GTA
-  manufacturer: Alfa Romeo
-  model: Giulia Sprint GTA Stradale
-  type: Rare Classics
-- lastUsed: null
-  year: 1965
-  name: Alfa Romeo TZ2
-  manufacturer: Alfa Romeo
-  model: Giulia TZ2
-  type: Classic Racers
-- lastUsed: null
-  year: 1968
-  name: Alfa Romeo 33S
-  manufacturer: Alfa Romeo
-  model: 33 Stradale
-  type: Classic Racers
-- lastUsed: null
-  year: 1973
-  name: Alpine A110 '73
+  class: S1 831
+  weight: 1725 Kg
+- id: 4
   manufacturer: Alpine
-  model: A110 1600S
-  type: Classic Rally
-- lastUsed: null
-  year: 2015
-  name: Alumni Craft C. 10
-  manufacturer: Alumnicraft
-  model: Class 10 Race Car
-  type: Unlimited Buggies
-- lastUsed: null
-  year: 2021
-  name: '#122 AC Class 1'
-  manufacturer: Alumnicraft
-  model: '#122 Class 1 Buggy'
-  type: Unlimited Buggies
-- lastUsed: null
-  year: 2022
-  name: '#6165 Truck'
-  manufacturer: Alumnicraft
-  model: '#6165 Trick Truck'
-  type: Unlimited Offroad
-- lastUsed: null
+  model: A110 1600s
   year: 1973
-  name: AMC Gremlin
+  class: C 550
+  weight: 715 Kg
+- id: 5
+  manufacturer: Alpine
+  model: A110
+  year: 2017
+  class: B 694
+  weight: 1103 Kg
+- id: 6
+  manufacturer: Alumi Craft
+  model: Class 10 Race Car
+  year: 2015
+  class: B 642
+  weight: 998 Kg
+- id: 7
   manufacturer: AMC
   model: Gremlin X
-  type: Cult Classics
-- lastUsed: null
-  year: 2554
-  name: M12S Warthog CST
-  manufacturer: AMG Transport Dynamics
+  year: 1973
+  class: D 403
+  weight: 1288 Kg
+- id: 8
+  manufacturer: AMG TRANSPORT DYNAMICS
   model: M12S Warthog CST
-  type: Unlimited Offroad
-- lastUsed: null
-  year: 2018
-  name: Apollo IE '18
+  year: 2554
+  class: A 719
+  weight: 2300 Kg
+- id: 9
   manufacturer: Apollo
   model: Intensa Emozione
-  type: Extreme Track Toys
-- lastUsed: null
-  year: 2013
-  name: Ariel Atom
+  year: 2018
+  class: S2 963
+  weight: 1250 Kg
+- id: 10
+  manufacturer: Apollo
+  model: 'Intensa Emozione "Welcome Pack"'
+  year: 2018
+  class: S2 998
+  weight: 1250 Kg
+- id: 11
   manufacturer: Ariel
   model: Atom 500 V8
-  type: Extreme Track Toys
-- lastUsed: null
-  year: 2016
-  name: Ariel Nomad
+  year: 2013
+  class: S2 924
+  weight: 650 Kg
+- id: 12
   manufacturer: Ariel
   model: Nomad
-  type: Unlimited Buggies
-- lastUsed: null
-  year: 1958
-  name: AM DBR1
-  manufacturer: Aston Martin
-  model: DBR1
-  type: Classic Racers
-- lastUsed: null
-  year: 1964
-  name: AM DB5
+  year: 2016
+  class: A 711
+  weight: 670 Kg
+- id: 13
   manufacturer: Aston Martin
   model: DB5
-  type: Rare Classics
-- lastUsed: null
-  year: 2010
-  name: AM One-77
-  manufacturer: Aston Martin
-  model: One-77
-  type: Super GT
-- lastUsed: null
-  year: 2013
-  name: Vantage S '13
+  year: 1964
+  class: C 548
+  weight: 1465 Kg
+- id: 14
   manufacturer: Aston Martin
   model: V12 Vantage S
-  type: Super GT
-- lastUsed: null
-  year: 2017
-  name: AM DB11
+  year: 2013
+  class: A 796
+  weight: 1665 Kg
+- id: 15
+  manufacturer: Aston Martin
+  model: Vantage GT12
+  year: 2015
+  class: S1 829
+  weight: 1565 Kg
+- id: 16
   manufacturer: Aston Martin
   model: DB11
-  type: Super GT
-- lastUsed: null
   year: 2017
-  name: AM Vulcan AMR
+  class: A 787
+  weight: 1875 Kg
+- id: 17
   manufacturer: Aston Martin
   model: Vulcan AMR Pro
-  type: Extreme Track Toys
-- lastUsed: null
-  year: 2019
-  name: AM DBS SL '19
-  manufacturer: Aston Martin
-  model: DBS Superleggera
-  type: Super GT
-- lastUsed: null
-  year: 2019
-  name: Valhalla Concept
-  manufacturer: Aston Martin
-  model: Valhalla Concept Car
-  type: Hypercars
-- lastUsed: null
-  year: 2019
-  name: AM Vantage '19
+  year: 2017
+  class: S2 953
+  weight: 1360 Kg
+- id: 18
   manufacturer: Aston Martin
   model: Vantage
-  type: GT Cars
-- lastUsed: null
-  year: 1983
-  name: Audi quattro
+  year: 2019
+  class: S1 801
+  weight: 1586 Kg
+- id: 19
+  manufacturer: Aston Martin
+  model: DBS Superleggera
+  year: 2019
+  class: S1 835
+  weight: 1799 Kg
+- id: 20
+  manufacturer: Aston Martin
+  model: Valhalla Concept Car
+  year: 2019
+  class: S2 959
+  weight: 1405 Kg
+- id: 21
   manufacturer: Audi
   model: Sport quattro
-  type: Retro Rally
-- lastUsed: null
-  year: 1995
-  name: Audi RS2 '95
+  year: 1983
+  class: B 638
+  weight: 1273 Kg
+- id: 22
   manufacturer: Audi
   model: Avant RS2
-  type: Retro Saloons
-- lastUsed: null
-  year: 2001
-  name: Audi RS 4 '01
+  year: 1995
+  class: B 601
+  weight: 1595 Kg
+- id: 23
   manufacturer: Audi
   model: RS 4 Avant
-  type: Retro Saloons
-- lastUsed: null
-  year: 2003
-  name: Audi RS 6 '03
+  year: 2001
+  class: B 663
+  weight: 1620 Kg
+- id: 24
   manufacturer: Audi
   model: RS 6
-  type: Retro Saloons
-- lastUsed: null
-  year: 2006
-  name: Audi RS 4 '06
+  year: 2003
+  class: B 677
+  weight: 1825 Kg
+- id: 25
   manufacturer: Audi
   model: RS 4
-  type: Super Saloons
-- lastUsed: null
-  year: 2010
-  name: Audi TT RS
+  year: 2006
+  class: A 710
+  weight: 1650 Kg
+- id: 26
+  manufacturer: Audi
+  model: RS 6
+  year: 2009
+  class: A 722
+  weight: 1985 Kg
+- id: 27
   manufacturer: Audi
   model: TT RS Coupé
-  type: Modern Sports Cars
-- lastUsed: null
-  year: 2011
-  name: Audi RS 3
+  year: 2010
+  class: A 707
+  weight: 1494 Kg
+- id: 28
   manufacturer: Audi
   model: RS 3 Sportback
-  type: Super Hot Hatch
-- lastUsed: null
   year: 2011
-  name: Audi RS 5
+  class: B 682
+  weight: 1575 Kg
+- id: 29
   manufacturer: Audi
   model: RS 5 Coupé
-  type: Super Saloons
-- lastUsed: null
-  year: 2013
-  name: Audi RS 4 '13
+  year: 2011
+  class: A 733
+  weight: 1737 Kg
+- id: 30
   manufacturer: Audi
   model: RS 4 Avant
-  type: Super Saloons
-- lastUsed: null
   year: 2013
-  name: Audi RS 7
+  class: A 728
+  weight: 1795 Kg
+- id: 31
   manufacturer: Audi
   model: RS 7 Sportback
-  type: Super Saloons
-- lastUsed: null
-  year: 2015
-  name: Audi RS 6 '15
+  year: 2013
+  class: A 739
+  weight: 1955 Kg
+- id: 32
+  manufacturer: Audi
+  model: R8 Coupé V10 plus 5.2 FSI quattro
+  year: 2013
+  class: S1 802
+  weight: 1670 Kg
+- id: 33
   manufacturer: Audi
   model: RS 6 Avant
-  type: Super Saloons
-- lastUsed: null
   year: 2015
-  name: Audi S1
-  manufacturer: Audi
-  model: S1
-  type: Hot Hatch
-- lastUsed: null
-  year: 2015
-  name: Audi TTS
+  class: A 754
+  weight: 1935 Kg
+- id: 34
   manufacturer: Audi
   model: TTS Coupé
-  type: Modern Sports Cars
-- lastUsed: null
-  year: 2016
-  name: Audi R8 V10 plus
+  year: 2015
+  class: A 724
+  weight: 1385 Kg
+- id: 35
+  manufacturer: Audi
+  model: S1
+  year: 2015
+  class: B 644
+  weight: 1315 Kg
+- id: 36
   manufacturer: Audi
   model: R8 V10 plus
-  type: Modern Supercars
-- lastUsed: null
-  year: 2020
-  name: Audi RS 3 '20
-  manufacturer: Audi
-  model: RS 3 Sedan
-  type: Super Saloons
-- lastUsed: null
-  year: 1958
-  name: Sprite MkI
+  year: 2016
+  class: S1 834
+  weight: 1555 Kg
+- id: 37
   manufacturer: Austin-Healey
   model: Sprite MkI
-  type: Classic Sports Cars
-- lastUsed: null
-  year: 1939
-  name: AutoUnion Type D
+  year: 1958
+  class: D 131
+  weight: 664 Kg
+- id: 38
   manufacturer: Auto Union
   model: Type D
-  type: Vintage Racers
-- lastUsed: null
-  year: 2016
-  name: Bentley Bentayga
-  manufacturer: Bentley
-  model: Bentayga
-  type: Sports Utility Heroes
-- lastUsed: null
-  year: 1930
-  name: Bentley 8 Litre
-  manufacturer: Bentley
-  model: 8 Litre
-  type: Rare Classics
-- lastUsed: null
-  year: 1930
-  name: Bentley Blower
+  year: 1939
+  class: B 675
+  weight: 1277 Kg
+- id: 39
+  manufacturer: BAC
+  model: Mono
+  year: 2014
+  class: S1 868
+  weight: 614 Kg
+- id: 40
   manufacturer: Bentley
   model: Blower 4-1/2 Litre Supercharged
-  type: Vintage Racers
-- lastUsed: null
-  year: 2017
-  name: Bentley Cont '17
+  year: 1930
+  class: D 207
+  weight: 1994 Kg
+- id: 41
+  manufacturer: Bentley
+  model: 8 Litre
+  year: 1930
+  class: D 181
+  weight: 2540 Kg
+- id: 42
+  manufacturer: Bentley
+  model: Bentayga
+  year: 2016
+  class: A 727
+  weight: 2422 Kg
+- id: 43
   manufacturer: Bentley
   model: Continental Supersports
-  type: GT Cars
-- lastUsed: null
-  year: 1957
-  name: BMW Isetta
+  year: 2017
+  class: A 769
+  weight: 2281 Kg
+- id: 44
   manufacturer: BMW
   model: Isetta 300 Export
-  type: Cult Classics
-- lastUsed: null
-  year: 1981
-  name: BMW M1
+  year: 1957
+  class: D 100
+  weight: 417 Kg
+- id: 45
   manufacturer: BMW
   model: M1
-  type: Retro Supercars
-- lastUsed: null
+  year: 1981
+  class: B 629
+  weight: 1300 Kg
+- id: 46
+  manufacturer: BMW
+  model: M5
   year: 1988
-  name: BMW M5 '88
+  class: C 583
+  weight: 1465 Kg
+- id: 47
   manufacturer: BMW
-  model: M5
-  type: Retro Saloons
-- lastUsed: null
+  model: M3
   year: 1991
-  name: BMW M3 '91
-  manufacturer: BMW
-  model: M3
-  type: Retro Saloons
-- lastUsed: null
-  year: 1995
-  name: BMW M5 '95
+  class: C 583
+  weight: 1253 Kg
+- id: 48
   manufacturer: BMW
   model: M5
-  type: Retro Saloons
-- lastUsed: null
-  year: 1997
-  name: BMW M3 '97
+  year: 1995
+  class: B 634
+  weight: 1711 Kg
+- id: 49
   manufacturer: BMW
   model: M3
-  type: Retro Saloons
-- lastUsed: null
-  year: 2002
-  name: BMW M3-GTR
+  year: 1997
+  class: B 665
+  weight: 1460 Kg
+- id: 50
   manufacturer: BMW
   model: M3-GTR
-  type: Track Toys
-- lastUsed: null
   year: 2002
-  name: BMW Z3
+  class: A 747
+  weight: 1404 Kg
+- id: 51
   manufacturer: BMW
   model: Z3 M Coupe
-  type: Retro Sports Cars
-- lastUsed: null
-  year: 2003
-  name: BMW M5 '03
+  year: 2002
+  class: B 675
+  weight: 1438 Kg
+- id: 52
   manufacturer: BMW
   model: M5
-  type: Retro Saloons
-- lastUsed: null
+  year: 2003
+  class: B 694
+  weight: 1769 Kg
+- id: 53
+  manufacturer: BMW
+  model: M3
   year: 2005
-  name: BMW M3 '05
+  class: B 675
+  weight: 1549 Kg
+- id: 54
   manufacturer: BMW
   model: M3
-  type: Retro Saloons
-- lastUsed: null
   year: 2008
-  name: BMW M3 '08
-  manufacturer: BMW
-  model: M3
-  type: Super Saloons
-- lastUsed: null
-  year: 2008
-  name: BMW Z4 '08
+  class: A 725
+  weight: 1655 Kg
+- id: 55
   manufacturer: BMW
   model: Z4 M Coupe
-  type: Modern Sports Cars
-- lastUsed: null
-  year: 2009
-  name: BMW M5 '09
+  year: 2008
+  class: B 694
+  weight: 1495 Kg
+- id: 56
   manufacturer: BMW
   model: M5
-  type: Super Saloons
-- lastUsed: null
-  year: 2011
-  name: BMW 1M
+  year: 2009
+  class: A 719
+  weight: 1820 Kg
+- id: 57
   manufacturer: BMW
   model: 1 Series M Coupe
-  type: Super Saloons
-- lastUsed: null
   year: 2011
-  name: BMW X5 M
+  class: A 712
+  weight: 1495 Kg
+- id: 58
   manufacturer: BMW
   model: X5 M
-  type: Sports Utility Heroes
-- lastUsed: null
-  year: 2012
-  name: BMW M5 '12
+  year: 2011
+  class: B 666
+  weight: 2435 Kg
+- id: 59
   manufacturer: BMW
   model: M5
-  type: Super Saloons
-- lastUsed: null
-  year: 2013
-  name: BMW M6 '13
+  year: 2012
+  class: A 766
+  weight: 1870 Kg
+- id: 60
   manufacturer: BMW
   model: M6 Coupe
-  type: GT Cars
-- lastUsed: null
-  year: 2014
-  name: BMW M4 '14
+  year: 2013
+  class: A 758
+  weight: 1930 Kg
+- id: 61
   manufacturer: BMW
   model: M4 Coupe
-  type: Super Saloons
-- lastUsed: null
-  year: 2015
-  name: BMW i8
+  year: 2014
+  class: A 782
+  weight: 1537 Kg
+- id: 62
   manufacturer: BMW
   model: i8
-  type: Modern Supercars
-- lastUsed: null
-  year: 2016
-  name: BMW M2
+  year: 2015
+  class: A 764
+  weight: 1533 Kg
+- id: 63
+  manufacturer: BMW
+  model: X6 M
+  year: 2015
+  class: B 687
+  weight: 2352 Kg
+- id: 64
   manufacturer: BMW
   model: M2 Coupé
-  type: Super Saloons
-- lastUsed: null
-  year: 2018
-  name: BMW M5 '18
+  year: 2016
+  class: A 718
+  weight: 1565 Kg
+- id: 65
+  manufacturer: BMW
+  model: M4 GTS
+  year: 2016
+  class: S1 814
+  weight: 1510 Kg
+- id: 66
   manufacturer: BMW
   model: M5
-  type: Super Saloons
-- lastUsed: null
-  year: 2019
-  name: BMW Z4 '19
+  year: 2018
+  class: A 784
+  weight: 1982 Kg
+- id: 67
   manufacturer: BMW
   model: Z4 Roadster
-  type: Modern Sports Cars
-- lastUsed: null
-  year: 1926
-  name: Bugatti T35 C
+  year: 2019
+  class: A 751
+  weight: 1475 Kg
+- id: 68
   manufacturer: Bugatti
   model: Type 35 C
-  type: Vintage Racers
-- lastUsed: null
   year: 1926
-  name: Bugatti T35 C
-  manufacturer: Bugatti
-  model: Type 35 C
-  type: null
-- lastUsed: null
-  year: 1992
-  name: Bugatti EB110
+  class: D 285
+  weight: 760 Kg
+- id: 69
   manufacturer: Bugatti
   model: EB110 Super Sport
-  type: Retro Supercars
-- lastUsed: null
-  year: 2011
-  name: Bugatti Veyron
+  year: 1992
+  class: S1 805
+  weight: 1418 Kg
+- id: 70
   manufacturer: Bugatti
   model: Veyron Super Sport
-  type: Hypercars
-- lastUsed: null
-  year: 2018
-  name: Bugatti Chiron
+  year: 2011
+  class: S2 913
+  weight: 1834 Kg
+- id: 71
   manufacturer: Bugatti
   model: Chiron
-  type: Hypercars
-- lastUsed: null
-  year: 2019
-  name: Bugatti Divo
+  year: 2018
+  class: S2 927
+  weight: 1995 Kg
+- id: 72
   manufacturer: Bugatti
   model: Divo
-  type: Extreme Track Toys
-- lastUsed: null
-  year: 1970
-  name: Buick GSX
+  year: 2019
+  class: S2 958
+  weight: 1960 Kg
+- id: 73
   manufacturer: Buick
   model: GSX
-  type: Classic Muscle
-- lastUsed: null
-  year: 1987
-  name: Buick Regal GNX
+  year: 1970
+  class: C 558
+  weight: 1757 Kg
+- id: 74
   manufacturer: Buick
   model: Regal GNX
-  type: Retro Muscle
-- lastUsed: null
-  year: 2016
-  name: Caddy ATS-V
+  year: 1987
+  class: C 564
+  weight: 1608 Kg
+- id: 75
   manufacturer: Cadillac
   model: ATS-V
-  type: Modern Muscle
-- lastUsed: null
   year: 2016
-  name: Caddy CTS-V '16
+  class: A 716
+  weight: 1678 Kg
+- id: 76
   manufacturer: Cadillac
   model: CTS-V Sedan
-  type: Modern Muscle
-- lastUsed: null
-  year: 2018
-  name: Can-Am Maverick
+  year: 2016
+  class: A 761
+  weight: 1872 Kg
+- id: 77
   manufacturer: Can-Am
   model: Maverick X RS Turbo R
-  type: UTVs
-- lastUsed: null
-  year: 2013
-  name: Caterham R500
+  year: 2018
+  class: B 670
+  weight: 751 Kg
+- id: 78
   manufacturer: Caterham
   model: Superlight R500
-  type: Track Toys
-- lastUsed: null
-  year: 1955
-  name: Chevy 150 Sedan
+  year: 2013
+  class: A 786
+  weight: 506 Kg
+- id: 79
   manufacturer: Chevrolet
   model: 150 Utility Sedan
-  type: Rods & Customs
-- lastUsed: null
-  year: 1957
-  name: Chevy Bel Air
+  year: 1955
+  class: D 360
+  weight: 1501 Kg
+- id: 80
   manufacturer: Chevrolet
   model: Bel Air
-  type: Rods & Customs
-- lastUsed: null
-  year: 1964
-  name: Chevy Impala
+  year: 1957
+  class: D 432
+  weight: 1514 Kg
+- id: 81
+  manufacturer: Chevrolet
+  model: Corvette
+  year: 1960
+  class: C 541
+  weight: 1397 Kg
+- id: 82
   manufacturer: Chevrolet
   model: Impala Super Sport 409
-  type: Rods & Customs
-- lastUsed: null
-  year: 1967
-  name: Corvette '67
+  year: 1964
+  class: C 544
+  weight: 1759 Kg
+- id: 83
   manufacturer: Chevrolet
   model: Corvette Stingray 427
-  type: Classic Muscle
-- lastUsed: null
-  year: 1969
-  name: Chevy Camaro '69
+  year: 1967
+  class: B 623
+  weight: 1535 Kg
+- id: 84
   manufacturer: Chevrolet
   model: Camaro Super Sport Coupe
-  type: Classic Muscle
-- lastUsed: null
   year: 1969
-  name: Chevy Nova '69
+  class: C 585
+  weight: 1600 Kg
+- id: 85
   manufacturer: Chevrolet
   model: Nova Super Sport 396
-  type: Classic Muscle
-- lastUsed: null
-  year: 1970
-  name: Chevy Camaro '70
-  manufacturer: Chevrolet
-  model: Camaro Z28
-  type: Classic Muscle
-- lastUsed: null
-  year: 1970
-  name: Chevelle '70
+  year: 1969
+  class: C 545
+  weight: 1574 Kg
+- id: 86
   manufacturer: Chevrolet
   model: Chevelle Super Sport 454
-  type: Classic Muscle
-- lastUsed: null
   year: 1970
-  name: Chevy El Camino
-  manufacturer: Chevrolet
-  model: El Camino Super Sport 454
-  type: Vans & Utility
-- lastUsed: null
-  year: 1979
-  name: Chevy Camaro '79
-  manufacturer: Chevrolet
-  model: Camaro Z28
-  type: Classic Muscle
-- lastUsed: null
-  year: 1988
-  name: Chevy MonteCarlo
-  manufacturer: Chevrolet
-  model: Monte Carlo Super Sport
-  type: Retro Muscle
-- lastUsed: null
-  year: 1995
-  name: Corvette '95
+  class: C 531
+  weight: 1723 Kg
+- id: 87
   manufacturer: Chevrolet
   model: Corvette ZR-1
-  type: Retro Muscle
-- lastUsed: null
-  year: 1996
-  name: Chevy Impala '96
+  year: 1970
+  class: B 610
+  weight: 1530 Kg
+- id: 88
+  manufacturer: Chevrolet
+  model: El Camino Super Sport 454
+  year: 1970
+  class: C 544
+  weight: 1733 Kg
+- id: 89
+  manufacturer: Chevrolet
+  model: Camaro Z28
+  year: 1970
+  class: C 539
+  weight: 1610 Kg
+- id: 90
+  manufacturer: Chevrolet
+  model: Camaro Z28
+  year: 1979
+  class: D 466
+  weight: 1615 Kg
+- id: 91
+  manufacturer: Chevrolet
+  model: Monte Carlo Super Sport
+  year: 1988
+  class: D 396
+  weight: 1598 Kg
+- id: 92
+  manufacturer: Chevrolet
+  model: Corvette ZR-1
+  year: 1995
+  class: B 693
+  weight: 1590 Kg
+- id: 93
   manufacturer: Chevrolet
   model: Impala Super Sport
-  type: Retro Muscle
-- lastUsed: null
-  year: 2002
-  name: Corvette '02
+  year: 1996
+  class: C 509
+  weight: 1831 Kg
+- id: 94
   manufacturer: Chevrolet
   model: Corvette Z06
-  type: Retro Muscle
-- lastUsed: null
-  year: 2009
-  name: Corvette '09
+  year: 2002
+  class: A 722
+  weight: 1415 Kg
+- id: 95
   manufacturer: Chevrolet
   model: Corvette ZR1
-  type: Modern Muscle
-- lastUsed: null
-  year: 2015
-  name: Chevy Camaro '15
-  manufacturer: Chevrolet
-  model: Camaro Z/28
-  type: Track Toys
-- lastUsed: null
-  year: 2015
-  name: Corvette '15
+  year: 2009
+  class: S1 809
+  weight: 1520 Kg
+- id: 96
   manufacturer: Chevrolet
   model: Corvette Z06
-  type: Modern Muscle
-- lastUsed: null
-  year: 2017
-  name: Chevy Camaro '17
+  year: 2015
+  class: S1 852
+  weight: 1604 Kg
+- id: 97
+  manufacturer: Chevrolet
+  model: Camaro Z/28
+  year: 2015
+  class: A 797
+  weight: 1740 Kg
+- id: 98
   manufacturer: Chevrolet
   model: Camaro ZL1
-  type: Modern Muscle
-- lastUsed: null
   year: 2017
-  name: Chevrolet ZR2
+  class: S1 821
+  weight: 1761 Kg
+- id: 99
   manufacturer: Chevrolet
   model: Colorado ZR2
-  type: Pickups & 4x4s
-- lastUsed: null
-  year: 2018
-  name: Chevy Camaro '18
+  year: 2017
+  class: C 530
+  weight: 2147 Kg
+- id: 100
   manufacturer: Chevrolet
   model: Camaro ZL1 1LE
-  type: Track Toys
-- lastUsed: null
-  year: 2020
-  name: Corvette C8 '20
-  manufacturer: Chevrolet
-  model: Corvette Stingray Coupé
-  type: Modern Supercars
-- lastUsed: null
-  year: 2024
-  name: Corvette E-Ray
-  manufacturer: Chevrolet
-  model: Corvette E-Ray
-  type: Modern Supercars
-- lastUsed: null
-  year: 2021
-  name: Formentor '22
-  manufacturer: CUPRA
-  model: Formentor VZ5
-  type: Sports Utility Heroes
-- lastUsed: null
-  year: 2022
-  name: Tavascan '22
-  manufacturer: CUPRA
-  model: Tavascan Concept
-  type: Sports Utility Heroes
-- lastUsed: null
-  year: 2022
-  name: UrbanRebel '22
-  manufacturer: CUPRA
-  model: UrbanRebel Concept
-  type: Track Toys
-- lastUsed: null
   year: 2018
-  name: Silverado DD
-  manufacturer: DeBerti
-  model: Chevrolet Silverado 1500 Drift Truck
-  type: Drift Cars
-- lastUsed: null
-  year: 2018
-  name: Deberti F-150
-  manufacturer: DeBerti
-  model: F-150 Prerunner
-  type: Unlimited Offroad
-- lastUsed: null
+  class: S1 824
+  weight: 1740 Kg
+- id: 101
+  manufacturer: Chevrolet
+  model: Corvette ZR1
   year: 2019
-  name: DD Tacoma TRD
-  manufacturer: DeBerti
-  model: Toyota Tacoma TRD "The Performance Truck"
-  type: Drift Cars
-- lastUsed: null
-  year: 1969
-  name: Dodge Charger '69
+  class: S1 871
+  weight: 1615 Kg
+- id: 102
+  manufacturer: Chevrolet
+  model: Corvette Stingray Coupe
+  year: 2020
+  class: S1 806
+  weight: 1622 Kg
+- id: 103
+  manufacturer: Datsun
+  model: "510"
+  year: 1970
+  class: D 264
+  weight: 965 Kg
+- id: 104
+  manufacturer: Deberti
+  model: Wrangler Unlimited
+  year: 2013
+  class: A 749
+  weight: 2109 Kg
+- id: 105
+  manufacturer: Deberti
+  model: Chevrolet Silverado 1500 Drift Truck
+  year: 2018
+  class: A 798
+  weight: 1588 Kg
+- id: 106
+  manufacturer: Deberti
+  model: Ford F-150 Prerunner
+  year: 2018
+  class: B 691
+  weight: 3175 Kg
+- id: 107
+  manufacturer: Deberti
+  model: 'Toyota Tacoma TRD "The Performance Truck"'
+  year: 2019
+  class: S1 836
+- id: 108
   manufacturer: Dodge
   model: Charger R/T
-  type: Classic Muscle
-- lastUsed: null
-  year: 1970
-  name: Challenger '70
+  year: 1969
+  class: C 548
+  weight: 1665 Kg
+- id: 109
+  manufacturer: Dodge
+  model: Charger Daytona HEMI
+  year: 1969
+  class: C 595
+  weight: 1758 Kg
+- id: 110
   manufacturer: Dodge
   model: Challenger R/T
-  type: Classic Muscle
-- lastUsed: null
-  year: 2008
-  name: Dodge Viper '08
+  year: 1970
+  class: C 551
+  weight: 1724 Kg
+- id: 111
   manufacturer: Dodge
   model: Viper SRT10 ACR
-  type: Track Toys
-- lastUsed: null
-  year: 2013
-  name: Dodge Viper '13
+  year: 2008
+  class: S1 844
+  weight: 1546 Kg
+- id: 112
   manufacturer: Dodge
   model: SRT Viper GTS
-  type: Modern Muscle
-- lastUsed: null
-  year: 2015
-  name: Challenger '15
+  year: 2013
+  class: S1 813
+  weight: 1495 Kg
+- id: 113
   manufacturer: Dodge
   model: Challenger SRT Hellcat
-  type: Modern Muscle
-- lastUsed: null
   year: 2015
-  name: Dodge Charger 15
+  class: A 755
+  weight: 2013 Kg
+- id: 114
   manufacturer: Dodge
   model: Charger SRT Hellcat
-  type: Modern Muscle
-- lastUsed: null
-  year: 2016
-  name: Dodge Viper '16
+  year: 2015
+  class: A 762
+  weight: 2075 Kg
+- id: 115
   manufacturer: Dodge
   model: Viper ACR
-  type: Track Toys
-- lastUsed: null
-  year: 2018
-  name: Dodge SRT Demon
-  manufacturer: Dodge
-  model: Challenger SRT Demon
-  type: Modern Muscle
-- lastUsed: null
-  year: 2018
-  name: Dodge Durango
+  year: 2016
+  class: S1 873
+  weight: 1528 Kg
+- id: 116
   manufacturer: Dodge
   model: Durango SRT
-  type: Sports Utility Heroes
-- lastUsed: null
   year: 2018
-  name: Exocet Off-Road
+  class: B 666
+  weight: 2499 Kg
+- id: 117
+  manufacturer: Dodge
+  model: Challenger SRT Demon
+  year: 2018
+  class: A 786
+  weight: 1927 Kg
+- id: 118
   manufacturer: Exomotive
   model: Exocet Off-Road
-  type: Unlimited Buggies
-- lastUsed: null
-  year: 1957
-  name: Ferrari 250 Cali
-  manufacturer: Ferrari
-  model: 250 California
-  type: Rare Classics
-- lastUsed: null
-  year: 1957
-  name: Ferrari 250 TR
+  year: 2018
+  class: B 682
+  weight: 713 Kg
+- id: 119
   manufacturer: Ferrari
   model: 250 Testa Rossa
-  type: Classic Racers
-- lastUsed: null
-  year: 1962
-  name: Ferrari 250 GT
+  year: 1957
+  class: B 691
+  weight: 920 Kg
+- id: 120
   manufacturer: Ferrari
-  model: 250 GT Berlinetta Lusso
-  type: Rare Classics
-- lastUsed: null
-  year: 1967
-  name: '#24 Ferrari P4'
+  model: 250 California
+  year: 1957
+  class: C 564
+  weight: 1050 Kg
+- id: 121
   manufacturer: Ferrari
   model: '#24 Ferrari Spa 330 P4'
-  type: Classic Racers
-- lastUsed: null
-  year: 1968
-  name: Ferrari 365 GTB4
+  year: 1967
+  class: A 780
+  weight: 1030 Kg
+- id: 122
   manufacturer: Ferrari
   model: 365 GTB/4
-  type: Rare Classics
-- lastUsed: null
-  year: 1970
-  name: Ferrari 512 S
+  year: 1968
+  class: B 637
+  weight: 1633 Kg
+- id: 123
   manufacturer: Ferrari
-  model: 512 S
-  type: Classic Racers
-- lastUsed: null
-  year: 1984
-  name: Ferrari 288 GTO
+  model: Dino 246 GT
+  year: 1969
+  class: C 535
+  weight: 1080 Kg
+- id: 124
   manufacturer: Ferrari
   model: 288 GTO
-  type: Retro Supercars
-- lastUsed: null
-  year: 1987
-  name: Ferrari F40
+  year: 1984
+  class: A 750
+  weight: 1280 Kg
+- id: 125
   manufacturer: Ferrari
   model: F40
-  type: Retro Supercars
-- lastUsed: null
-  year: 1994
-  name: Ferrari F355
+  year: 1987
+  class: A 784
+  weight: 1352 Kg
+- id: 126
   manufacturer: Ferrari
   model: F355 Berlinetta
-  type: Retro Supercars
-- lastUsed: null
-  year: 1995
-  name: Ferrari F50
+  year: 1994
+  class: A 717
+  weight: 1450 Kg
+- id: 127
   manufacturer: Ferrari
   model: F50
-  type: Retro Supercars
-- lastUsed: null
-  year: 1996
-  name: Ferrari F50 GT
+  year: 1995
+  class: A 789
+  weight: 1350 Kg
+- id: 128
   manufacturer: Ferrari
   model: F50 GT
-  type: Extreme Track Toys
-- lastUsed: null
-  year: 2002
-  name: Ferrari Enzo
+  year: 1996
+  class: S2 976
+  weight: 908 Kg
+- id: 129
   manufacturer: Ferrari
   model: Enzo Ferrari
-  type: Retro Supercars
-- lastUsed: null
-  year: 2005
-  name: Ferrari FXX
+  year: 2002
+  class: S1 857
+  weight: 1480 Kg
+- id: 130
+  manufacturer: Ferrari
+  model: 360 Challenge Stradale
+  year: 2003
+  class: A 773
+  weight: 1290 Kg
+- id: 131
   manufacturer: Ferrari
   model: FXX
-  type: Extreme Track Toys
-- lastUsed: null
-  year: 2007
-  name: Ferrari 430 S
+  year: 2005
+  class: S2 956
+  weight: 1239 Kg
+- id: 132
   manufacturer: Ferrari
   model: 430 Scuderia
-  type: Modern Supercars
-- lastUsed: null
-  year: 2009
-  name: Ferrari 458
+  year: 2007
+  class: S1 810
+  weight: 1429 Kg
+- id: 133
   manufacturer: Ferrari
   model: 458 Italia
-  type: Modern Supercars
-- lastUsed: null
-  year: 2010
-  name: Ferrari 599XX
-  manufacturer: Ferrari
-  model: 599XX
-  type: Extreme Track Toys
-- lastUsed: null
-  year: 2012
-  name: Ferrari 599XX E
+  year: 2009
+  class: S1 823
+  weight: 1485 Kg
+- id: 134
   manufacturer: Ferrari
   model: 599XX Evolution
-  type: Extreme Track Toys
-- lastUsed: null
-  year: 2014
-  name: Ferrari FXX K
+  year: 2012
+  class: S2 952
+  weight: 1378 Kg
+- id: 135
+  manufacturer: Ferrari
+  model: LaFerrari
+  year: 2013
+  class: S2 934
+  weight: 1480 Kg
+- id: 136
+  manufacturer: Ferrari
+  model: 458 Speciale
+  year: 2013
+  class: S1 865
+  weight: 1395 Kg
+- id: 137
   manufacturer: Ferrari
   model: FXX K
-  type: Extreme Track Toys
-- lastUsed: null
-  year: 2015
-  name: Ferrari 488 GTB
+  year: 2014
+  class: S2 979
+  weight: 1284 Kg
+- id: 138
   manufacturer: Ferrari
   model: 488 GTB
-  type: Modern Supercars
-- lastUsed: null
   year: 2015
-  name: Ferrari F12tdf
+  class: S1 863
+  weight: 1475 Kg
+- id: 139
   manufacturer: Ferrari
   model: F12tdf
-  type: Super GT
-- lastUsed: null
-  year: 2017
-  name: Ferrari 812
+  year: 2015
+  class: S1 884
+  weight: 1520 Kg
+- id: 140
   manufacturer: Ferrari
   model: 812 Superfast
-  type: Super GT
-- lastUsed: null
-  year: 2018
-  name: Portofino '18
+  year: 2017
+  class: S1 878
+  weight: 1630 Kg
+- id: 141
+  manufacturer: Ferrari
+  model: GTC4Lusso
+  year: 2017
+  class: S1 816
+  weight: 1920 Kg
+- id: 142
   manufacturer: Ferrari
   model: Portofino
-  type: Super GT
-- lastUsed: null
-  year: 2019
-  name: 488 Pista '19
+  year: 2018
+  class: S1 814
+  weight: 1664 Kg
+- id: 143
   manufacturer: Ferrari
   model: 488 Pista
-  type: Track Toys
-- lastUsed: null
-  year: 1980
-  name: Fiat 124 Spider
-  manufacturer: FIAT
-  model: 124 Sport Spider
-  type: Classic Sports Cars
-- lastUsed: null
-  year: 1932
-  name: Ford Coupe '32
+  year: 2019
+  class: S1 889
+  weight: 1385 Kg
+- id: 144
   manufacturer: Ford
   model: De Luxe Five-Window Coupe
-  type: Rods & Customs
-- lastUsed: null
-  year: 1940
-  name: Ford Coupe '40
+  year: 1932
+  class: D 126
+  weight: 1088 Kg
+- id: 145
   manufacturer: Ford
   model: De Luxe Coupe
-  type: Rods & Customs
-- lastUsed: null
-  year: 1959
-  name: Ford Anglia '59
+  year: 1940
+  class: D 130
+  weight: 1347 Kg
+- id: 146
+  manufacturer: Ford
+  model: F-100
+  year: 1956
+  class: D 302
+  weight: 1508 Kg
+- id: 147
   manufacturer: Ford
   model: Anglia 105E
-  type: Cult Classics
-- lastUsed: null
-  year: 1965
-  name: Ford Mustang '65
+  year: 1959
+  class: D 100
+  weight: 760 Kg
+- id: 148
+  manufacturer: Ford
+  model: GT40 Mk I
+  year: 1964
+  class: A 754
+  weight: 1008 Kg
+- id: 149
   manufacturer: Ford
   model: Mustang GT Coupe
-  type: Classic Muscle
-- lastUsed: null
   year: 1965
-  name: Ford Transit Mk1
+  class: D 499
+  weight: 1162 Kg
+- id: 150
   manufacturer: Ford
   model: Transit
-  type: Vans & Utility
-- lastUsed: null
-  year: 1966
-  name: '#2 Ford GT40'
+  year: 1965
+  class: D 100
+  weight: 1600 Kg
+- id: 151
   manufacturer: Ford
-  model: '#2 GT40 MK II'
-  type: Classic Racers
-- lastUsed: null
+  model: '#2 GT40 Mk II'
   year: 1966
-  name: Ford Cortina
+  class: A 771
+  weight: 1217 Kg
+- id: 152
   manufacturer: Ford
   model: Lotus Cortina
-  type: Classic Racers
-- lastUsed: null
-  year: 1969
-  name: Ford Mustang '69
+  year: 1966
+  class: D 389
+  weight: 934 Kg
+- id: 153
+  manufacturer: Ford
+  model: Racing Escort MK1
+  year: 1967
+  class: B 636
+  weight: 960 Kg
+- id: 154
+  manufacturer: Ford
+  model: Mustang GT 2+2 Fastback
+  year: 1968
+  class: D 498
+  weight: 1609 Kg
+- id: 155
   manufacturer: Ford
   model: Mustang Boss 302
-  type: Classic Muscle
-- lastUsed: null
-  year: 1970
-  name: Ford GT70 '70
+  year: 1969
+  class: C 581
+  weight: 1474 Kg
+- id: 156
   manufacturer: Ford
   model: GT70
-  type: Classic Rally
-- lastUsed: null
-  year: 1972
-  name: Ford Falcon '72
+  year: 1970
+  class: B 671
+  weight: 762 Kg
+- id: 157
   manufacturer: Ford
   model: Falcon XA GT-HO
-  type: Classic Muscle
-- lastUsed: null
-  year: 1973
-  name: Ford Capri MkI
+  year: 1972
+  class: B 624
+  weight: 1570 Kg
+- id: 158
   manufacturer: Ford
   model: Capri RS3100
-  type: Classic Sports Cars
-- lastUsed: null
   year: 1973
-  name: Ford Escort '73
+  class: D 497
+  weight: 1050 Kg
+- id: 159
   manufacturer: Ford
   model: Escort RS1600
-  type: Classic Rally
-- lastUsed: null
-  year: 1975
-  name: Ford Bronco
+  year: 1973
+  class: D 476
+  weight: 870 Kg
+- id: 160
   manufacturer: Ford
   model: Bronco
-  type: Pickups & 4x4s
-- lastUsed: null
-  year: 1977
-  name: '#5 Escort ''77'
+  year: 1975
+  class: D 421
+  weight: 1608 Kg
+- id: 161
   manufacturer: Ford
-  model: '#5 Escort RS1800 MKII'
-  type: Classic Rally
-- lastUsed: null
+  model: '#5 Escort RS1800 MkII'
   year: 1977
-  name: Ford Escort '77
+  class: B 662
+  weight: 980 Kg
+- id: 162
   manufacturer: Ford
   model: Escort RS1800
-  type: Classic Rally
-- lastUsed: null
-  year: 1985
-  name: Ford RS200
+  year: 1977
+  class: D 477
+  weight: 901 Kg
+- id: 163
+  manufacturer: Ford
+  model: Fiesta XR2
+  year: 1981
+  class: D 369
+  weight: 840 Kg
+- id: 164
   manufacturer: Ford
   model: RS200 Evolution
-  type: Rally Monsters
-- lastUsed: null
-  year: 1986
-  name: Ford Escort RS
+  year: 1985
+  class: S1 808
+  weight: 1118 Kg
+- id: 165
   manufacturer: Ford
   model: Escort RS Turbo
-  type: Retro Hot Hatch
-- lastUsed: null
   year: 1986
-  name: Ford Mustang SVO
-  manufacturer: Ford
-  model: Mustang SVO
-  type: Retro Muscle
-- lastUsed: null
-  year: 1987
-  name: Ford RS500
+  class: C 516
+  weight: 977 Kg
+- id: 166
   manufacturer: Ford
   model: Sierra Cosworth RS500
-  type: Retro Saloons
-- lastUsed: null
-  year: 1992
-  name: Ford Escort '92
+  year: 1987
+  class: B 604
+  weight: 1240 Kg
+- id: 167
   manufacturer: Ford
   model: Escort RS Cosworth
-  type: Retro Rally
-- lastUsed: null
-  year: 1993
-  name: Ford Mustang '93
+  year: 1992
+  class: C 565
+  weight: 1275 Kg
+- id: 168
   manufacturer: Ford
   model: SVT Cobra R
-  type: Retro Muscle
-- lastUsed: null
-  year: 1994
-  name: Ford Supervan 3
+  year: 1993
+  class: C 539
+  weight: 1417 Kg
+- id: 169
   manufacturer: Ford
   model: Supervan 3
-  type: Track Toys
-- lastUsed: null
-  year: 1999
-  name: Ford Racing Puma
+  year: 1994
+  class: S1 820
+  weight: 890 Kg
+- id: 170
   manufacturer: Ford
   model: Racing Puma
-  type: Retro Rally
-- lastUsed: null
-  year: 2000
-  name: Ford Mustang '00
+  year: 1999
+  class: C 514
+  weight: 1174 Kg
+- id: 171
   manufacturer: Ford
   model: SVT Cobra R
-  type: Retro Muscle
-- lastUsed: null
+  year: 2000
+  class: B 648
+  weight: 1628 Kg
+- id: 172
+  manufacturer: Ford
+  model: Focus RS
   year: 2003
-  name: Ford Focus '03
+  class: C 593
+  weight: 1280 Kg
+- id: 173
+  manufacturer: Ford
+  model: GT
+  year: 2005
+  class: A 786
+  weight: 1538 Kg
+- id: 174
   manufacturer: Ford
   model: Focus RS
-  type: Hot Hatch
-- lastUsed: null
   year: 2009
-  name: Ford Focus '09
-  manufacturer: Ford
-  model: Focus RS
-  type: Super Hot Hatch
-- lastUsed: null
-  year: 2010
-  name: Crown Victoria
+  class: B 660
+  weight: 1468 Kg
+- id: 175
   manufacturer: Ford
   model: Crown Victoria Police Interceptor
-  type: Retro Muscle
-- lastUsed: null
-  year: 2011
-  name: Ford Raptor '11
+  year: 2010
+  class: D 462
+  weight: 1840 Kg
+- id: 176
   manufacturer: Ford
   model: F-150 SVT Raptor
-  type: Pickups & 4x4s
-- lastUsed: null
   year: 2011
-  name: Ford Transit SSV
+  class: C 518
+  weight: 2724 Kg
+- id: 177
   manufacturer: Ford
-  model: Transit Supersportvan
-  type: Vans & Utility
-- lastUsed: null
-  year: 2013
-  name: Ford Mustang '13
+  model: Transit SuperSportVan
+  year: 2011
+  class: D 347
+  weight: 2038 Kg
+- id: 178
   manufacturer: Ford
   model: Shelby GT500
-  type: Modern Muscle
-- lastUsed: null
-  year: 2014
-  name: '#11 Ford F-150'
-  manufacturer: Ford
-  model: '#11 Rockstar F-150 Trophy Truck'
-  type: Unlimited Offroad
-- lastUsed: null
-  year: 2014
-  name: Ford Fiesta '14
+  year: 2013
+  class: A 756
+  weight: 1768 Kg
+- id: 179
   manufacturer: Ford
   model: Fiesta ST
-  type: Hot Hatch
-- lastUsed: null
   year: 2014
-  name: Ford Ute '14
-  manufacturer: Ford
-  model: FPV Limited Edition Pursuit Ute
-  type: Vans & Utility
-- lastUsed: null
-  year: 2014
-  name: Ford Ranger T6
+  class: B 607
+  weight: 1234 Kg
+- id: 180
   manufacturer: Ford
   model: Ranger T6 Rally Raid
-  type: Offroad
-- lastUsed: null
-  year: 2015
-  name: Ford Falcon '15
+  year: 2014
+  class: B 643
+  weight: 1975 Kg
+- id: 181
+  manufacturer: Ford
+  model: '#11 Rockstar F-150 Trophy Truck'
+  year: 2014
+  class: A 731
+  weight: 2835 Kg
+- id: 182
+  manufacturer: Ford
+  model: FPV Limited Edition Pursuit Ute
+  year: 2014
+  class: B 685
+  weight: 1790 Kg
+- id: 183
   manufacturer: Ford
   model: Falcon GT F 351
-  type: Modern Muscle
-- lastUsed: null
-  year: 2016
-  name: Ford Mustang '16
+  year: 2015
+  class: A 718
+  weight: 1828 Kg
+- id: 184
   manufacturer: Ford
   model: Shelby GT350R
-  type: Track Toys
-- lastUsed: null
-  year: 2017
-  name: '#25 Ford Bronco'
-  manufacturer: Ford
-  model: '#25 "Brocky" Ultra4 Bronco RTR'
-  type: Unlimited Offroad
-- lastUsed: null
-  year: 2017
-  name: Ford Raptor '17
-  manufacturer: Ford
-  model: F-150 Raptor
-  type: Pickups & 4x4s
-- lastUsed: null
-  year: 2017
-  name: Ford Focus '17
-  manufacturer: Ford
-  model: Focus RS
-  type: Super Hot Hatch
-- lastUsed: null
-  year: 2017
-  name: Ford GT '17
-  manufacturer: Ford
-  model: GT
-  type: Modern Supercars
-- lastUsed: null
-  year: 2017
-  name: Ford Fiesta RS
+  year: 2016
+  class: S1 815
+  weight: 1660 Kg
+- id: 185
   manufacturer: Ford
   model: M-Sport Fiesta RS
-  type: Rally Monsters
-- lastUsed: null
-  year: 2018
-  name: '#25 RTR Mustang'
+  year: 2017
+  class: S1 808
+  weight: 1270 Kg
+- id: 186
+  manufacturer: Ford
+  model: Focus RS
+  year: 2017
+  class: A 702
+  weight: 1563 Kg
+- id: 187
+  manufacturer: Ford
+  model: GT
+  year: 2017
+  class: S1 863
+  weight: 1521 Kg
+- id: 188
+  manufacturer: Ford
+  model: F-150 Raptor
+  year: 2017
+  class: C 559
+  weight: 2472 Kg
+- id: 189
+  manufacturer: Ford
+  model: '#14 Rahal Letterman Lanigan Racing GRC Fiesta'
+  year: 2017
+  class: S1 860
+  weight: 1246 Kg
+- id: 190
+  manufacturer: Ford
+  model: '#25 &#39;Brocky&#39; Ultra4 Bronco RTR'
+  year: 2017
+  class: A 748
+  weight: 2041 Kg
+- id: 191
   manufacturer: Ford
   model: '#25 Mustang RTR'
-  type: Drift Cars
-- lastUsed: null
   year: 2018
-  name: '#88 RTR Mustang'
-  manufacturer: Ford
-  model: '#88 Mustang RTR'
-  type: Drift Cars
-- lastUsed: null
-  year: 2018
-  name: Ford Mustang '18
+  class: S1 834
+  weight: 1406 Kg
+- id: 192
   manufacturer: Ford
   model: Mustang GT
-  type: Modern Muscle
-- lastUsed: null
   year: 2018
-  name: Ford Mustang S5
+  class: A 756
+  weight: 1681 Kg
+- id: 193
   manufacturer: Ford
   model: Mustang RTR Spec 5
-  type: Modern Muscle
-- lastUsed: null
-  year: 2020
-  name: '#2069 Bronco R'
+  year: 2018
+  class: A 757
+  weight: 1736 Kg
+- id: 194
   manufacturer: Ford
-  model: '#2069 Ford Performance Bronco R'
-  type: Offroad
-- lastUsed: null
-  year: 2020
-  name: Ford GT500 '20
+  model: '#88 Mustang RTR'
+  year: 2018
+  class: S1 834
+  weight: 1406 Kg
+- id: 195
+  manufacturer: Ford
+  model: Ranger Raptor
+  year: 2019
+  class: D 451
+  weight: 2332 Kg
+- id: 196
   manufacturer: Ford
   model: Mustang Shelby GT500
-  type: Modern Muscle
-- lastUsed: null
   year: 2020
-  name: Ford SD F-450
+  class: S1 836
+  weight: 1892 Kg
+- id: 197
   manufacturer: Ford
-  model: Super Duty F-450 DRW Platinum
-  type: Pickups & 4x4s
-- lastUsed: null
-  year: 2021
-  name: Ford Bronco '21
+  model: '#2069 Ford Performance Bronco R'
+  year: 2020
+  class: C 544
+  weight: 2030 Kg
+- id: 198
+  manufacturer: Ford
+  model: '#2069 Ford Bronco R "Welcome Pack"'
+  year: 2020
+  class: A 800
+- id: 199
+  manufacturer: Ford
+  model: Super Duty F-450 DRW PLATINUM
+  year: 2020
+  class: D 466
+  weight: 3895 Kg
+- id: 200
   manufacturer: Ford
   model: Bronco
-  type: Pickups & 4x4s
-- lastUsed: null
-  year: 1989
-  name: '#98 BMW 325i'
+  year: 2021
+  class: C 560
+  weight: 2182 Kg
+- id: 201
   manufacturer: Formula Drift
   model: '#98 BMW 325i'
-  type: Drift Cars
-- lastUsed: null
-  year: 1997
-  name: '#777 Nissan 240'
+  year: 1989
+  class: S1 813
+  weight: 1270 Kg
+- id: 202
   manufacturer: Formula Drift
   model: '#777 Nissan 240SX'
-  type: Drift Cars
-- lastUsed: null
-  year: 2006
-  name: '#43 Dodge Viper'
+  year: 1997
+  class: S1 826
+  weight: 1406 Kg
+- id: 203
   manufacturer: Formula Drift
   model: '#43 Dodge Viper SRT10'
-  type: Drift Cars
-- lastUsed: null
-  year: 2007
-  name: Formula D 599
+  year: 2006
+  class: S1 826
+  weight: 1315 Kg
+- id: 204
   manufacturer: Formula Drift
   model: '#117 599 GTB Fiorano'
-  type: Drift Cars
-- lastUsed: null
-  year: 2013
-  name: '#777 Corvette'
+  year: 2007
+  class: S1 852
+  weight: 1451 Kg
+- id: 205
   manufacturer: Formula Drift
   model: '#777 Chevrolet Corvette'
-  type: Drift Cars
-- lastUsed: null
-  year: 2015
-  name: '#13 Ford Mustang'
+  year: 2013
+  class: S1 848
+  weight: 1361 Kg
+- id: 206
   manufacturer: Formula Drift
   model: '#13 Ford Mustang'
-  type: Drift Cars
-- lastUsed: null
+  year: 2015
+  class: S1 825
+  weight: 1406 Kg
+- id: 207
+  manufacturer: Formula Drift
+  model: '#530 HSV Maloo GEN-F'
   year: 2016
-  name: '#530 HSV Maloo'
-  manufacturer: Formula Drift
-  model: '#530 HSV Maloo Gen-F'
-  type: Drift Cars
-- lastUsed: null
-  year: 2017
-  name: '#357 Corvette'
-  manufacturer: Formula Drift
-  model: '#357 Chevrolet Corvette Z06'
-  type: Drift Cars
-- lastUsed: null
-  year: 2018
-  name: '#64 Nissan 370Z'
+  class: S1 808
+  weight: 1315 Kg
+- id: 208
   manufacturer: Formula Drift
   model: '#64 Nissan 370Z'
-  type: Drift Cars
-- lastUsed: null
-  year: 1983
-  name: GMC Vandura
+  year: 2018
+  class: S1 843
+  weight: 1300 Kg
+- id: 209
+  manufacturer: Funco Motorsports
+  model: F9
+  year: 2018
+  class: S1 821
+  weight: 1270 Kg
+- id: 210
   manufacturer: GMC
   model: Vandura G-1500
-  type: Vans & Utility
-- lastUsed: null
-  year: 2012
-  name: Venom GT
+  year: 1983
+  class: D 226
+  weight: 2290 Kg
+- id: 211
   manufacturer: Hennessey
   model: Venom GT
-  type: Hypercars
-- lastUsed: null
-  year: 2019
-  name: VelociRaptor '19
+  year: 2012
+  class: S2 911
+  weight: 1218 Kg
+- id: 212
   manufacturer: Hennessey
   model: VelociRaptor 6x6
-  type: Pickups & 4x4s
-- lastUsed: null
-  year: 2021
-  name: Venom F5
-  manufacturer: Hennessey
-  model: Venom F5
-  type: Hypercars
-- lastUsed: null
-  year: 1973
-  name: Holden Monaro
+  year: 2019
+  class: B 634
+  weight: 3038 Kg
+- id: 213
   manufacturer: Holden
   model: HQ Monaro GTS 350
-  type: Classic Muscle
-- lastUsed: null
-  year: 1974
-  name: Holden Sandman
+  year: 1973
+  class: C 525
+  weight: 1429 Kg
+- id: 214
   manufacturer: Holden
-  model: Sandman HQ Panel Van
-  type: Vans & Utility
-- lastUsed: null
-  year: 1977
-  name: Holden Torana
+  model: Sandman HQ panel van
+  year: 1974
+  class: C 501
+  weight: 1488 Kg
+- id: 215
   manufacturer: Holden
   model: Torana A9X
-  type: Classic Muscle
-- lastUsed: null
-  year: 1974
-  name: Honda Civic '74
+  year: 1977
+  class: C 517
+  weight: 1143 Kg
+- id: 216
   manufacturer: Honda
   model: Civic RS
-  type: Retro Hot Hatch
-- lastUsed: null
-  year: 1991
-  name: Honda CR-X
+  year: 1974
+  class: D 368
+  weight: 735 Kg
+- id: 217
   manufacturer: Honda
   model: CR-X SiR
-  type: Retro Hot Hatch
-- lastUsed: null
-  year: 1992
-  name: Honda NSX-R '92
+  year: 1991
+  class: C 534
+  weight: 980 Kg
+- id: 218
   manufacturer: Honda
   model: NSX-R
-  type: Retro Sports Cars
-- lastUsed: null
-  year: 1994
-  name: Honda Prelude 94
+  year: 1992
+  class: B 691
+  weight: 1230 Kg
+- id: 219
   manufacturer: Honda
   model: Prelude Si
-  type: Retro Hot Hatch
-- lastUsed: null
-  year: 1997
-  name: Honda Civic '97
+  year: 1994
+  class: C 521
+  weight: 1302 Kg
+- id: 220
   manufacturer: Honda
   model: Civic Type R
-  type: Retro Hot Hatch
-- lastUsed: null
-  year: 2003
-  name: Honda S2000 '03
+  year: 1997
+  class: C 553
+  weight: 1090 Kg
+- id: 221
   manufacturer: Honda
   model: S2000
-  type: Modern Sports Cars
-- lastUsed: null
-  year: 2004
-  name: Honda Civic '04
+  year: 2003
+  class: B 630
+  weight: 1250 Kg
+- id: 222
   manufacturer: Honda
   model: Civic Type R
-  type: Retro Hot Hatch
-- lastUsed: null
-  year: 2005
-  name: Honda NSX-R '05
+  year: 2004
+  class: C 600
+  weight: 1190 Kg
+- id: 223
   manufacturer: Honda
   model: NSX-R
-  type: Retro Sports Cars
-- lastUsed: null
-  year: 2007
-  name: Honda Civic '07
+  year: 2005
+  class: B 691
+  weight: 1270 Kg
+- id: 224
+  manufacturer: Honda
+  model: NSX-R GT
+  year: 2005
+  class: A 725
+  weight: 1270 Kg
+- id: 225
   manufacturer: Honda
   model: Civic Type R
-  type: Hot Hatch
-- lastUsed: null
-  year: 2009
-  name: Honda S2000 '09
+  year: 2007
+  class: C 574
+  weight: 1345 Kg
+- id: 226
   manufacturer: Honda
   model: S2000 CR
-  type: Modern Sports Cars
-- lastUsed: null
+  year: 2009
+  class: B 635
+  weight: 1276 Kg
+- id: 228
+  manufacturer: Honda
+  model: Civic Coupe
   year: 2016
-  name: Honda Civic '16
+  class: S1 861
+  weight: 1246 Kg
+- id: 229
   manufacturer: Honda
   model: Civic Type R
-  type: Super Hot Hatch
-- lastUsed: null
   year: 2018
-  name: Honda Civic '18
-  manufacturer: Honda
-  model: Civic Type R
-  type: Super Hot Hatch
-- lastUsed: null
-  year: 1955
-  name: Hoonigan Bel Air
+  class: A 727
+  weight: 1414 Kg
+- id: 230
   manufacturer: Hoonigan
   model: Chevrolet Bel Air
-  type: Rods & Customs
-- lastUsed: null
-  year: 1965
-  name: Hoonicorn
+  year: 1955
+  class: B 621
+  weight: 1471 Kg
+- id: 231
   manufacturer: Hoonigan
-  model: Ford "Hoonicorn" Mustang
-  type: Drift Cars
-- lastUsed: null
-  year: 1972
-  name: Hoonigan Nova
+  model: 'Ford "Hoonicorn" Mustang'
+  year: 1965
+  class: S2 951
+- id: 232
+  manufacturer: Hoonigan
+  model: GYMKHANA 10 Ford Hoonicorn Mustang
+  year: 1965
+  class: S2 952
+  weight: 1360 Kg
+- id: 233
   manufacturer: Hoonigan
   model: Chevrolet Napalm Nova
-  type: Classic Muscle
-- lastUsed: null
-  year: 1977
-  name: Hoonigan F-150
+  year: 1972
+  class: A 731
+  weight: 1618 Kg
+- id: 234
   manufacturer: Hoonigan
-  model: Gymkhana 10 Ford F-150 'Hoonitruck'
-  type: Drift Cars
-- lastUsed: null
-  year: 1978
-  name: Hoonigan Escort
+  model: 'GYMKHANA 10 Ford F-150 "Hoonitruck"'
+  year: 1977
+  class: S1 896
+- id: 235
   manufacturer: Hoonigan
   model: Ford Escort RS1800
-  type: Rally Monsters
-- lastUsed: null
-  year: 1986
-  name: Hoonigan RS200
+  year: 1978
+  class: S1 820
+  weight: 837 Kg
+- id: 236
   manufacturer: Hoonigan
   model: Ford RS200 Evolution
-  type: Rally Monsters
-- lastUsed: null
+  year: 1986
+  class: S2 904
+  weight: 1131 Kg
+- id: 237
+  manufacturer: Hoonigan
+  model: Rauh-Welt Begriff Porsche 911 Turbo
   year: 1991
-  name: Hoonigan Group A
+  class: S1 811
+  weight: 1350 Kg
+- id: 238
   manufacturer: Hoonigan
-  model: Gymkhana 10 Ford Escort Cosworth Group A
-  type: Rally Monsters
-- lastUsed: null
+  model: GYMKHANA 10 Ford Escort Cosworth Group A
+  year: 1991
+  class: S1 862
+  weight: 1220 Kg
+- id: 239
+  manufacturer: Hoonigan
+  model: Mazda RX-7 Twerkstallion
+  year: 1992
+  class: A 799
+  weight: 1300 Kg
+- id: 240
+  manufacturer: Hoonigan
+  model: Ford Escort RS Cosworth WRC “Cossie V2”
   year: 1994
-  name: Hoonigan Cossie
+  class: A 783
+  weight: 1280 Kg
+- id: 241
   manufacturer: Hoonigan
-  model: Ford Escort RS Cosworth WRC "Cossie V2"
-  type: Rally Monsters
-- lastUsed: null
-  year: 2011
-  name: Bone Shaker
+  model: GYMKHANA 10 Ford Focus RS RX
+  year: 2016
+  class: S1 864
+  weight: 1130 Kg
+- id: 242
+  manufacturer: Hot Wheels
+  model: Twin Mill
+  year: 1969
+  class: A 798
+  weight: 2130 Kg
+- id: 243
   manufacturer: Hot Wheels
   model: Bone Shaker
-  type: Rods & Customs
-- lastUsed: null
-  year: 2014
-  name: HSV GEN-F GTS
+  year: 2011
+  class: A 790
+  weight: 1000 Kg
+- id: 244
   manufacturer: HSV
   model: GEN-F GTS
-  type: Modern Muscle
-- lastUsed: null
   year: 2014
-  name: HSV Maloo '14
+  class: A 721
+  weight: 1881 Kg
+- id: 245
   manufacturer: HSV
-  model: Limited Edition Gen-F GTS Maloo
-  type: Vans & Utility
-- lastUsed: null
-  year: 2006
-  name: HUMMER H1
+  model: Limited Edition GEN-F GTS Maloo
+  year: 2014
+  class: A 742
+  weight: 1830 Kg
+- id: 246
   manufacturer: HUMMER
   model: H1 Alpha
-  type: Pickups & 4x4s
-- lastUsed: null
-  year: 2019
-  name: Veloster N
+  year: 2006
+  class: D 354
+  weight: 3680 Kg
+- id: 247
   manufacturer: Hyundai
   model: Veloster N
-  type: Super Hot Hatch
-- lastUsed: null
-  year: 2015
-  name: Infiniti Q60
+  year: 2019
+  class: B 645
+  weight: 1409 Kg
+- id: 248
   manufacturer: Infiniti
   model: Q60 Concept
-  type: Super Saloons
-- lastUsed: null
-  year: 1970
-  name: IH Scout 800A
+  year: 2015
+  class: A 735
+  weight: 1656 Kg
+- id: 249
   manufacturer: International
   model: Scout 800A
-  type: Pickups & 4x4s
-- lastUsed: null
-  year: 2018
-  name: ID Zerouno '18
-  manufacturer: Italdesign
-  model: Zerouno
-  type: Hypercars
-- lastUsed: null
-  year: 1953
-  name: Jaguar C-Type
-  manufacturer: Jaguar
-  model: C-Type
-  type: Classic Racers
-- lastUsed: null
-  year: 1956
-  name: Jaguar D-Type
+  year: 1970
+  class: D 384
+  weight: 1640 Kg
+- id: 250
   manufacturer: Jaguar
   model: D-Type
-  type: Classic Racers
-- lastUsed: null
-  year: 1959
-  name: Jaguar Mk II 3.8
+  year: 1956
+  class: B 630
+  weight: 953 Kg
+- id: 251
   manufacturer: Jaguar
   model: Mk II 3.8
-  type: Classic Racers
-- lastUsed: null
-  year: 1961
-  name: Jaguar E-type
+  year: 1959
+  class: D 448
+  weight: 1524 Kg
+- id: 252
   manufacturer: Jaguar
   model: E-type
-  type: Rare Classics
-- lastUsed: null
-  year: 1964
-  name: Jaguar LW E-Type
+  year: 1961
+  class: C 525
+  weight: 1315 Kg
+- id: 253
   manufacturer: Jaguar
   model: Lightweight E-Type
-  type: Classic Racers
-- lastUsed: null
-  year: 2010
-  name: Jaguar C-X75
+  year: 1964
+  class: B 688
+  weight: 1040 Kg
+- id: 254
+  manufacturer: Jaguar
+  model: Sport XJR-15
+  year: 1991
+  class: S1 828
+  weight: 1050 Kg
+- id: 255
+  manufacturer: Jaguar
+  model: XJ220
+  year: 1993
+  class: A 786
+  weight: 1470 Kg
+- id: 256
   manufacturer: Jaguar
   model: C-X75
-  type: Modern Supercars
-- lastUsed: null
-  year: 2012
-  name: Jaguar XKR-S '12
+  year: 2010
+  class: S1 880
+  weight: 1701 Kg
+- id: 257
   manufacturer: Jaguar
   model: XKR-S
-  type: GT Cars
-- lastUsed: null
-  year: 2015
-  name: Jaguar XE-S
+  year: 2012
+  class: A 756
+  weight: 1753 Kg
+- id: 258
   manufacturer: Jaguar
-  model: XE-S
-  type: Super Saloons
-- lastUsed: null
+  model: F-Type R Coupé
   year: 2015
-  name: Jaguar XFR-S
+  class: A 777
+  weight: 1650 Kg
+- id: 259
   manufacturer: Jaguar
   model: XFR-S
-  type: Super Saloons
-- lastUsed: null
-  year: 2017
-  name: Jaguar F-PACE S
+  year: 2015
+  class: A 728
+  weight: 1987 Kg
+- id: 260
+  manufacturer: Jaguar
+  model: XE-S
+  year: 2015
+  class: B 671
+  weight: 1718 Kg
+- id: 261
+  manufacturer: Jaguar
+  model: F-TYPE Project 7
+  year: 2016
+  class: A 786
+  weight: 1620 Kg
+- id: 262
   manufacturer: Jaguar
   model: F-PACE S
-  type: Sports Utility Heroes
-- lastUsed: null
-  year: 2018
-  name: Jaguar I-PACE
+  year: 2017
+  class: B 674
+  weight: 1821 Kg
+- id: 263
   manufacturer: Jaguar
   model: I-PACE
-  type: Sports Utility Heroes
-- lastUsed: null
-  year: 1976
-  name: Jeep CJ5
+  year: 2018
+  class: A 705
+  weight: 2208 Kg
+- id: 264
   manufacturer: Jeep
   model: CJ5 Renegade
-  type: Pickups & 4x4s
-- lastUsed: null
-  year: 2012
-  name: Jeep Wrangler
+  year: 1976
+  class: D 431
+  weight: 1030 Kg
+- id: 265
   manufacturer: Jeep
   model: Wrangler Rubicon
-  type: Pickups & 4x4s
-- lastUsed: null
-  year: 2014
-  name: Cherokee '14
+  year: 2012
+  class: D 463
+  weight: 1874 Kg
+- id: 266
   manufacturer: Jeep
   model: Grand Cherokee SRT
-  type: Sports Utility Heroes
-- lastUsed: null
-  year: 2016
-  name: Jeep Trailcat
+  year: 2014
+  class: B 680
+  weight: 2336 Kg
+- id: 267
   manufacturer: Jeep
   model: Trailcat
-  type: Unlimited Offroad
-- lastUsed: null
-  year: 2018
-  name: Jeep Trackhawk
+  year: 2016
+  class: A 744
+  weight: 2087 Kg
+- id: 268
   manufacturer: Jeep
   model: Grand Cherokee Trackhawk
-  type: Sports Utility Heroes
-- lastUsed: null
-  year: 2020
-  name: Jeep Gladiator
+  year: 2018
+  class: A 749
+  weight: 2427 Kg
+- id: 269
   manufacturer: Jeep
   model: Gladiator Rubicon
-  type: Pickups & 4x4s
-- lastUsed: null
-  year: 2002
-  name: Koenigsegg CC8S
+  year: 2020
+  class: D 456
+  weight: 2301 Kg
+- id: 270
   manufacturer: Koenigsegg
   model: CC8S
-  type: Hypercars
-- lastUsed: null
-  year: 2015
-  name: Koenigsegg One
+  year: 2002
+  class: S1 846
+  weight: 1275 Kg
+- id: 271
+  manufacturer: Koenigsegg
+  model: CCGT
+  year: 2008
+  class: S2 965
+  weight: 1100 Kg
+- id: 272
   manufacturer: Koenigsegg
   model: One:1
-  type: Hypercars
-- lastUsed: null
-  year: 2016
-  name: Regera
+  year: 2015
+  class: S2 983
+  weight: 1360 Kg
+- id: 273
   manufacturer: Koenigsegg
   model: Regera
-  type: Hypercars
-- lastUsed: null
-  year: 2017
-  name: Agera RS
+  year: 2016
+  class: S2 966
+  weight: 1628 Kg
+- id: 274
   manufacturer: Koenigsegg
   model: Agera RS
-  type: Hypercars
-- lastUsed: null
-  year: 2020
-  name: Koenigsegg Jesko
+  year: 2017
+  class: S2 980
+  weight: 1395 Kg
+- id: 275
   manufacturer: Koenigsegg
   model: Jesko
-  type: Hypercars
-- lastUsed: null
-  year: 2013
-  name: KTM X-Bow
+  year: 2020
+  class: S2 971
+  weight: 1420 Kg
+- id: 276
   manufacturer: KTM
   model: X-Bow R
-  type: Track Toys
-- lastUsed: null
-  year: 1967
-  name: Lambo Miura
+  year: 2013
+  class: S1 802
+  weight: 810 Kg
+- id: 277
   manufacturer: Lamborghini
   model: Miura P400
-  type: Rare Classics
-- lastUsed: null
-  year: 1986
-  name: Lambo LM 002
+  year: 1967
+  class: B 625
+  weight: 1245 Kg
+- id: 278
   manufacturer: Lamborghini
   model: LM 002
-  type: Pickups & 4x4s
-- lastUsed: null
-  year: 1988
-  name: Lambo Countach
+  year: 1986
+  class: C 562
+  weight: 2700 Kg
+- id: 279
   manufacturer: Lamborghini
   model: Countach LP5000 QV
-  type: Retro Supercars
-- lastUsed: null
-  year: 1997
-  name: Lambo Diablo SV
+  year: 1988
+  class: A 735
+  weight: 1490 Kg
+- id: 280
   manufacturer: Lamborghini
   model: Diablo SV
-  type: Retro Supercars
-- lastUsed: null
+  year: 1997
+  class: A 763
+  weight: 1576 Kg
+- id: 281
+  manufacturer: Lamborghini
+  model: Diablo GTR
+  year: 1999
+  class: S1 881
+  weight: 1400 Kg
+- id: 282
+  manufacturer: Lamborghini
+  model: Reventón
+  year: 2008
+  class: S1 817
+  weight: 1821 Kg
+- id: 283
+  manufacturer: Lamborghini
+  model: Murciélago LP 670-4 SV
+  year: 2010
+  class: S1 818
+  weight: 1721 Kg
+- id: 284
+  manufacturer: Lamborghini
+  model: Gallardo LP 570-4 Superleggera
   year: 2011
-  name: Lambo Sesto
+  class: S1 814
+  weight: 1496 Kg
+- id: 285
   manufacturer: Lamborghini
   model: Sesto Elemento
-  type: Extreme Track Toys
-- lastUsed: null
-  year: 2012
-  name: Aventador '12
+  year: 2011
+  class: S2 936
+  weight: 999 Kg
+- id: 286
   manufacturer: Lamborghini
   model: Aventador LP700-4
-  type: Hypercars
-- lastUsed: null
-  year: 2013
-  name: Lambo Veneno
+  year: 2012
+  class: S1 847
+  weight: 1731 Kg
+- id: 287
   manufacturer: Lamborghini
   model: Veneno
-  type: Hypercars
-- lastUsed: null
-  year: 2014
-  name: Lambo Huracán
+  year: 2013
+  class: S2 910
+  weight: 1646 Kg
+- id: 288
   manufacturer: Lamborghini
   model: Huracán LP 610-4
-  type: Modern Supercars
-- lastUsed: null
-  year: 2016
-  name: Aventador '16
+  year: 2014
+  class: S1 838
+  weight: 1552 Kg
+- id: 289
   manufacturer: Lamborghini
   model: Aventador Superveloce
-  type: Hypercars
-- lastUsed: "2025-01-26"
   year: 2016
-  name: Lambo Centenario
+  class: S1 872
+  weight: 1681 Kg
+- id: 290
   manufacturer: Lamborghini
   model: Centenario LP 770-4
-  type: Hypercars
-- lastUsed: null
-  year: 2018
-  name: Lambo Huracán P
+  year: 2016
+  class: S1 884
+  weight: 1675 Kg
+- id: 291
   manufacturer: Lamborghini
   model: Huracán Performante
-  type: Track Toys
-- lastUsed: null
-  year: 2019
-  name: Urus '19
+  year: 2018
+  class: S1 874
+  weight: 1512 Kg
+- id: 292
   manufacturer: Lamborghini
   model: Urus
-  type: Sports Utility Heroes
-- lastUsed: null
-  year: 2020
-  name: Lambo Sián R
-  manufacturer: Lamborghini
-  model: Sián Roadster
-  type: Hypercars
-- lastUsed: null
-  year: 1974
-  name: Lancia Stratos
-  manufacturer: Lancia
-  model: Stratos HF Stradale
-  type: Classic Rally
-- lastUsed: null
-  year: 1992
-  name: Lancia Delta
-  manufacturer: Lancia
-  model: Delta HF Integrale EVO
-  type: Retro Rally
-- lastUsed: null
-  year: 1972
-  name: LR Series III
+  year: 2019
+  class: A 767
+  weight: 2200 Kg
+- id: 293
   manufacturer: Land Rover
   model: Series III
-  type: Pickups & 4x4s
-- lastUsed: null
-  year: 1973
-  name: Range Rover '73
+  year: 1972
+  class: D 100
+  weight: 1405 Kg
+- id: 294
   manufacturer: Land Rover
   model: Range Rover
-  type: Pickups & 4x4s
-- lastUsed: null
-  year: 1997
-  name: LR Defender
+  year: 1973
+  class: D 274
+  weight: 1724 Kg
+- id: 295
   manufacturer: Land Rover
   model: Defender 90
-  type: Pickups & 4x4s
-- lastUsed: null
-  year: 2015
-  name: Range Rover '15
+  year: 1997
+  class: D 366
+  weight: 1770 Kg
+- id: 296
   manufacturer: Land Rover
   model: Range Rover Sport SVR
-  type: Sports Utility Heroes
-- lastUsed: null
-  year: 2018
-  name: Land Rover Velar
+  year: 2015
+  class: A 722
+  weight: 2335 Kg
+- id: 297
   manufacturer: Land Rover
   model: Range Rover Velar First Edition
-  type: Sports Utility Heroes
-- lastUsed: null
-  year: 2020
-  name: LR Defender '20
+  year: 2018
+  class: B 638
+  weight: 2121 Kg
+- id: 298
   manufacturer: Land Rover
   model: Defender 110 X
-  type: Sports Utility Heroes
-- lastUsed: null
-  year: 1997
-  name: Lexus SC300
+  year: 2020
+  class: C 534
+  weight: 2386 Kg
+- id: 299
   manufacturer: Lexus
   model: SC300
-  type: Retro Sports Cars
-- lastUsed: null
-  year: 2010
-  name: Lexus LFA
+  year: 1997
+  class: C 555
+  weight: 1615 Kg
+- id: 300
   manufacturer: Lexus
   model: LFA
-  type: Modern Supercars
-- lastUsed: null
-  year: 2015
-  name: Lexus RC F
+  year: 2010
+  class: S1 810
+  weight: 1480 Kg
+- id: 301
   manufacturer: Lexus
   model: RC F
-  type: Super Saloons
-- lastUsed: null
-  year: 2014
-  name: Rally Fighter
+  year: 2015
+  class: A 741
+  weight: 1795 Kg
+- id: 302
   manufacturer: Local Motors
   model: Rally Fighter
-  type: Unlimited Offroad
-- lastUsed: null
-  year: 1969
-  name: '#6 Lola T70'
+  year: 2014
+  class: A 716
+  weight: 1724 Kg
+- id: 303
   manufacturer: Lola
-  model: '#6 Penske Sunoco T70 MKIIIB'
-  type: Classic Racers
-- lastUsed: null
-  year: 1971
-  name: Lotus Elan
+  model: '#6 Penske Sunoco T70 MkIIIB'
+  year: 1969
+  class: S1 818
+  weight: 840 Kg
+- id: 304
   manufacturer: Lotus
   model: Elan Sprint
-  type: Classic Sports Cars
-- lastUsed: null
-  year: 1997
-  name: Lotus Elise GT1
+  year: 1971
+  class: D 443
+  weight: 744 Kg
+- id: 305
   manufacturer: Lotus
   model: Elise GT1
-  type: Retro Supercars
-- lastUsed: null
-  year: 1999
-  name: Lotus Elise '99
+  year: 1997
+  class: A 794
+  weight: 1100 Kg
+- id: 306
   manufacturer: Lotus
   model: Elise Series 1 Sport 190
-  type: Retro Sports Cars
-- lastUsed: null
-  year: 2012
-  name: Lotus Exige S
+  year: 1999
+  class: A 711
+  weight: 670 Kg
+- id: 307
   manufacturer: Lotus
   model: Exige S
-  type: Modern Sports Cars
-- lastUsed: null
-  year: 2016
-  name: Lotus 3-Eleven
+  year: 2012
+  class: A 754
+  weight: 1176 Kg
+- id: 308
   manufacturer: Lotus
   model: 3-Eleven
-  type: Track Toys
-- lastUsed: null
-  year: 2020
-  name: Lotus Evija '20
+  year: 2016
+  class: S1 839
+  weight: 954 Kg
+- id: 309
   manufacturer: Lotus
   model: Evija
-  type: Hypercars
-- lastUsed: null
-  year: 2021
-  name: Lynk & Co 03+
-  manufacturer: Lynk & Co
-  model: 03+
-  type: Super Saloons
-- lastUsed: null
-  year: 2008
-  name: MC12 Corsa '08
+  year: 2020
+  class: S2 994
+  weight: 1680 Kg
+- id: 310
   manufacturer: Maserati
   model: MC12 Versione Corsa
-  type: Extreme Track Toys
-- lastUsed: null
-  year: 2010
-  name: Maserati GT-S
+  year: 2008
+  class: S2 961
+  weight: 1200 Kg
+- id: 311
   manufacturer: Maserati
   model: Gran Turismo S
-  type: GT Cars
-- lastUsed: null
-  year: 2017
-  name: Maserati Levante
+  year: 2010
+  class: A 702
+  weight: 1881 Kg
+- id: 312
   manufacturer: Maserati
   model: Levante S
-  type: Sports Utility Heroes
-- lastUsed: null
-  year: 1994
-  name: Mazda MX-5 '94
+  year: 2017
+  class: B 696
+  weight: 2109 Kg
+- id: 313
+  manufacturer: Mazda
+  model: Savanna RX-7
+  year: 1990
+  class: C 558
+  weight: 1352 Kg
+- id: 314
   manufacturer: Mazda
   model: MX-5 Miata
-  type: Retro Sports Cars
-- lastUsed: null
-  year: 1997
-  name: Mazda RX-7 '97
+  year: 1994
+  class: D 445
+  weight: 1057 Kg
+- id: 315
   manufacturer: Mazda
   model: RX-7
-  type: Retro Sports Cars
-- lastUsed: null
-  year: 2002
-  name: RX-7 Spirit R
+  year: 1997
+  class: B 645
+  weight: 1284 Kg
+- id: 316
   manufacturer: Mazda
   model: RX-7 Spirit R Type-A
-  type: Retro Sports Cars
-- lastUsed: null
-  year: 2005
-  name: Mazda MX-5 '05
+  year: 2002
+  class: B 687
+  weight: 1270 Kg
+- id: 317
   manufacturer: Mazda
   model: Mazdaspeed MX-5
-  type: Retro Sports Cars
-- lastUsed: null
-  year: 2011
-  name: Mazda RX-8
+  year: 2005
+  class: C 587
+  weight: 1147 Kg
+- id: 318
   manufacturer: Mazda
   model: RX-8 R3
-  type: Modern Sports Cars
-- lastUsed: null
+  year: 2011
+  class: B 624
+  weight: 1390 Kg
+- id: 319
+  manufacturer: Mazda
+  model: MX-5
   year: 2013
-  name: Mazda MX-5 '13
+  class: C 549
+  weight: 1176 Kg
+- id: 320
   manufacturer: Mazda
   model: MX-5
-  type: Modern Sports Cars
-- lastUsed: null
   year: 2016
-  name: Mazda MX-5 '16
-  manufacturer: Mazda
-  model: MX-5
-  type: Modern Sports Cars
-- lastUsed: null
-  year: 1997
-  name: McLaren F1 GT
+  class: B 620
+  weight: 1048 Kg
+- id: 321
+  manufacturer: McLaren
+  model: F1
+  year: 1993
+  class: S1 817
+  weight: 1288 Kg
+- id: 322
   manufacturer: McLaren
   model: F1 GT
-  type: Retro Supercars
-- lastUsed: null
-  year: 2013
-  name: McLaren P1
+  year: 1997
+  class: S1 866
+  weight: 1120 Kg
+- id: 323
   manufacturer: McLaren
   model: P1
-  type: Hypercars
-- lastUsed: null
-  year: 2015
-  name: McLaren 570S
-  manufacturer: McLaren
-  model: 570S Coupé
-  type: Modern Supercars
-- lastUsed: null
-  year: 2015
-  name: McLaren 650S
+  year: 2013
+  class: S2 928
+  weight: 1495 Kg
+- id: 324
   manufacturer: McLaren
   model: 650S Coupé
-  type: Modern Supercars
-- lastUsed: null
-  year: 2018
-  name: McLaren 600LT
+  year: 2015
+  class: S1 859
+  weight: 1428 Kg
+- id: 325
   manufacturer: McLaren
-  model: 600LT Coupé
-  type: Track Toys
-- lastUsed: null
+  model: 570S Coupé
+  year: 2015
+  class: S1 824
+  weight: 1452 Kg
+- id: 326
+  manufacturer: McLaren
+  model: 720S Coupé
   year: 2018
-  name: McLaren Senna
+  class: S1 899
+  weight: 1419 Kg
+- id: 327
   manufacturer: McLaren
   model: Senna
-  type: Hypercars
-- lastUsed: null
-  year: 2019
-  name: 720S Spider
+  year: 2018
+  class: S2 934
+  weight: 1309 Kg
+- id: 328
+  manufacturer: McLaren
+  model: 600LT Coupé
+  year: 2018
+  class: S1 868
+  weight: 1356 Kg
+- id: 329
   manufacturer: McLaren
   model: 720S Spider
-  type: Modern Supercars
-- lastUsed: null
   year: 2019
-  name: Speedtail '19
+  class: S1 887
+  weight: 1468 Kg
+- id: 330
   manufacturer: McLaren
   model: Speedtail
-  type: Hypercars
-- lastUsed: null
-  year: 2020
-  name: McLaren GT
+  year: 2019
+  class: S2 910
+  weight: 1597 Kg
+- id: 331
   manufacturer: McLaren
   model: GT
-  type: Super GT
-- lastUsed: null
-  year: 2016
-  name: M-B AMG C 63 '16
+  year: 2020
+  class: S1 823
+  weight: 1535 Kg
+- id: 332
   manufacturer: Mercedes-AMG
   model: C 63 S Coupé
-  type: Super Saloons
-- lastUsed: null
-  year: 2017
-  name: M-B AMG GTR
+  year: 2016
+  class: A 755
+  weight: 1800 Kg
+- id: 333
   manufacturer: Mercedes-AMG
   model: GT R
-  type: Super GT
-- lastUsed: null
-  year: 2018
-  name: M-B GT 4 '18
+  year: 2017
+  class: S1 837
+  weight: 1555 Kg
+- id: 334
   manufacturer: Mercedes-AMG
   model: GT 4-Door Coupé
-  type: Super Saloons
-- lastUsed: null
-  year: 2021
-  name: Mercedes-AMG ONE
+  year: 2018
+  class: A 768
+  weight: 2045 Kg
+- id: 335
+  manufacturer: Mercedes-AMG
+  model: E 63 S
+  year: 2018
+  class: A 778
+  weight: 2048 Kg
+- id: 336
   manufacturer: Mercedes-AMG
   model: Mercedes-AMG ONE
-  type: Hypercars
-- lastUsed: null
-  year: 1929
-  name: M-B SSK
+  year: 2021
+  class: S2 927
+  weight: 1695 Kg
+- id: 337
   manufacturer: Mercedes-Benz
   model: SSK
-  type: Rare Classics
-- lastUsed: null
   year: 1929
-  name: M-B SSK
+  class: D 256
+  weight: 1690 Kg
+- id: 338
   manufacturer: Mercedes-Benz
-  model: SSK
-  type: null
-- lastUsed: null
-  year: 1954
-  name: M-B 300SL
+  model: W154
+  year: 1939
+  class: B 672
+  weight: 1217 Kg
+- id: 339
   manufacturer: Mercedes-Benz
   model: 300 SL Coupé
-  type: Rare Classics
-- lastUsed: null
-  year: 1987
-  name: AMG Hammer Coupe
+  year: 1954
+  class: D 498
+  weight: 1343 Kg
+- id: 340
   manufacturer: Mercedes-Benz
   model: AMG Hammer Coupe
-  type: Retro Saloons
-- lastUsed: null
-  year: 1990
-  name: M-B 190E
+  year: 1987
+  class: B 681
+  weight: 1651 Kg
+- id: 341
   manufacturer: Mercedes-Benz
   model: 190E 2.5-16 Evolution II
-  type: Retro Saloons
-- lastUsed: null
-  year: 1998
-  name: M-B CLK-GTR
+  year: 1990
+  class: C 579
+  weight: 1340 Kg
+- id: 342
   manufacturer: Mercedes-Benz
   model: AMG CLK GTR
-  type: Extreme Track Toys
-- lastUsed: null
-  year: 2011
-  name: M-B SLS AMG
+  year: 1998
+  class: S1 829
+  weight: 1440 Kg
+- id: 343
   manufacturer: Mercedes-Benz
   model: SLS AMG
-  type: Super GT
-- lastUsed: null
-  year: 2012
-  name: M-B C63
-  manufacturer: Mercedes-Benz
-  model: C 63 AMG Coupé Black Series
-  type: Super Saloons
-- lastUsed: null
-  year: 2012
-  name: M-B SLK
+  year: 2011
+  class: S1 804
+  weight: 1620 Kg
+- id: 344
   manufacturer: Mercedes-Benz
   model: SLK 55 AMG
-  type: Modern Sports Cars
-- lastUsed: null
-  year: 2013
-  name: M-B A45
+  year: 2012
+  class: A 740
+  weight: 1600 Kg
+- id: 345
   manufacturer: Mercedes-Benz
-  model: A 45 AMG
-  type: Super Hot Hatch
-- lastUsed: null
-  year: 2013
-  name: M-B E63
-  manufacturer: Mercedes-Benz
-  model: E 63 AMG
-  type: Super Saloons
-- lastUsed: null
-  year: 2013
-  name: M-B G 65
+  model: C 63 AMG Coupé Black Series
+  year: 2012
+  class: A 768
+  weight: 1748 Kg
+- id: 346
   manufacturer: Mercedes-Benz
   model: G 65 AMG
-  type: Pickups & 4x4s
-- lastUsed: null
-  year: 2014
-  name: M-B G 63 6x6
+  year: 2013
+  class: B 639
+  weight: 2580 Kg
+- id: 347
   manufacturer: Mercedes-Benz
-  model: G 63 AMG 6x6
-  type: Pickups & 4x4s
-- lastUsed: null
-  year: 2014
-  name: M-B Unimog
+  model: A 45 AMG
+  year: 2013
+  class: A 707
+  weight: 1480 Kg
+- id: 348
+  manufacturer: Mercedes-Benz
+  model: E 63 AMG
+  year: 2013
+  class: A 751
+  weight: 1940 Kg
+- id: 349
   manufacturer: Mercedes-Benz
   model: Unimog U5023
-  type: Trucks
-- lastUsed: null
-  year: 2015
-  name: '#24 M-B Truck'
+  year: 2014
+  class: D 103
+  weight: 7000 Kg
+- id: 350
+  manufacturer: Mercedes-Benz
+  model: G 63 AMG 6x6
+  year: 2014
+  class: B 606
+  weight: 4105 Kg
+- id: 351
   manufacturer: Mercedes-Benz
   model: '#24 Tankpool24 Racing Truck'
-  type: Trucks
-- lastUsed: null
-  year: 2018
-  name: M-B X-Class
+  year: 2015
+  class: A 702
+  weight: 5500 Kg
+- id: 352
   manufacturer: Mercedes-Benz
   model: X-Class
-  type: Pickups & 4x4s
-- lastUsed: null
-  year: 1965
-  name: MINI '65
-  manufacturer: MINI
+  year: 2018
+  class: D 368
+  weight: 2161 Kg
+- id: 353
+  manufacturer: Meyers
+  model: Manx
+  year: 1971
+  class: D 291
+  weight: 560 Kg
+- id: 354
+  manufacturer: MG
+  model: Metro 6R4
+  year: 1986
+  class: S1 811
+  weight: 1030 Kg
+- id: 355
+  manufacturer: Mini
   model: Cooper S
-  type: Classic Rally
-- lastUsed: null
-  year: 2009
-  name: MINI JCW '09
-  manufacturer: MINI
+  year: 1965
+  class: D 281
+  weight: 671 Kg
+- id: 356
+  manufacturer: Mini
   model: John Cooper Works
-  type: Hot Hatch
-- lastUsed: null
+  year: 2009
+  class: C 598
+  weight: 1225 Kg
+- id: 357
+  manufacturer: Mini
+  model: John Cooper Works GP
+  year: 2012
+  class: B 628
+  weight: 1160 Kg
+- id: 358
+  manufacturer: Mini
+  model: X-Raid ALL4 Racing Countryman
+  year: 2013
+  class: B 632
+  weight: 1950 Kg
+- id: 359
+  manufacturer: Mini
+  model: John Cooper Works Countryman ALL4
   year: 2018
-  name: MINI Countryman
-  manufacturer: MINI
-  model: John Cooper Works Countryman All4
-  type: Sports Utility Heroes
-- lastUsed: null
-  year: 2018
-  name: MINI JCW Buggy
-  manufacturer: MINI
+  class: C 537
+  weight: 1657 Kg
+- id: 360
+  manufacturer: Mini
   model: X-Raid John Cooper Works Buggy
-  type: Offroad
-- lastUsed: null
-  year: 1988
-  name: Starion ESI-R
+  year: 2018
+  class: B 632
+  weight: 1963 Kg
+- id: 361
   manufacturer: Mitsubishi
   model: Starion ESI-R
-  type: Retro Sports Cars
-- lastUsed: null
-  year: 1995
-  name: Eclipse GSX
+  year: 1988
+  class: C 549
+  weight: 1400 Kg
+- id: 362
   manufacturer: Mitsubishi
   model: Eclipse GSX
-  type: Retro Sports Cars
-- lastUsed: null
-  year: 1997
-  name: Mitsubishi GTO
+  year: 1995
+  class: C 543
+  weight: 1451 Kg
+- id: 363
   manufacturer: Mitsubishi
   model: GTO
-  type: Retro Sports Cars
-- lastUsed: null
-  year: 1999
-  name: Lancer GSR '99
+  year: 1997
+  class: B 610
+  weight: 1680 Kg
+- id: 364
   manufacturer: Mitsubishi
   model: Lancer Evolution VI GSR
-  type: Retro Rally
-- lastUsed: null
-  year: 2004
-  name: Lancer MR '04
+  year: 1999
+  class: B 659
+  weight: 1280 Kg
+- id: 365
   manufacturer: Mitsubishi
   model: Lancer Evolution VIII MR
-  type: Modern Rally
-- lastUsed: null
-  year: 2006
-  name: Lancer MR '06
+  year: 2004
+  class: B 664
+  weight: 1410 Kg
+- id: 366
   manufacturer: Mitsubishi
   model: Lancer Evolution IX MR
-  type: Modern Rally
-- lastUsed: null
-  year: 2008
-  name: Lancer GSR '08
+  year: 2006
+  class: B 632
+  weight: 1490 Kg
+- id: 367
   manufacturer: Mitsubishi
   model: Lancer Evolution X GSR
-  type: Modern Rally
-- lastUsed: null
-  year: 2014
-  name: Morgan 3 Wheeler
+  year: 2008
+  class: B 649
+  weight: 1540 Kg
+- id: 368
+  manufacturer: Mitsubishi
+  model: 'Lancer Evolution X GSR "Welcome Pack"'
+  year: 2008
+  class: A 800
+- id: 369
   manufacturer: Morgan
   model: 3 Wheeler
-  type: Cult Classics
-- lastUsed: null
-  year: 1953
-  name: Morris Minor
-  manufacturer: Morris
-  model: Minor 1000
-  type: Cult Classics
-- lastUsed: null
-  year: 2010
-  name: Mosler MT900S
+  year: 2014
+  class: D 488
+  weight: 544 Kg
+- id: 371
   manufacturer: Mosler
   model: MT900S
-  type: Extreme Track Toys
-- lastUsed: null
-  year: 1933
-  name: Napier Railton
+  year: 2010
+  class: S2 919
+  weight: 1125 Kg
+- id: 372
   manufacturer: Napier
   model: Napier-Railton
-  type: Vintage Racers
-- lastUsed: "2025-01-05"
-  year: 2010
-  name: Nissan 370Z
+  year: 1933
+  class: B 603
+  weight: 2049 Kg
+- id: 373
   manufacturer: Nissan
-  model: 370Z
-  type: Modern Sports Cars
-- lastUsed: null
-  year: 1971
-  name: Nissan GT-R '71
+  model: Fairlady Z 432
+  year: 1969
+  class: D 482
+  weight: 1047 Kg
+- id: 374
   manufacturer: Nissan
   model: Skyline 2000GT-R
-  type: Classic Sports Cars
-- lastUsed: null
-  year: 1973
-  name: Nissan GT-R '73
+  year: 1971
+  class: D 493
+  weight: 1100 Kg
+- id: 375
   manufacturer: Nissan
   model: Skyline H/T 2000GT-R
-  type: Classic Sports Cars
-- lastUsed: null
-  year: 1987
-  name: Nissan GTS-R '87
+  year: 1973
+  class: C 518
+  weight: 1145 Kg
+- id: 376
   manufacturer: Nissan
   model: Skyline GTS-R (HR31)
-  type: Retro Sports Cars
-- lastUsed: null
-  year: 1990
-  name: Nissan Pulsar
+  year: 1987
+  class: C 543
+  weight: 1345 Kg
+- id: 377
   manufacturer: Nissan
   model: Pulsar GTI-R
-  type: Retro Rally
-- lastUsed: null
-  year: 1992
-  name: Silvia '92
+  year: 1990
+  class: C 594
+  weight: 1240 Kg
+- id: 378
   manufacturer: Nissan
-  model: Silvia CLUB K's
-  type: Retro Sports Cars
-- lastUsed: null
+  model: Silvia CLUB K&#39;s
+  year: 1992
+  class: C 537
+  weight: 1150 Kg
+- id: 379
+  manufacturer: Nissan
+  model: Skyline GT-R V-Spec
   year: 1993
-  name: Nissan 240SX
+  class: B 626
+  weight: 1500 Kg
+- id: 380
   manufacturer: Nissan
   model: 240SX SE
-  type: Retro Sports Cars
-- lastUsed: null
   year: 1993
-  name: Nissan GT-R '93
-  manufacturer: Nissan
-  model: Skyline GT-R V-Spec
-  type: Retro Sports Cars
-- lastUsed: null
-  year: 1994
-  name: Fairlady Z '94
+  class: D 445
+  weight: 1322 Kg
+- id: 381
   manufacturer: Nissan
   model: Fairlady Z Version S Twin Turbo
-  type: Retro Sports Cars
-- lastUsed: null
   year: 1994
-  name: Silvia '94
+  class: B 607
+  weight: 1520 Kg
+- id: 382
   manufacturer: Nissan
-  model: Silvia K's
-  type: Retro Sports Cars
-- lastUsed: null
+  model: Silvia K&#39;s
+  year: 1994
+  class: B 617
+  weight: 1265 Kg
+- id: 383
+  manufacturer: Nissan
+  model: NISMO GT-R LM
   year: 1995
-  name: Nissan GT-R '95
-  manufacturer: Nissan
-  model: Nismo GT-R LM
-  type: Retro Sports Cars
-- lastUsed: null
-  year: 1997
-  name: Nissan GT-R '97
+  class: B 658
+  weight: 1580 Kg
+- id: 384
   manufacturer: Nissan
   model: Skyline GT-R V-Spec
-  type: Retro Sports Cars
-- lastUsed: null
-  year: 1998
-  name: Nissan R390
+  year: 1997
+  class: B 635
+  weight: 1539 Kg
+- id: 385
   manufacturer: Nissan
   model: R390 (GT1)
-  type: Retro Supercars
-- lastUsed: null
   year: 1998
-  name: Silvia '98
+  class: S1 859
+  weight: 1027 Kg
+- id: 386
   manufacturer: Nissan
-  model: Silvia K's AERO
-  type: Retro Sports Cars
-- lastUsed: null
-  year: 2000
-  name: Silvia '00
+  model: Silvia K&#39;s Aero
+  year: 1998
+  class: B 609
+  weight: 1265 Kg
+- id: 387
   manufacturer: Nissan
   model: Silvia Spec-R
-  type: Retro Sports Cars
-- lastUsed: null
-  year: 2002
-  name: Nissan GT-R '02
+  year: 2000
+  class: B 632
+  weight: 1240 Kg
+- id: 388
   manufacturer: Nissan
   model: Skyline GT-R V-Spec II
-  type: Retro Sports Cars
-- lastUsed: null
-  year: 2003
-  name: Fairlady Z '03
+  year: 2002
+  class: B 657
+  weight: 1560 Kg
+- id: 389
   manufacturer: Nissan
   model: Fairlady Z
-  type: Retro Sports Cars
-- lastUsed: null
-  year: 2004
-  name: '#23 Nissan RR'
+  year: 2003
+  class: B 650
+  weight: 1501 Kg
+- id: 390
   manufacturer: Nissan
   model: 'Pickup #23 Rally Raid'
-  type: Unlimited Offroad
-- lastUsed: null
-  year: 2012
-  name: Nissan GT-R '12
+  year: 2004
+  class: C 577
+  weight: 2150 Kg
+- id: 391
+  manufacturer: Nissan
+  model: 370Z
+  year: 2010
+  class: B 688
+  weight: 1482 Kg
+- id: 392
   manufacturer: Nissan
   model: GT-R Black Edition (R35)
-  type: Modern Supercars
-- lastUsed: null
-  year: 2016
-  name: Nissan TITAN
+  year: 2012
+  class: S1 810
+  weight: 1763 Kg
+- id: 393
   manufacturer: Nissan
-  model: TITAN Warrior Concept
-  type: Pickups & 4x4s
-- lastUsed: null
-  year: 2017
-  name: Nissan GT-R '17
+  model: Titan Warrior Concept
+  year: 2016
+  class: D 486
+  weight: 3351 Kg
+- id: 394
   manufacturer: Nissan
   model: GT-R (R35)
-  type: Modern Supercars
-- lastUsed: null
-  year: 1984
-  name: Opel Manta 400
+  year: 2017
+  class: S1 814
+  weight: 1784 Kg
+- id: 395
   manufacturer: Opel
   model: Manta 400
-  type: Rally Monsters
-- lastUsed: null
-  year: 2009
-  name: Pagani Zonda C
+  year: 1984
+  class: B 691
+  weight: 990 Kg
+- id: 396
   manufacturer: Pagani
   model: Zonda Cinque Roadster
-  type: Hypercars
-- lastUsed: null
-  year: 2010
-  name: Pagani Zonda R
+  year: 2009
+  class: S1 896
+  weight: 1296 Kg
+- id: 397
   manufacturer: Pagani
   model: Zonda R
-  type: Extreme Track Toys
-- lastUsed: "2025-02-02"
-  year: 1965
-  name: Peel Trident
-  manufacturer: Peel
-  model: Trident
-  type: Cult Classics
-- lastUsed: null
-  year: 2011
-  name: Penhall Cholla
+  year: 2010
+  class: S2 959
+  weight: 1150 Kg
+- id: 398
+  manufacturer: Pagani
+  model: Huayra BC
+  year: 2016
+  class: S2 929
+  weight: 1218 Kg
+- id: 399
   manufacturer: Penhall
   model: The Cholla
-  type: Unlimited Buggies
-- lastUsed: null
-  year: 1991
-  name: Peugeot 205 R
+  year: 2011
+  class: B 655
+  weight: 998 Kg
+- id: 400
+  manufacturer: Peugeot
+  model: 205 Turbo 16
+  year: 1984
+  class: B 616
+  weight: 1145 Kg
+- id: 401
   manufacturer: Peugeot
   model: 205 Rallye
-  type: Retro Hot Hatch
-- lastUsed: null
-  year: 2007
-  name: Peugeot 207 S
+  year: 1991
+  class: D 462
+  weight: 790 Kg
+- id: 402
   manufacturer: Peugeot
   model: 207 Super 2000
-  type: Rally Monsters
-- lastUsed: null
-  year: 1971
-  name: Plymouth Cuda
+  year: 2007
+  class: A 755
+  weight: 1100 Kg
+- id: 403
   manufacturer: Plymouth
-  model: Cuda 426 HEMI
-  type: Classic Muscle
-- lastUsed: null
-  year: 2015
-  name: RZR 1000
+  model: Cuda 426 Hemi
+  year: 1971
+  class: C 547
+  weight: 1760 Kg
+- id: 404
   manufacturer: Polaris
   model: RZR XP 1000 EPS
-  type: UTVs
-- lastUsed: null
-  year: 1965
-  name: Pontiac GTO '65
+  year: 2015
+  class: C 501
+  weight: 694 Kg
+- id: 405
   manufacturer: Pontiac
   model: GTO
-  type: Classic Muscle
-- lastUsed: null
-  year: 1977
-  name: Pontiac T/A '77
+  year: 1965
+  class: D 484
+  weight: 1573 Kg
+- id: 406
   manufacturer: Pontiac
   model: Firebird Trans Am
-  type: Classic Muscle
-- lastUsed: null
-  year: 1987
-  name: Pontiac T/A '87
+  year: 1977
+  class: D 418
+  weight: 1724 Kg
+- id: 407
   manufacturer: Pontiac
   model: Firebird Trans Am GTA
-  type: Retro Muscle
-- lastUsed: null
-  year: 1959
-  name: Porsche 356 '59
+  year: 1987
+  class: D 485
+  weight: 1580 Kg
+- id: 408
   manufacturer: Porsche
   model: 356 A 1600 Super
-  type: Rare Classics
-- lastUsed: null
-  year: 1966
-  name: Porsche 906 '66
-  manufacturer: Porsche
-  model: 906 Carrera 6
-  type: Classic Racers
-- lastUsed: null
-  year: 1970
-  name: Porsche 917 LH
+  year: 1959
+  class: D 241
+  weight: 876 Kg
+- id: 409
   manufacturer: Porsche
   model: '#3 917 LH'
-  type: Classic Racers
-- lastUsed: null
   year: 1970
-  name: Porsche 914/6
+  class: S1 856
+  weight: 927 Kg
+- id: 410
   manufacturer: Porsche
   model: 914/6
-  type: Classic Sports Cars
-- lastUsed: null
-  year: 1971
-  name: '#23 Porsche 917'
-  manufacturer: Porsche
-  model: '#23 917/20'
-  type: Classic Racers
-- lastUsed: null
-  year: 1982
-  name: 911 Turbo '82
+  year: 1970
+  class: D 427
+  weight: 996 Kg
+- id: 411
   manufacturer: Porsche
   model: 911 Turbo 3.3
-  type: Retro Supercars
-- lastUsed: null
-  year: 1985
-  name: '#185 Porsche 959'
+  year: 1982
+  class: B 666
+  weight: 1300 Kg
+- id: 412
   manufacturer: Porsche
   model: '#185 959 Prodrive Rally Raid'
-  type: Rally Monsters
-- lastUsed: null
-  year: 1987
-  name: Porsche 959
+  year: 1985
+  class: A 742
+  weight: 1507 Kg
+- id: 413
   manufacturer: Porsche
   model: "959"
-  type: Retro Supercars
-- lastUsed: null
-  year: 1989
-  name: '#65 911 Desert'
-  manufacturer: Porsche
-  model: '#65 Rothsport Racing 911 "Desert Flyer"'
-  type: Rally Monsters
-- lastUsed: null
-  year: 1989
-  name: Porsche 944
+  year: 1987
+  class: A 764
+  weight: 1447 Kg
+- id: 414
   manufacturer: Porsche
   model: 944 Turbo
-  type: Retro Sports Cars
-- lastUsed: null
-  year: 1990
-  name: Porsche 911 '90
+  year: 1989
+  class: B 651
+  weight: 1413 Kg
+- id: 415
   manufacturer: Porsche
-  model: 911 Reimagined by Singer - DLS
-  type: Modern Supercars
-- lastUsed: null
-  year: 1993
-  name: Porsche 968
+  model: '#65 Rothsport Racing 911 &#39;Desert Flyer&#39;'
+  year: 1989
+  class: B 694
+  weight: 1288 Kg
+- id: 416
   manufacturer: Porsche
   model: 968 Turbo S
-  type: Retro Sports Cars
-- lastUsed: null
-  year: 1995
-  name: 911 GT2 '95
+  year: 1993
+  class: A 701
+  weight: 1300 Kg
+- id: 417
   manufacturer: Porsche
   model: 911 GT2
-  type: Retro Supercars
-- lastUsed: null
-  year: 1998
-  name: Porsche 911 GT1
+  year: 1995
+  class: A 753
+  weight: 1295 Kg
+- id: 418
   manufacturer: Porsche
   model: 911 GT1 Strassenversion
-  type: Retro Supercars
-- lastUsed: null
-  year: 2003
-  name: Porsche Carrera
+  year: 1998
+  class: S1 840
+  weight: 1200 Kg
+- id: 419
   manufacturer: Porsche
   model: Carrera GT
-  type: Retro Supercars
-- lastUsed: null
-  year: 2004
-  name: 911 GT3 '04
+  year: 2003
+  class: S1 845
+  weight: 1478 Kg
+- id: 420
   manufacturer: Porsche
   model: 911 GT3
-  type: Retro Supercars
-- lastUsed: null
-  year: 2012
-  name: 911 GT2 RS '12
+  year: 2004
+  class: A 778
+  weight: 1433 Kg
+- id: 421
   manufacturer: Porsche
   model: 911 GT2 RS
-  type: Track Toys
-- lastUsed: null
-  year: 2014
-  name: 911 Turbo '14
+  year: 2012
+  class: S1 860
+  weight: 1370 Kg
+- id: 422
   manufacturer: Porsche
   model: 911 Turbo S
-  type: Modern Supercars
-- lastUsed: null
   year: 2014
-  name: Porsche 918
+  class: S1 808
+  weight: 1636 Kg
+- id: 423
   manufacturer: Porsche
   model: 918 Spyder
-  type: Hypercars
-- lastUsed: null
-  year: 2015
-  name: Porsche Cayman '15
+  year: 2014
+  class: S2 920
+  weight: 1675 Kg
+- id: 424
   manufacturer: Porsche
   model: Cayman GTS
-  type: Modern Sports Cars
-- lastUsed: null
-  year: 2016
-  name: 911 GT3 RS '16
+  year: 2015
+  class: A 767
+  weight: 1345 Kg
+- id: 425
   manufacturer: Porsche
   model: 911 GT3 RS
-  type: Track Toys
-- lastUsed: null
   year: 2016
-  name: Porsche Cayman '16
+  class: S1 864
+  weight: 1420 Kg
+- id: 426
   manufacturer: Porsche
   model: Cayman GT4
-  type: Track Toys
-- lastUsed: null
-  year: 2017
-  name: Porsche Panamera
+  year: 2016
+  class: S1 819
+  weight: 1340 Kg
+- id: 427
   manufacturer: Porsche
   model: Panamera Turbo
-  type: Super Saloons
-- lastUsed: null
-  year: 2018
-  name: Porsche 718 GTS
+  year: 2017
+  class: A 767
+  weight: 1995 Kg
+- id: 428
   manufacturer: Porsche
   model: 718 Cayman GTS
-  type: Modern Sports Cars
-- lastUsed: null
   year: 2018
-  name: 911 GT2 RS '18
+  class: A 785
+  weight: 1422 Kg
+- id: 429
   manufacturer: Porsche
   model: 911 GT2 RS
-  type: Track Toys
-- lastUsed: null
   year: 2018
-  name: Porsche Cayenne
+  class: S1 888
+  weight: 1450 Kg
+- id: 430
   manufacturer: Porsche
   model: Cayenne Turbo
-  type: Sports Utility Heroes
-- lastUsed: null
-  year: 2019
-  name: Porsche 911 '19
+  year: 2018
+  class: A 744
+  weight: 2175 Kg
+- id: 431
+  manufacturer: Porsche
+  model: Macan LPR Rally Raid
+  year: 2018
+  class: B 637
+  weight: 2222 Kg
+- id: 432
   manufacturer: Porsche
   model: 911 Carrera S
-  type: Modern Sports Cars
-- lastUsed: null
   year: 2019
-  name: 911 GT3 RS '19
+  class: S1 819
+  weight: 1515 Kg
+- id: 433
   manufacturer: Porsche
   model: 911 GT3 RS
-  type: Track Toys
-- lastUsed: null
   year: 2019
-  name: Macan Turbo '19
+  class: S1 860
+  weight: 1430 Kg
+- id: 434
   manufacturer: Porsche
   model: Macan Turbo
-  type: Sports Utility Heroes
-- lastUsed: null
-  year: 2020
-  name: Porsche Taycan S
+  year: 2019
+  class: B 695
+  weight: 1940 Kg
+- id: 435
   manufacturer: Porsche
   model: Taycan Turbo S
-  type: Super Saloons
-- lastUsed: null
-  year: 2022
-  name: Cayman GT4 RS
+  year: 2020
+  class: S1 807
+  weight: 2323 Kg
+- id: 436
   manufacturer: Porsche
-  model: 718 Cayman GT4 RS
-  type: Track Toys
-- lastUsed: null
-  year: 2017
-  name: RAM Power Wagon
-  manufacturer: Ram
+  model: 'Taycan Turbo S "Welcome Pack"'
+  year: 2020
+  class: S1 900
+- id: 437
+  manufacturer: Radical
+  model: RXC Turbo
+  year: 2015
+  class: S2 928
+  weight: 940 Kg
+- id: 438
+  manufacturer: RAM
   model: 2500 Power Wagon
-  type: Pickups & 4x4s
-- lastUsed: null
-  year: 1972
-  name: Reliant Supervan
+  year: 2017
+  class: D 467
+  weight: 3195 Kg
+- id: 439
   manufacturer: Reliant
   model: Supervan III
-  type: Cult Classics
-- lastUsed: null
-  year: 1980
-  name: Renault 5 Turbo
+  year: 1972
+  class: D 100
+  weight: 455 Kg
+- id: 440
   manufacturer: Renault
   model: 5 Turbo
-  type: Retro Rally
-- lastUsed: null
-  year: 1993
-  name: Renault Clio '93
+  year: 1980
+  class: C 521
+  weight: 970 Kg
+- id: 441
   manufacturer: Renault
   model: Clio Williams
-  type: Retro Hot Hatch
-- lastUsed: null
-  year: 2008
-  name: Mégane R26.R
+  year: 1993
+  class: C 511
+  weight: 1013 Kg
+- id: 442
   manufacturer: Renault
   model: Mégane R26.R
-  type: Super Hot Hatch
-- lastUsed: null
-  year: 2013
-  name: Renault Clio '13
+  year: 2008
+  class: B 678
+  weight: 1230 Kg
+- id: 443
   manufacturer: Renault
   model: Clio R.S. 200 EDC
-  type: Hot Hatch
-- lastUsed: null
-  year: 2018
-  name: MEGANE R.S. '18
+  year: 2013
+  class: C 595
+  weight: 1218 Kg
+- id: 444
   manufacturer: Renault
   model: MEGANE R.S.
-  type: Super Hot Hatch
-- lastUsed: null
-  year: 2019
-  name: Rimac Concept 2
+  year: 2018
+  class: B 670
+  weight: 1430 Kg
+- id: 445
   manufacturer: Rimac
   model: Concept Two
-  type: Hypercars
-- lastUsed: null
-  year: 2021
-  name: Rimac Nevera
-  manufacturer: Rimac
-  model: Nevera
-  type: Hypercars
-- lastUsed: null
-  year: 2016
-  name: '#37 Pro 2 Truck'
+  year: 2019
+  class: S2 963
+  weight: 1950 Kg
+- id: 446
   manufacturer: RJ Anderson
   model: '#37 Polaris RZR-Rockstar Energy Pro 2 Truck'
-  type: Unlimited Offroad
-- lastUsed: null
-  year: 2018
-  name: Saleen S1 '18
+  year: 2016
+  class: A 776
+  weight: 1701 Kg
+- id: 447
+  manufacturer: Saleen
+  model: S7
+  year: 2004
+  class: S1 855
+  weight: 1250 Kg
+- id: 448
   manufacturer: Saleen
   model: S1
-  type: Modern Supercars
-- lastUsed: null
-  year: 1965
-  name: Shelby Cobra 427
+  year: 2018
+  class: S1 821
+  weight: 1218 Kg
+- id: 449
   manufacturer: Shelby
   model: Cobra 427 S/C
-  type: Rare Classics
-- lastUsed: null
   year: 1965
-  name: Shelby Daytona
+  class: B 694
+  weight: 1066 Kg
+- id: 450
   manufacturer: Shelby
   model: Cobra Daytona Coupe
-  type: Classic Racers
-- lastUsed: null
-  year: 2021
-  name: SIERRA RX3
+  year: 1965
+  class: B 637
+  weight: 1043 Kg
+- id: 451
   manufacturer: SIERRA Cars
   model: RX3
-  type: UTVs
-- lastUsed: null
+  year: 2021
+  class: A 737
+  weight: 420 Kg
+- id: 452
+  manufacturer: Subaru
+  model: Impreza 22B-STi Version
+  year: 1998
+  class: B 640
+  weight: 1270 Kg
+- id: 453
+  manufacturer: Subaru
+  model: IMPREZA WRX STi
   year: 2004
-  name: SUBARU WRX '04
-  manufacturer: SUBARU
-  model: Impreza WRX STi
-  type: Modern Rally
-- lastUsed: null
+  class: B 652
+  weight: 1483 Kg
+- id: 454
+  manufacturer: Subaru
+  model: IMPREZA WRX STI
   year: 2005
-  name: SUBARU WRX '05
-  manufacturer: SUBARU
-  model: Impreza WRX STi
-  type: Modern Rally
-- lastUsed: null
+  class: B 669
+  weight: 1504 Kg
+- id: 455
+  manufacturer: Subaru
+  model: IMPREZA WRX STI
   year: 2008
-  name: SUBARU WRX '08
-  manufacturer: SUBARU
-  model: Impreza WRX STI
-  type: Modern Rally
-- lastUsed: null
+  class: B 649
+  weight: 1540 Kg
+- id: 456
+  manufacturer: Subaru
+  model: WRX STI
   year: 2011
-  name: SUBARU WRX '11
-  manufacturer: SUBARU
-  model: WRX STI
-  type: Modern Rally
-- lastUsed: null
-  year: 2013
-  name: SUBARU BRZ
-  manufacturer: SUBARU
+  class: B 668
+  weight: 1535 Kg
+- id: 457
+  manufacturer: Subaru
   model: BRZ
-  type: Modern Sports Cars
-- lastUsed: null
-  year: 2015
-  name: SUBARU WRX '15
-  manufacturer: SUBARU
+  year: 2013
+  class: C 581
+  weight: 1254 Kg
+- id: 458
+  manufacturer: Subaru
   model: WRX STI
-  type: Modern Rally
-- lastUsed: null
-  year: 1969
-  name: Toyota 2000GT
+  year: 2015
+  class: B 675
+  weight: 1536 Kg
+- id: 459
   manufacturer: Toyota
   model: 2000GT
-  type: Rare Classics
-- lastUsed: null
-  year: 1974
-  name: Toyota Celica'74
+  year: 1969
+  class: D 487
+  weight: 1157 Kg
+- id: 460
   manufacturer: Toyota
   model: Celica GT
-  type: Classic Sports Cars
-- lastUsed: null
-  year: 1979
-  name: Toyota FJ40
+  year: 1974
+  class: D 315
+  weight: 1085 Kg
+- id: 461
   manufacturer: Toyota
   model: FJ40
-  type: Pickups & 4x4s
-- lastUsed: null
-  year: 1989
-  name: Toyota MR2 '89
+  year: 1979
+  class: D 269
+  weight: 1550 Kg
+- id: 462
+  manufacturer: Toyota
+  model: Sprinter Trueno GT Apex
+  year: 1985
+  class: D 480
+  weight: 950 Kg
+- id: 463
   manufacturer: Toyota
   model: MR2 SC
-  type: Retro Sports Cars
-- lastUsed: null
-  year: 1992
-  name: Toyota Celica'92
-  manufacturer: Toyota
-  model: Celica GT-Four RC ST185
-  type: Retro Rally
-- lastUsed: null
-  year: 1992
-  name: Toyota Supra '92
+  year: 1989
+  class: C 502
+  weight: 1188 Kg
+- id: 464
   manufacturer: Toyota
   model: Supra 2.0 GT
-  type: Retro Sports Cars
-- lastUsed: null
-  year: 1998
-  name: Toyota Supra '98
+  year: 1992
+  class: C 558
+  weight: 1510 Kg
+- id: 465
+  manufacturer: Toyota
+  model: Celica GT-Four RC ST185
+  year: 1992
+  class: C 544
+  weight: 1460 Kg
+- id: 466
+  manufacturer: Toyota
+  model: Celica GT-Four ST205
+  year: 1994
+  class: C 590
+  weight: 1440 Kg
+- id: 467
   manufacturer: Toyota
   model: Supra RZ
-  type: Retro Sports Cars
-- lastUsed: null
-  year: 2013
-  name: Toyota 86
+  year: 1998
+  class: B 646
+  weight: 1510 Kg
+- id: 468
+  manufacturer: Toyota
+  model: 'Supra RZ "Welcome Pack"'
+  year: 1998
+  class: A 800
+- id: 469
   manufacturer: Toyota
   model: "86"
-  type: Modern Sports Cars
-- lastUsed: null
-  year: 2019
-  name: Toyota Tacoma
-  manufacturer: Toyota
-  model: Tacoma TRD Pro
-  type: Pickups & 4x4s
-- lastUsed: null
-  year: 2020
-  name: Toyota Supra '20
+  year: 2013
+  class: C 579
+  weight: 1240 Kg
+- id: 470
   manufacturer: Toyota
   model: GR Supra
-  type: Modern Sports Cars
-- lastUsed: "2025-01-12"
-  year: 2005
-  name: TVR Sagaris
-  manufacturer: TVR
-  model: Sagaris
-  type: Retro Sports Cars
-- lastUsed: null
-  year: 1998
-  name: TVR Speed 12
+  year: 2020
+  class: A 731
+  weight: 1541 Kg
+- id: 471
   manufacturer: TVR
   model: Cerbera Speed 12
-  type: Retro Supercars
-- lastUsed: null
-  year: 2018
-  name: TVR Griffith
+  year: 1998
+  class: S1 861
+  weight: 975 Kg
+- id: 472
+  manufacturer: TVR
+  model: Sagaris
+  year: 2005
+  class: A 779
+  weight: 1078 Kg
+- id: 473
   manufacturer: TVR
   model: Griffith
-  type: Modern Sports Cars
-- lastUsed: null
-  year: 2015
-  name: Ultima 1020
+  year: 2018
+  class: S1 825
+  weight: 1200 Kg
+- id: 474
   manufacturer: Ultima
   model: Evolution Coupe 1020
-  type: Extreme Track Toys
-- lastUsed: null
-  year: 2005
-  name: Vauxhall Monaro
+  year: 2015
+  class: S2 961
+  weight: 950 Kg
+- id: 475
   manufacturer: Vauxhall
   model: Monaro VXR
-  type: Modern Muscle
-- lastUsed: null
-  year: 2016
-  name: VauxCorsa '16
+  year: 2005
+  class: B 696
+  weight: 1677 Kg
+- id: 476
   manufacturer: Vauxhall
   model: Corsa VXR
-  type: Hot Hatch
-- lastUsed: null
-  year: 1963
-  name: VW Type 2
+  year: 2016
+  class: C 584
+  weight: 1293 Kg
+- id: 477
   manufacturer: Volkswagen
   model: Type 2 De Luxe
-  type: Cult Classics
-- lastUsed: null
-  year: 1969
-  name: VW Class 5 Bug
+  year: 1963
+  class: D 100
+  weight: 1140 Kg
+- id: 478
+  manufacturer: Volkswagen
+  model: Beetle
+  year: 1963
+  class: D 100
+  weight: 798 Kg
+- id: 479
   manufacturer: Volkswagen
   model: Class 5/1600 Baja Bug
-  type: Buggies
-- lastUsed: null
-  year: 1970
-  name: '#1107 VW Bug'
+  year: 1969
+  class: D 349
+  weight: 1089 Kg
+- id: 480
   manufacturer: Volkswagen
-  model: '#1107 Deser Dingo Racing Stock Bug'
-  type: Buggies
-- lastUsed: null
-  year: 1981
-  name: VW Scirocco '81
+  model: '#1107 Desert Dingo Racing Stock Bug'
+  year: 1970
+  class: D 371
+  weight: 982 Kg
+- id: 481
   manufacturer: Volkswagen
   model: Scirocco S
-  type: Retro Hot Hatch
-- lastUsed: null
-  year: 1982
-  name: VW Pickup '82
-  manufacturer: Volkswagen
-  model: Pickup LX
-  type: Vans & Utility
-- lastUsed: null
-  year: 1983
-  name: VW Golf GTI '83
+  year: 1981
+  class: D 293
+  weight: 914 Kg
+- id: 482
   manufacturer: Volkswagen
   model: Golf GTI
-  type: Retro Hot Hatch
-- lastUsed: null
-  year: 1992
-  name: VW Golf '92
+  year: 1983
+  class: D 428
+  weight: 866 Kg
+- id: 483
   manufacturer: Volkswagen
   model: Golf Gti 16v Mk2
-  type: Retro Hot Hatch
-- lastUsed: null
-  year: 1995
-  name: VW Corrado
+  year: 1992
+  class: D 429
+  weight: 1100 Kg
+- id: 484
   manufacturer: Volkswagen
   model: Corrado VR6
-  type: Retro Hot Hatch
-- lastUsed: null
-  year: 1998
-  name: VW Golf '98
+  year: 1995
+  class: C 533
+  weight: 1240 Kg
+- id: 485
   manufacturer: Volkswagen
   model: GTI VR6 Mk3
-  type: Retro Hot Hatch
-- lastUsed: null
-  year: 2003
-  name: VW Golf '03
+  year: 1998
+  class: C 510
+  weight: 1270 Kg
+- id: 486
   manufacturer: Volkswagen
   model: Golf R32
-  type: Hot Hatch
-- lastUsed: null
-  year: 2010
-  name: VW Golf R '10
+  year: 2003
+  class: B 618
+  weight: 1477 Kg
+- id: 487
   manufacturer: Volkswagen
   model: Golf R
-  type: Super Hot Hatch
-- lastUsed: null
-  year: 2011
-  name: VW Scirocco '11
+  year: 2010
+  class: B 645
+  weight: 1446 Kg
+- id: 488
   manufacturer: Volkswagen
   model: Scirocco R
-  type: Hot Hatch
-- lastUsed: null
-  year: 2012
-  name: VW Santana '12
-  manufacturer: Volkswagen
-  model: Santana
-  type: Retro Saloons
-- lastUsed: null
-  year: 2014
-  name: VW Golf R '14
+  year: 2011
+  class: B 663
+  weight: 1344 Kg
+- id: 489
   manufacturer: Volkswagen
   model: Golf R
-  type: Super Hot Hatch
-- lastUsed: null
-  year: 2017
-  name: '#34 VW Beetle'
+  year: 2014
+  class: B 663
+  weight: 1476 Kg
+- id: 490
   manufacturer: Volkswagen
-  model: '#34 Andretti Beetle'
-  type: Rally Monsters
-- lastUsed: null
-  year: 1983
-  name: Volvo 242 Turbo
+  model: '#34 Volkswagen Andretti Rallycross Beetle'
+  year: 2017
+  class: S1 851
+  weight: 1210 Kg
+- id: 491
   manufacturer: Volvo
   model: 242 Turbo Evolution
-  type: Classic Rally
-- lastUsed: null
-  year: 1997
-  name: Volvo 850
+  year: 1983
+  class: C 548
+  weight: 1440 Kg
+- id: 492
   manufacturer: Volvo
   model: 850 R
-  type: Retro Saloons
-- lastUsed: null
-  year: 2015
-  name: Volvo V60
+  year: 1997
+  class: C 511
+  weight: 1465 Kg
+- id: 493
   manufacturer: Volvo
   model: V60 Polestar
-  type: Super Saloons
-- lastUsed: null
-  year: 2017
-  name: VUHL 05RR
+  year: 2015
+  class: B 662
+  weight: 1808 Kg
+- id: 494
   manufacturer: VUHL
   model: 05RR
-  type: Track Toys
-- lastUsed: null
-  year: 1945
-  name: Willys Jeep
-  manufacturer: Willys
+  year: 2017
+  class: S1 886
+  weight: 725 Kg
+- id: 495
+  manufacturer: WILLYS
   model: MB Jeep
-  type: Pickups & 4x4s
-- lastUsed: null
-  year: 2022
-  name: Wuling Mini EV
-  manufacturer: Wuling
-  model: Hongguang Mini EV Macaron
-  type: Hot Hatch
-- lastUsed: null
-  year: 2020
-  name: Xpeng P7
-  manufacturer: Xpeng
-  model: P7
-  type: Super Saloons
-- lastUsed: null
-  year: 2019
-  name: Zenvo TSR-S
+  year: 1945
+  class: D 198
+  weight: 969 Kg
+- id: 496
   manufacturer: Zenvo
   model: TSR-S
-  type: Hypercars
+  year: 2019
+  class: S2 927
+  weight: 1547 Kg
+- id: 497
+  manufacturer: Chevrolet
+  model: Corvette
+  year: 1953
+  class: D 366
+  weight: 1315 Kg
+- id: 498
+  manufacturer: Chevrolet
+  model: Corvette Forza Edition
+  year: 1953
+  class: A 800
+  weight: 1000 Kg
+- id: 499
+  manufacturer: Exomotive
+  model: Exocet Off-Road Forza Edition
+  year: 2018
+  class: A 800
+  weight: 680 Kg
+- id: 500
+  manufacturer: Lamborghini
+  model: Sesto Elemento Forza Edition
+  year: 2011
+  class: S2 998
+  weight: 925 Kg
+- id: 501
+  manufacturer: Maserati
+  model: Gran Turismo S Forza Edition
+  year: 2010
+  class: S1 900
+  weight: 1400 Kg
+- id: 502
+  manufacturer: Mercedes-Benz
+  model: AMG CLK GTR Forza Edition
+  year: 1998
+  class: S2 998
+  weight: 1050 Kg
+- id: 503
+  manufacturer: Mercedes-Benz
+  model: '#24 Tankpool24 Racing Truck Forza Edition'
+  year: 2015
+  class: A 800
+  weight: 1671 Kg
+- id: 504
+  manufacturer: Meyers
+  model: Manx Forza Edition
+  year: 1971
+  class: A 800
+  weight: 500 Kg
+- id: 505
+  manufacturer: Morris
+  model: Minor 1000 Forza Edition
+  year: 1953
+  class: A 800
+  weight: 650 Kg
+- id: 506
+  manufacturer: Nissan
+  model: Fairlady Z Forza Edition
+  year: 2003
+  class: A 800
+  weight: 1250 Kg
+- id: 507
+  manufacturer: Pagani
+  model: Huayra BC Forza Edition
+  year: 2016
+  class: S2 998
+  weight: 1100 Kg
+- id: 508
+  manufacturer: Pontiac
+  model: Firebird Trans Am GTA Forza Edition
+  year: 1987
+  class: S1 900
+  weight: 1460 Kg
+- id: 509
+  manufacturer: Porsche
+  model: 911 GT3 RS Forza Edition
+  year: 2019
+  class: S1 900
+  weight: 1290 Kg
+- id: 510
+  manufacturer: Volkswagen
+  model: Beetle Forza Edition
+  year: 1963
+  class: S1 900
+  weight: 700 Kg
+- id: 511
+  manufacturer: BMW
+  model: X5 M Forza Edition
+  year: 2011
+  class: S2 998
+  weight: 1250 Kg
+- id: 512
+  manufacturer: Dodge
+  model: Charger R/T Forza Edition
+  year: 1969
+  class: S1 900
+  weight: 1540 Kg
+- id: 513
+  manufacturer: Ford
+  model: Racing Puma Forza Edition
+  year: 1999
+  class: S1 900
+  weight: 995 Kg
+- id: 514
+  manufacturer: Ford
+  model: De Luxe Five-Window Coupe Forza Edition
+  year: 1932
+  class: A 800
+  weight: 950 Kg
+- id: 515
+  manufacturer: Mercedes-AMG
+  model: Mercedes-AMG ONE Forza Edition
+  year: 2021
+  class: '? ???'
+  weight: ??? Kg
+- id: 516
+  manufacturer: BMW
+  model: 2002 TURBO
+  year: 1973
+  class: C 531
+  weight: 1080 Kg
+- id: 517
+  manufacturer: Ferrari
+  model: 250 GTO
+  year: 1962
+  class: B 612
+  weight: 1043 Kg
+- id: 518
+  manufacturer: RAESR
+  model: Tachyon Speed
+  year: 2019
+  class: S2 983
+  weight: 1451 Kg
+- id: 519
+  manufacturer: ItalDesign
+  model: ZeroUno
+  year: 2018
+  class: S1 869
+  weight: 1525 Kg
+- id: 520
+  manufacturer: Morris
+  model: Minor 1000
+  year: 1953
+  class: D 100
+  weight: 800 Kg
+- id: 521
+  manufacturer: DeLorean
+  model: DMC-12
+  year: 1982
+  class: D 464
+  weight: 1290 Kg
+- id: 522
+  manufacturer: Dodge
+  model: Dart Hemi Super Stock
+  year: 1968
+  class: B 650
+  weight: 1370 Kg
+- id: 523
+  manufacturer: Ferrari
+  model: F40 Competizione
+  year: 1989
+  class: S2 947
+  weight: 1050 Kg
+- id: 524
+  manufacturer: Honda
+  model: Civic CRX Mugen
+  year: 1984
+  class: D 499
+  weight: 825 Kg
+- id: 525
+  manufacturer: Dodge
+  model: Viper GTS ACR
+  year: 1999
+  class: A 717
+  weight: 1565 Kg
+- id: 526
+  manufacturer: GMC
+  model: Jimmy
+  year: 1970
+  class: C 521
+  weight: 1818 Kg
+- id: 527
+  manufacturer: Toyota
+  model: '#1 T100 Baja Truck'
+  year: 1993
+  class: B 693
+  weight: 1814 Kg
+- id: 528
+  manufacturer: Forsberg Racing
+  model: Toyota Gumout 2JZ CAMRY Stock Car
+  year: 2010
+  class: S1 900
+  weight: 1502 Kg
+- id: 529
+  manufacturer: Forsberg Racing
+  model: 'Nissan "Gold Leader" Datsun 280Z'
+  year: 1975
+  class: A 791
+- id: 530
+  manufacturer: Porsche
+  model: 911 Carrera RS
+  year: 1973
+  class: B 601
+  weight: 1111 Kg
+- id: 531
+  manufacturer: Renault
+  model: 4L Export
+  year: 1968
+  class: D 100
+  weight: 594 Kg
+- id: 532
+  manufacturer: Formula Drift
+  model: '#357 Chevrolet Corvette Z06'
+  year: 2017
+  class: S1 835
+  weight: 1333 Kg
+- id: 533
+  manufacturer: Formula Drift
+  model: '#91 BMW M2'
+  year: 2020
+  class: S1 839
+  weight: 1292 Kg
+- id: 534
+  manufacturer: Formula Drift
+  model: '#151 Toyota GR Supra'
+  year: 2020
+  class: S1 863
+  weight: 1432 Kg
+- id: 535
+  manufacturer: Formula Drift
+  model: '#411 Toyota Corolla Hatchback'
+  year: 2019
+  class: S1 840
+  weight: 1432 Kg
+- id: 536
+  manufacturer: Formula Drift
+  model: '#34 Toyota Supra MKIV'
+  year: 1995
+  class: S1 845
+  weight: 1292 Kg
+- id: 537
+  manufacturer: Formula Drift
+  model: '#99 Mazda RX-8'
+  year: 2009
+  class: S1 829
+  weight: 1281 Kg
+- id: 538
+  manufacturer: Honda
+  model: Civic Type R
+  year: 2016
+  class: B 699
+  weight: 1382 Kg
+- id: 539
+  manufacturer: Subaru
+  model: STI S209
+  year: 2019
+  class: B 689
+  weight: 1581 Kg
+- id: 540
+  manufacturer: Renault
+  model: 8 Gordini
+  year: 1967
+  class: D 435
+  weight: 855 Kg
+- id: 541
+  manufacturer: Mercury
+  model: Cyclone Spoiler
+  year: 1970
+  class: D 491
+  weight: 1790 Kg
+- id: 542
+  manufacturer: Ferrari
+  model: J50
+  year: 2017
+  class: S1 857
+  weight: 1525 Kg
+- id: 543
+  manufacturer: Ferrari
+  model: Monza SP2
+  year: 2019
+  class: S1 867
+  weight: 1589 Kg
+- id: 544
+  manufacturer: Lamborghini
+  model: Espada 400 GT
+  year: 1973
+  class: C 597
+  weight: 1635 Kg
+- id: 545
+  manufacturer: Lamborghini
+  model: Huracán EVO
+  year: 2020
+  class: S1 851
+  weight: 1552 Kg
+- id: 546
+  manufacturer: Jaguar
+  model: XJ13
+  year: 1966
+  class: A 779
+  weight: 1160 Kg
+- id: 547
+  manufacturer: Jaguar
+  model: XJ220S TWR
+  year: 1993
+  class: S1 848
+  weight: 1079 Kg
+- id: 548
+  manufacturer: Ferrari
+  model: FXX-K Evo
+  year: 2018
+  class: S2 998
+  weight: 1270 Kg
+- id: 549
+  manufacturer: Audi
+  model: TT RS
+  year: 2018
+  class: A 748
+  weight: 1500 Kg
+- id: 550
+  manufacturer: Lamborghini
+  model: Aventador SVJ
+  year: 2018
+  class: S1 889
+  weight: 1636 Kg
+- id: 551
+  manufacturer: Ferrari
+  model: 599 GTO
+  year: 2010
+  class: S1 828
+  weight: 1605 Kg
+- id: 552
+  manufacturer: Lamborghini
+  model: Aventador J
+  year: 2012
+  class: S1 839
+  weight: 1731 Kg
+- id: 553
+  manufacturer: Lamborghini
+  model: Gallardo LP 570-4 Spyder Performante
+  year: 2012
+  class: A 797
+  weight: 1641 Kg
+- id: 554
+  manufacturer: Peel
+  model: Trident
+  year: 1965
+  class: D 100
+  weight: 160 Kg
+- id: 555
+  manufacturer: Peel
+  model: P50
+  year: 1962
+  class: D 100
+  weight: 141 Kg
+- id: 556
+  manufacturer: Ferrari
+  model: 575M Maranello
+  year: 2002
+  class: A 747
+  weight: 1730 Kg
+- id: 557
+  manufacturer: Maserati
+  model: 8CTF
+  year: 1939
+  class: B 657
+  weight: 800 Kg
+- id: 558
+  manufacturer: Toyota
+  model: Celica Sport Specialty II
+  year: 2003
+  class: C 557
+  weight: 1161 Kg
+- id: 559
+  manufacturer: Donkervoort
+  model: D8 GTO
+  year: 2013
+  class: S1 814
+  weight: 695 Kg
+- id: 560
+  manufacturer: Toyota
+  model: Land Cruiser Arctic Trucks AT37
+  year: 2016
+  class: D 404
+  weight: 2265 Kg
+- id: 561
+  manufacturer: Toyota
+  model: Hilux Arctic Trucks AT38
+  year: 2007
+  class: D 457
+  weight: 2150 Kg
+- id: 562
+  manufacturer: Jaguar
+  model: XKR-S GT
+  year: 2015
+  class: A 778
+  weight: 1804 Kg
+- id: 563
+  manufacturer: Vauxhall
+  model: Lotus Carlton
+  year: 1990
+  class: B 635
+  weight: 1652 Kg
+- id: 564
+  manufacturer: Ford
+  model: Mustang Mach 1
+  year: 1971
+  class: C 546
+  weight: 1683 Kg
+- id: 565
+  manufacturer: Zenvo
+  model: ST1
+  year: 2016
+  class: S1 883
+  weight: 1688 Kg
+- id: 566
+  manufacturer: Ford
+  model: GT &#39;OPI Edition&#39;
+  year: 2017
+  class: S1 900
+  weight: 1521 Kg
+- id: 567
+  manufacturer: Porsche
+  model: 911 GT3 RS 4.0
+  year: 2012
+  class: S1 825
+  weight: 1360 Kg
+- id: 568
+  manufacturer: Wuling
+  model: Sunshine S
+  year: 2013
+  class: D 207
+  weight: 1265 Kg
+- id: 569
+  manufacturer: MG
+  model: MG3
+  year: 2015
+  class: D 444
+  weight: 1155 Kg
+- id: 570
+  manufacturer: NIO
+  model: EP9
+  year: 2016
+  class: S2 998
+  weight: 1750 Kg
+- id: 571
+  manufacturer: Mazda
+  model: 323 GT-R
+  year: 1992
+  class: C 589
+  weight: 1210 Kg
+- id: 572
+  manufacturer: MG
+  model: XPower SV-R
+  year: 2005
+  class: B 694
+  weight: 1540 Kg
+- id: 573
+  manufacturer: Porsche
+  model: 911 Sport Classic
+  year: 2010
+  class: A 756
+  weight: 1479 Kg
+- id: 574
+  manufacturer: Volkswagen
+  model: Golf R
+  year: 2021
+  class: B 668
+  weight: 1497 Kg
+- id: 575
+  manufacturer: KTM
+  model: X-Bow GT4
+  year: 2018
+  class: S1 845
+  weight: 1067 Kg
+- id: 576
+  manufacturer: Toyota
+  model: 4Runner TRD Pro
+  year: 2019
+  class: C 531
+  weight: 2155 Kg
+- id: 577
+  manufacturer: Noble
+  model: M600
+  year: 2010
+  class: S1 877
+  weight: 1250 Kg
+- id: 578
+  manufacturer: Nissan
+  model: GT-R NISMO (R35)
+  year: 2020
+  class: S1 846
+  weight: 1754 Kg
+- id: 579
+  manufacturer: Mini
+  model: Cooper S Forza Edition
+  year: 1965
+  class: A 800
+  weight: 650 Kg
+- id: 580
+  manufacturer: Ford
+  model: Mustang SVO
+  year: 1986
+  class: C 525
+  weight: 1373 Kg
+- id: 581
+  manufacturer: Toyota
+  model: Tundra TRD Pro
+  year: 2020
+  class: C 562
+  weight: 2558 Kg
+- id: 582
+  manufacturer: Noble
+  model: M400
+  year: 2006
+  class: S1 829
+  weight: 1060 Kg
+- id: 583
+  manufacturer: Ferrari
+  model: '#25 Corse Clienti 488 Challenge'
+  year: 2017
+  class: S2 911
+  weight: 1453 Kg
+- id: 584
+  manufacturer: McLaren
+  model: 650S Spider
+  year: 2014
+  class: S1 856
+  weight: 1468 Kg
+- id: 585
+  manufacturer: Ford
+  model: Mustang Mach-E 1400
+  year: 2021
+  class: S1 900
+  weight: 2250 Kg
+- id: 586
+  manufacturer: Ascari
+  model: KZ1R
+  year: 2012
+  class: S1 829
+  weight: 1350 Kg
+- id: 587
+  manufacturer: McLaren
+  model: 765LT
+  year: 2021
+  class: S2 913
+  weight: 1339 Kg
+- id: 588
+  manufacturer: ATS
+  model: GT
+  year: 2018
+  class: S1 877
+  weight: 1354 Kg
+- id: 589
+  manufacturer: Oldsmobile
+  model: Toronado
+  year: 1966
+  class: D 403
+  weight: 2039 Kg
+- id: 590
+  manufacturer: McLaren
+  model: 620R
+  year: 2021
+  class: S1 864
+  weight: 1420 Kg
+- id: 591
+  manufacturer: Mini
+  model: John Cooper Works GP
+  year: 2021
+  class: A 719
+  weight: 1295 Kg
+- id: 592
+  manufacturer: Porsche
+  model: 911 Speedster
+  year: 2019
+  class: S1 813
+  weight: 1540 Kg
+- id: 593
+  manufacturer: Ferrari
+  model: SF90 Stradale
+  year: 2020
+  class: S2 915
+  weight: 1671 Kg
+- id: 594
+  manufacturer: Ferrari
+  model: 250 GT Berlinetta Lusso
+  year: 1962
+  class: C 590
+  weight: 1020 Kg
+- id: 595
+  manufacturer: Ferrari
+  model: California T
+  year: 2014
+  class: A 784
+  weight: 1730 Kg
+- id: 596
+  manufacturer: Ferrari
+  model: 512 TR
+  year: 1992
+  class: A 733
+  weight: 1674 Kg
+- id: 597
+  manufacturer: Ferrari
+  model: F8 Tributo
+  year: 2019
+  class: S1 891
+  weight: 1466 Kg
+- id: 598
+  manufacturer: Ford
+  model: F-150 SVT Lightning
+  year: 2003
+  class: C 585
+  weight: 2118 Kg
+- id: 599
+  manufacturer: Forsberg Racing
+  model: Nissan &#39;SafariZ&#39; 370Z Safari Rally Tribute
+  year: 2014
+  class: A 720
+  weight: 1424 Kg
+- id: 600
+  manufacturer: Toyota
+  model: Tacoma TRD Pro
+  year: 2019
+  class: C 518
+  weight: 2007 Kg
+- id: 601
+  manufacturer: Dodge
+  model: Magnum SRT-8
+  year: 2008
+  class: B 669
+  weight: 1986 Kg
+- id: 602
+  manufacturer: BMW
+  model: M8 Competition Coupe
+  year: 2020
+  class: A 791
+  weight: 1975 Kg
+- id: 603
+  manufacturer: Audi
+  model: RS 3 Sedan
+  year: 2020
+  class: A 734
+  weight: 1630 Kg
+- id: 604
+  manufacturer: Audi
+  model: RS 5 Coupe
+  year: 2018
+  class: A 750
+  weight: 1810 Kg
+- id: 605
+  manufacturer: Volkswagen
+  model: Pickup LX
+  year: 1982
+  class: D 100
+  weight: 986 Kg
+- id: 606
+  manufacturer: Porsche
+  model: 911 GT3
+  year: 2021
+  class: S1 858
+  weight: 1435 Kg
+- id: 607
+  manufacturer: Audi
+  model: RS 4 Avant
+  year: 2018
+  class: A 751
+  weight: 1790 Kg
+- id: 608
+  manufacturer: Mercedes-AMG
+  model: GT S
+  year: 2015
+  class: A 797
+  weight: 1621 Kg
+- id: 609
+  manufacturer: Hot Wheels
+  model: 2JetZ
+  year: 2018
+  class: S1 854
+  weight: 789 Kg
+- id: 610
+  manufacturer: Plymouth
+  model: Barracuda Formula-S
+  year: 1968
+  class: C 550
+  weight: 1574 Kg
+- id: 611
+  manufacturer: Dodge
+  model: Coronet Super Bee
+  year: 1970
+  class: C 556
+  weight: 1551 Kg
+- id: 612
+  manufacturer: Hot Wheels
+  model: Nash Metropolitan Custom
+  year: 1957
+  class: B 631
+  weight: 1021 Kg
+- id: 613
+  manufacturer: Hot Wheels
+  model: Rip Rod
+  year: 2012
+  class: A 715
+  weight: 680 Kg
+- id: 614
+  manufacturer: Hot Wheels
+  model: Ford F-5 Dually Custom Hot Rod
+  year: 1949
+  class: B 630
+  weight: 2114 Kg
+- id: 615
+  manufacturer: Hot Wheels
+  model: Ford Mustang
+  year: 2005
+  class: S1 819
+  weight: 1497 Kg
+- id: 616
+  manufacturer: Aston Martin
+  model: DBX
+  year: 2021
+  class: A 732
+  weight: 2245 Kg
+- id: 617
+  manufacturer: Lexus
+  model: RC F Track Edition
+  year: 2020
+  class: A 777
+  weight: 1715 Kg
+- id: 618
+  manufacturer: Nissan
+  model: 370z Nismo
+  year: 2019
+  class: A 718
+  weight: 1537 Kg
+- id: 619
+  manufacturer: Chevrolet
+  model: Hot Wheels COPO Camaro
+  year: 2018
+  class: S1 867
+  weight: 1474 Kg
+- id: 620
+  manufacturer: Hot Wheels
+  model: Bad to the Blade
+  year: 2012
+  class: S2 998
+  weight: 725 Kg
+- id: 621
+  manufacturer: Hot Wheels
+  model: Baja Bone Shaker
+  year: 2013
+  class: B 700
+  weight: 2000 Kg
+- id: 622
+  manufacturer: Hot Wheels
+  model: Deora II
+  year: 2000
+  class: A 800
+  weight: 2000 Kg
+- id: 623
+  manufacturer: Hennessey
+  model: Venom F5
+  year: 2021
+  class: S2 964
+  weight: 1385 Kg
+- id: 624
+  manufacturer: Brabham
+  model: BT62
+  year: 2019
+  class: S2 974
+  weight: 1066 Kg
+- id: 625
+  manufacturer: Mosler
+  model: MT900 GT3
+  year: 2006
+  class: S2 910
+  weight: 1275 Kg
+- id: 626
+  manufacturer: SIERRA Cars
+  model: '#23 Yokohama ALPHA'
+  year: 2020
+  class: S2 986
+  weight: 522 Kg
+- id: 627
+  manufacturer: Subaru
+  model: WRX STI ARX Supercar
+  year: 2018
+  class: S1 849
+  weight: 1279 Kg
+- id: 628
+  manufacturer: Schuppan
+  model: 962CR
+  year: 1993
+  class: S1 869
+  weight: 1050 Kg
+- id: 629
+  manufacturer: Extreme E
+  model: '#99 Chip Ganassi Racing GMC Hummer EV'
+  year: 2022
+  class: A 748
+  weight: 1780 Kg
+- id: 630
+  manufacturer: Extreme E
+  model: '#5 Veloce Racing'
+  year: 2022
+  class: A 748
+  weight: 1780 Kg
+- id: 631
+  manufacturer: Extreme E
+  model: '#6 Rosberg X Racing'
+  year: 2022
+  class: A 748
+  weight: 1780 Kg
+- id: 632
+  manufacturer: Extreme E
+  model: '#22 JBXE'
+  year: 2022
+  class: A 748
+  weight: 1780 Kg
+- id: 633
+  manufacturer: Extreme E
+  model: '#23 Genesys Andretti United'
+  year: 2022
+  class: A 748
+  weight: 1780 Kg
+- id: 634
+  manufacturer: Extreme E
+  model: '#42 XITE Racing Team'
+  year: 2022
+  class: A 748
+  weight: 1780 Kg
+- id: 635
+  manufacturer: Extreme E
+  model: '#44 X44'
+  year: 2022
+  class: A 748
+  weight: 1780 Kg
+- id: 636
+  manufacturer: Extreme E
+  model: '#55 ACCIONA | Sainz XE Team'
+  year: 2022
+  class: A 748
+  weight: 1780 Kg
+- id: 637
+  manufacturer: Extreme E
+  model: '#58 McLaren Racing'
+  year: 2022
+  class: A 748
+  weight: 1780 Kg
+- id: 638
+  manufacturer: Extreme E
+  model: '#125 ABT Cupra XE'
+  year: 2022
+  class: A 748
+  weight: 1780 Kg
+- id: 639
+  manufacturer: Porsche
+  model: 911 Carrera 2 by Gunther Werks
+  year: 1995
+  class: S1 804
+  weight: 1214 Kg
+- id: 640
+  manufacturer: Porsche
+  model: 911 Reimagined by Singer - DLS
+  year: 1990
+  class: S1 830
+  weight: 1050 Kg
+- id: 641
+  manufacturer: Porsche
+  model: '#23 917/20'
+  year: 1971
+  class: S1 849
+  weight: 909 Kg
+- id: 642
+  manufacturer: Porsche
+  model: 356 C Cabriolet Emory Special
+  year: 1964
+  class: B 651
+  weight: 975 Kg
+- id: 643
+  manufacturer: BMW
+  model: M3 GTS
+  year: 2010
+  class: A 794
+  weight: 1546 Kg
+- id: 644
+  manufacturer: BMW
+  model: M4 Competition Coupé
+  year: 2021
+  class: A 778
+  weight: 1725 Kg
+- id: 645
+  manufacturer: Mercedes-Benz
+  model: 300 SLR
+  year: 1955
+  class: A 714
+  weight: 900 Kg
+- id: 646
+  manufacturer: Porsche
+  model: 550A Spyder
+  year: 1955
+  class: C 514
+  weight: 685 Kg
+- id: 647
+  manufacturer: HDT
+  model: VK Commodore Group A
+  year: 1985
+  class: C 550
+  weight: 1340 Kg
+- id: 648
+  manufacturer: Subaru
+  model: Legacy RS
+  year: 1990
+  class: C 514
+  weight: 1356 Kg
+- id: 649
+  manufacturer: Xpeng
+  model: P7
+  year: 2020
+  class: A 722
+  weight: 2060 Kg
+- id: 650
+  manufacturer: Audi
+  model: RS E-Tron GT
+  year: 2021
+  class: A 770
+  weight: 2347 Kg
+- id: 651
+  manufacturer: Audi
+  model: RS 7 Sportback
+  year: 2021
+  class: A 768
+  weight: 2065 Kg
+- id: 652
+  manufacturer: Bentley
+  model: Turbo R
+  year: 1991
+  class: C 543
+  weight: 2410 Kg
+- id: 653
+  manufacturer: Lynk &amp; Co
+  model: 03+
+  year: 2021
+  class: B 679
+  weight: 1615 Kg
+- id: 654
+  manufacturer: Nissan
+  model: Sentra Nismo
+  year: 2018
+  class: C 591
+  weight: 1378 Kg
+- id: 655
+  manufacturer: Aston Martin
+  model: One-77
+  year: 2010
+  class: S1 843
+  weight: 1500 Kg
+- id: 656
+  manufacturer: Dodge
+  model: SRT Viper GTS Anniversary Edition
+  year: 2013
+  class: S1 900
+  weight: 1200 Kg
+- id: 657
+  manufacturer: Eagle
+  model: Speedster
+  year: 2012
+  class: A 723
+  weight: 1057 Kg
+- id: 658
+  manufacturer: Ferrari
+  model: 599XX
+  year: 2010
+  class: S2 924
+  weight: 1413 Kg
+- id: 659
+  manufacturer: Koenigsegg
+  model: Agera
+  year: 2011
+  class: S1 894
+  weight: 1435 Kg
+- id: 660
+  manufacturer: Lynk &amp; Co
+  model: '#100 Cyan Racing 03'
+  year: 2020
+  class: A 800
+  weight: 1320 Kg
+- id: 661
+  manufacturer: Ford
+  model: Super Deluxe Station Wagon
+  year: 1946
+  class: D 124
+  weight: 1583 Kg
+- id: 662
+  manufacturer: Morris
+  model: Mini-Traveller
+  year: 1965
+  class: D 100
+  weight: 674 Kg
+- id: 663
+  manufacturer: Morris
+  model: Minor Series II Traveler
+  year: 1953
+  class: D 100
+  weight: 797 Kg
+- id: 664
+  manufacturer: AMC
+  model: Javelin AMX
+  year: 1971
+  class: D 493
+  weight: 1563 Kg
+- id: 665
+  manufacturer: AMC
+  model: 'Rebel "The Machine"'
+  year: 1970
+  class: C 531
+- id: 666
+  manufacturer: Cadillac
+  model: XTS Limousine
+  year: 2013
+  class: D 492
+  weight: 2495 Kg
+- id: 667
+  manufacturer: Cupra
+  model: UrbanRebel Concept
+  year: 2022
+  class: S1 854
+  weight: 1425 Kg
+- id: 668
+  manufacturer: Lamborghini
+  model: Sián Roadster
+  year: 2020
+  class: S1 881
+  weight: 1736 Kg
+- id: 669
+  manufacturer: Plymouth
+  model: Fury
+  year: 1958
+  class: D 477
+  weight: 1631 Kg
+- id: 670
+  manufacturer: MG
+  model: MG6 XPower
+  year: 2021
+  class: A 716
+  weight: 1540 Kg
+- id: 671
+  manufacturer: MG
+  model: '#20 MG6 XPower'
+  year: 2020
+  class: A 800
+  weight: 1320 Kg
+- id: 672
+  manufacturer: Renault
+  model: Clio R.S.
+  year: 2010
+  class: C 592
+  weight: 1204 Kg
+- id: 673
+  manufacturer: Renault
+  model: Clio R.S. 16 Concept
+  year: 2016
+  class: B 686
+  weight: 1205 Kg
+- id: 674
+  manufacturer: Renault
+  model: Megane RS 250
+  year: 2010
+  class: B 657
+  weight: 1387 Kg
+- id: 675
+  manufacturer: Nissan
+  model: Z
+  year: 2023
+  class: A 736
+  weight: 1604 Kg
+- id: 676
+  manufacturer: Toyota
+  model: MR2 GT
+  year: 1995
+  class: B 632
+  weight: 1205 Kg
+- id: 677
+  manufacturer: Mitsubishi
+  model: Galant VR-4
+  year: 1992
+  class: C 540
+  weight: 1350 Kg
+- id: 678
+  manufacturer: Toyota
+  model: Sports 800
+  year: 1965
+  class: D 246
+  weight: 603 Kg
+- id: 679
+  manufacturer: Pagani
+  model: Zonda Cinque Roadster &#39;Oreo Edition’
+  year: 2009
+  class: S1 900
+  weight: 1296 Kg
+- id: 680
+  manufacturer: SIERRA Cars
+  model: 700R
+  year: 2021
+  class: D 414
+  weight: 365 Kg
+- id: 681
+  manufacturer: Subaru
+  model: BRAT GL
+  year: 1980
+  class: D 273
+  weight: 935 Kg
+- id: 682
+  manufacturer: Hoonigan
+  model: GYMKHANA 9 Ford Focus RS RX
+  year: 2016
+  class: S1 863
+  weight: 1130 Kg
+- id: 683
+  manufacturer: Audi
+  model: '#2 Audi Sport quattro S1'
+  year: 1986
+  class: S1 827
+  weight: 1090 Kg
+- id: 684
+  manufacturer: Honda
+  model: Ridgeline Baja Trophy Truck
+  year: 2015
+  class: A 703
+  weight: 2132 Kg
+- id: 685
+  manufacturer: Polaris
+  model: RZR Pro XP Ultimate
+  year: 2021
+  class: C 593
+  weight: 848 Kg
+- id: 686
+  manufacturer: Nissan
+  model: Safari Turbo
+  year: 1985
+  class: D 230
+  weight: 1665 Kg
+- id: 687
+  manufacturer: Ford
+  model: F-150 Lightning Platinum
+  year: 2022
+  class: B 607
+  weight: 3207 Kg
+- id: 688
+  manufacturer: Hoonigan
+  model: Volkswagen Baja Beetle Class 5/1600 ‘Scumbug’
+  year: 1973
+  class: C 524
+  weight: 993 Kg
+- id: 689
+  manufacturer: Ford
+  model: '#4 Ford Focus RS'
+  year: 2001
+  class: A 749
+  weight: 1271 Kg
+- id: 690
+  manufacturer: Alumi Craft
+  model: '#6165 Trick Truck'
+  year: 2022
+  class: C 596
+  weight: 2608 Kg
+- id: 691
+  manufacturer: Polaris
+  model: RZR Pro XP Factory Racing Limited Edition
+  year: 2021
+  class: C 516
+  weight: 934 Kg
+- id: 692
+  manufacturer: Jimco
+  model: '#179 Hammerhead Class 1'
+  year: 2020
+  class: A 763
+  weight: 1800 Kg
+- id: 693
+  manufacturer: Jimco
+  model: '#240 Fastball Racing Spec Trophy Truck'
+  year: 2019
+  class: B 623
+  weight: 2313 Kg
+- id: 694
+  manufacturer: Casey Currie Motorsports
+  model: '#4402 Ultra 4 ‘Trophy Jeep’'
+  year: 2019
+  class: A 745
+  weight: 2200 Kg
+- id: 695
+  manufacturer: RJ Anderson
+  model: '#37 Polaris RZR Pro 4 Truck'
+  year: 2021
+  class: A 776
+  weight: 1964 Kg
+- id: 696
+  manufacturer: Alumi Craft
+  model: '#122 Class 1 Buggy'
+  year: 2021
+  class: B 689
+  weight: 1701 Kg
+- id: 697
+  manufacturer: Rimac
+  model: Nevera
+  year: 2021
+  class: S2 968
+  weight: 2150 Kg
+- id: 698
+  manufacturer: Cadillac
+  model: CT5-V Blackwing
+  year: 2022
+  class: A 799
+  weight: 1870 Kg
+- id: 699
+  manufacturer: Lexus
+  model: LC 500
+  year: 2021
+  class: A 719
+  weight: 1935 Kg
+- id: 700
+  manufacturer: Cadillac
+  model: CT4-V Blackwing
+  year: 2022
+  class: A 760
+  weight: 1751 Kg
+- id: 701
+  manufacturer: Lamborghini
+  model: Huracán STO
+  year: 2020
+  class: S1 883
+  weight: 1469 Kg
+- id: 702
+  manufacturer: Porsche
+  model: '#70 Porsche Motorsport 935'
+  year: 2019
+  class: S2 932
+  weight: 1380 Kg
+- id: 703
+  manufacturer: Audi
+  model: RS 6 Avant
+  year: 2021
+  class: A 763
+  weight: 2075 Kg
+- id: 704
+  manufacturer: Porsche
+  model: Mission R
+  year: 2022
+  class: S2 925
+  weight: 1500 Kg
+- id: 705
+  manufacturer: Deberti
+  model: Ford Super Duty F-250 Lariat &#39;Transformer&#39;
+  year: 2019
+  class: B 665
+  weight: 3511 Kg
+- id: 706
+  manufacturer: Ford
+  model: F-150 XLT Lariat
+  year: 1986
+  class: D 357
+  weight: 1726 Kg
+- id: 707
+  manufacturer: Chevrolet
+  model: K-10 Custom
+  year: 1972
+  class: D 369
+  weight: 1785 Kg
+- id: 708
+  manufacturer: GMC
+  model: HUMMER EV Pickup
+  year: 2022
+  class: A 718
+  weight: 4111 Kg
+- id: 709
+  manufacturer: Cupra
+  model: Formentor VZ5
+  year: 2022
+  class: A 740
+  weight: 1608 Kg
+- id: 710
+  manufacturer: Cupra
+  model: Tavascan Concept
+  year: 2022
+  class: B 677
+  weight: 2268 Kg
+- id: 711
+  manufacturer: Nissan
+  model: Donut Media 350Z &#39;Hi Car&#39;
+  year: 2003
+  class: A 792
+  weight: 1615 Kg
+- id: 712
+  manufacturer: Nissan
+  model: Donut Media 350Z &#39;Low Car&#39;
+  year: 2004
+  class: A 733
+  weight: 1592 Kg
+- id: 713
+  manufacturer: Ford
+  model: Supervan 3 Donut Media Edition
+  year: 1994
+  class: S1 900
+  weight: 890 Kg
+- id: 714
+  manufacturer: Formula Drift
+  model: '#51 Donut Media Nissan 240SX'
+  year: 1996
+  class: S1 822
+  weight: 1295 Kg
+- id: 715
+  manufacturer: Formula Drift
+  model: '#64 Forsberg Racing Nissan Z'
+  year: 2023
+  class: S1 854
+  weight: 1406 Kg
+- id: 716
+  manufacturer: Mercedes-AMG
+  model: GT Black Series
+  year: 2021
+  class: S1 884
+  weight: 1640 Kg
+- id: 717
+  manufacturer: GMC
+  model: Syclone
+  year: 1991
+  class: C 548
+  weight: 1639 Kg
+- id: 718
+  manufacturer: GMC
+  model: Typhoon
+  year: 1992
+  class: C 538
+  weight: 1724 Kg
+- id: 719
+  manufacturer: Mercedes-Benz
+  model: SL 65 AMG Black Series
+  year: 2009
+  class: A 800
+  weight: 1912 Kg
+- id: 720
+  manufacturer: Lotus
+  model: Emira
+  year: 2023
+  class: A 767
+  weight: 1405 Kg
+- id: 721
+  manufacturer: Pagani
+  model: Huayra R
+  year: 2022
+  class: S2 985
+  weight: 1110 Kg
+- id: 722
+  manufacturer: Forsberg Racing
+  model: Nissan ‘Altimaniac’
+  year: 2021
+  class: S1 881
+  weight: 1438 Kg
+- id: 723
+  manufacturer: Saleen
+  model: Sportruck XR Black Label
+  year: 2020
+  class: B 666
+  weight: 2595 Kg
+- id: 724
+  manufacturer: Chevrolet
+  model: '&#39;Barbie Movie&#39; Corvette EV'
+  year: 1956
+  class: B 658
+  weight: 1300 Kg
+- id: 725
+  manufacturer: GMC
+  model: '&#39;Barbie Movie&#39; Hummer EV Pickup'
+  year: 2022
+  class: A 718
+  weight: 4111 Kg
+- id: 726
+  manufacturer: Hennessey
+  model: Camaro Exorcist
+  year: 2019
+  class: S1 857
+  weight: 1750 Kg
+- id: 727
+  manufacturer: Deberti
+  model: Ford Mustang GT
+  year: 2018
+  class: S1 824
+  weight: 1733 Kg
+- id: 728
+  manufacturer: Ford
+  model: XB Falcon GT
+  year: 1973
+  class: C 532
+  weight: 1382 Kg
+- id: 729
+  manufacturer: Hot Wheels
+  model: Pontiac Firebird Trans Am Custom
+  year: 1970
+  class: S1 894
+  weight: 1418 Kg
+- id: 730
+  manufacturer: Toyota
+  model: GR86
+  year: 2022
+  class: B 676
+  weight: 1275 Kg
+- id: 731
+  manufacturer: Pontiac
+  model: Firebird Trans Am SD-455
+  year: 1973
+  class: C 551
+  weight: 1676 Kg
+- id: 732
+  manufacturer: Abarth
+  model: 595 Esseesse
+  year: 1968
+  class: D 100
+  weight: 570 Kg
+- id: 733
+  manufacturer: Alfa Romeo
+  model: Giulia Quadrifoglio
+  year: 2017
+  class: A 775
+  weight: 1701 Kg
+- id: 734
+  manufacturer: Alfa Romeo
+  model: 33 Stradale
+  year: 1968
+  class: A 707
+  weight: 700 Kg
+- id: 735
+  manufacturer: Alfa Romeo
+  model: Giulia TZ2
+  year: 1965
+  class: B 641
+  weight: 620 Kg
+- id: 736
+  manufacturer: Alfa Romeo
+  model: Giulia Sprint GTA Stradale
+  year: 1965
+  class: D 486
+  weight: 760 Kg
+- id: 737
+  manufacturer: Fiat
+  model: 124 Sport Spider
+  year: 1980
+  class: D 288
+  weight: 1048 Kg
+- id: 738
+  manufacturer: Lancia
+  model: Delta HF Integrale EVO
+  year: 1992
+  class: B 602
+  weight: 1300 Kg
+- id: 739
+  manufacturer: Lancia
+  model: Stratos HF Stradale
+  year: 1974
+  class: C 590
+  weight: 980 Kg
+- id: 740
+  manufacturer: Alfa Romeo
+  model: 155 Q4
+  year: 1992
+  class: C 561
+  weight: 1390 Kg
+- id: 741
+  manufacturer: Lancia
+  model: Delta S4
+  year: 1986
+  class: B 682
+  weight: 1200 Kg
+- id: 742
+  manufacturer: Abarth
+  model: 695 Biposto
+  year: 2016
+  class: B 657
+  weight: 997 Kg
+- id: 743
+  manufacturer: Alfa Romeo
+  model: 4C
+  year: 2014
+  class: A 755
+  weight: 940 Kg
+- id: 744
+  manufacturer: Abarth
+  model: Fiat 131
+  year: 1980
+  class: C 510
+  weight: 980 Kg
+- id: 745
+  manufacturer: Alfa Romeo
+  model: 8C Competizione
+  year: 2007
+  class: A 755
+  weight: 1585 Kg
+- id: 746
+  manufacturer: Abarth
+  model: 124 Spider
+  year: 2017
+  class: C 562
+  weight: 1124 Kg
+- id: 747
+  manufacturer: Lancia
+  model: 037 Stradale
+  year: 1982
+  class: B 647
+  weight: 1152 Kg
+- id: 748
+  manufacturer: Lamborghini
+  model: Huracán Tecnica
+  year: 2022
+  class: S1 850
+  weight: 1543 Kg
+- id: 749
+  manufacturer: Ferrari
+  model: 296 GTB
+  year: 2022
+  class: S1 892
+  weight: 1575 Kg
+- id: 750
+  manufacturer: Ferrari
+  model: Roma
+  year: 2020
+  class: S1 830
+  weight: 1645 Kg
+- id: 751
+  manufacturer: Lamborghini
+  model: Essenza SCV12
+  year: 2020
+  class: S2 967
+  weight: 1447 Kg
+- id: 752
+  manufacturer: Lamborghini
+  model: SC20
+  year: 2020
+  class: S1 884
+  weight: 1650 Kg
+- id: 753
+  manufacturer: ItalDesign
+  model: DaVinci Concept
+  year: 2019
+  class: S1 809
+  weight: 2300 Kg
+- id: 754
+  manufacturer: Lamborghini
+  model: '#63 Squadra Corse Huracán Super Trofeo Evo'
+  year: 2018
+  class: S2 906
+  weight: 1358 Kg
+- id: 755
+  manufacturer: Rivian
+  model: R1T
+  year: 2022
+  class: A 718
+  weight: 3146 Kg
+- id: 756
+  manufacturer: Rivian
+  model: R1S
+  year: 2022
+  class: A 726
+  weight: 3126 Kg
+- id: 757
+  manufacturer: BMW
+  model: 850CSi
+  year: 1995
+  class: B 610
+  weight: 1923 Kg
+- id: 758
+  manufacturer: BMW
+  model: M3 Competition Sedan
+  year: 2021
+  class: A 772
+  weight: 1730 Kg
+- id: 759
+  manufacturer: BMW
+  model: iX xDrive50
+  year: 2022
+  class: A 703
+  weight: 2510 Kg
+- id: 760
+  manufacturer: BMW
+  model: M2
+  year: 2023
+  class: A 762
+  weight: 1700 Kg
+- id: 761
+  manufacturer: BMW
+  model: i4 eDrive40
+  year: 2022
+  class: B 633
+  weight: 2123 Kg
+- id: 762
+  manufacturer: Chevrolet
+  model: Corvette E-Ray
+  year: 2024
+  class: S1 834
+  weight: 1764 Kg
+- id: 764
+  manufacturer: Nissan
+  model: Tsuru
+  year: 2010
+  class: D 444
+  weight: 946 Kg
+- id: 765
+  manufacturer: Meyers
+  model: Manx 2.0
+  year: 2023
+  class: B 649
+  weight: 748 Kg
+- id: 766
+  manufacturer: Ford
+  model: Bronco Raptor
+  year: 2022
+  class: C 588
+  weight: 2600 Kg
+- id: 767
+  manufacturer: Porsche
+  model: 356 SL
+  year: 1951
+  class: D 243
+  weight: 640 Kg
+- id: 768
+  manufacturer: Volkswagen
+  model: Golf R
+  year: 2022
+  class: B 672
+  weight: 1550 Kg
+- id: 769
+  manufacturer: Porsche
+  model: 718 Cayman GT4 RS
+  year: 2022
+  class: S1 850
+  weight: 1415 Kg
+- id: 770
+  manufacturer: KTM
+  model: X-Bow GT2
+  year: 2020
+  class: S2 931
+  weight: 1138 Kg
+- id: 771
+  manufacturer: Elemental
+  model: RP1
+  year: 2019
+  class: S1 867
+  weight: 632 Kg
+- id: 772
+  manufacturer: Chevrolet
+  model: Corvette Z06
+  year: 2023
+  class: S1 855
+  weight: 1613 Kg
+- id: 773
+  manufacturer: Plymouth
+  model: Belvedere
+  year: 1964
+  class: C 529
+  weight: 1687 Kg
+- id: 774
+  manufacturer: Chevrolet
+  model: Nova Super Sport
+  year: 1966
+  class: C 554
+  weight: 1427 Kg
+- id: 775
+  manufacturer: Pontiac
+  model: Firebird
+  year: 1968
+  class: C 533
+  weight: 1610 Kg
+- id: 776
+  manufacturer: Lucid
+  model: Air Sapphire
+  year: 2023
+  class: S1 884
+  weight: 2403 Kg
+- id: 777
+  manufacturer: Pontiac
+  model: GTO Judge
+  year: 1969
+  class: C 545
+  weight: 1643 Kg
+- id: 778
+  manufacturer: Rossion
+  model: Q1
+  year: 2010
+  class: S1 813
+  weight: 1213 Kg
+- id: 779
+  manufacturer: Lincoln
+  model: Continental
+  year: 1962
+  class: D 381
+  weight: 2236 Kg
+- id: 780
+  manufacturer: Saleen
+  model: S7 LM
+  year: 2017
+  class: S2 918
+  weight: 1338 Kg
+- id: 781
+  manufacturer: Deberti
+  model: Ford Econoline &#39;Shop Rod&#39;
+  year: 1961
+  class: A 799
+  weight: 1202 Kg
+- id: 782
+  manufacturer: Chevrolet
+  model: Silverado LT Trail Boss
+  year: 2020
+  class: C 561
+  weight: 2313 Kg
+- id: 783
+  manufacturer: Czinger
+  model: 21C
+  year: 2024
+  class: S2 998
+  weight: 1365 Kg
+- id: 784
+  manufacturer: Aston Martin
+  model: DBR1
+  year: 1958
+  class: B 678
+  weight: 875 Kg
+- id: 785
+  manufacturer: Jaguar
+  model: C-Type
+  year: 1953
+  class: C 599
+  weight: 965 Kg
+- id: 786
+  manufacturer: Ferrari
+  model: 512 S
+  year: 1970
+  class: S1 861
+  weight: 948 Kg
+- id: 787
+  manufacturer: Porsche
+  model: 906 Carrera 6
+  year: 1966
+  class: A 732
+  weight: 617 Kg
+- id: 788
+  manufacturer: Fast and Furious
+  model: Dodge Charger &#39;Fast X&#39;
+  year: 1970
+  class: S1 855
+  weight: 1446 Kg
+- id: 789
+  manufacturer: Fast and Furious
+  model: Chevrolet Impala Super Sport &#39;Fast X&#39;
+  year: 1966
+  class: S1 836
+  weight: 1408 Kg
+- id: 790
+  manufacturer: Fast and Furious
+  model: Datsun 240Z &#39;Fast X&#39;
+  year: 1973
+  class: S1 838
+  weight: 1207 Kg
+- id: 791
+  manufacturer: Fast and Furious
+  model: Dodge Charger SRT Hellcat Redeye Widebody &#39;Fast X&#39;
+  year: 2022
+  class: S1 831
+  weight: 2082 Kg
+- id: 792
+  manufacturer: Fast and Furious
+  model: Flip Car 2.0 &#39;Fast X&#39;
+  year: 2022
+  class: S1 815
+  weight: 1882 Kg
+- id: 793
+  manufacturer: Lotus
+  model: 2-Eleven
+  year: 2009
+  class: A 799
+  weight: 745 Kg
+- id: 794
+  manufacturer: Morgan
+  model: Aero GT
+  year: 2019
+  class: A 784
+  weight: 1221 Kg
+- id: 795
+  manufacturer: Subaru
+  model: BRZ
+  year: 2022
+  class: B 673
+  weight: 1286 Kg
+- id: 796
+  manufacturer: Lotus
+  model: 340R
+  year: 2000
+  class: B 700
+  weight: 674 Kg
+- id: 797
+  manufacturer: Gordon Murray Automotive
+  model: T.50
+  year: 2022
+  class: S2 936
+  weight: 1017 Kg
+- id: 798
+  manufacturer: Aston Martin
+  model: Valkyrie
+  year: 2023
+  class: S2 978
+  weight: 1350 Kg
+- id: 799
+  manufacturer: McLaren
+  model: 12C Coupé
+  year: 2011
+  class: S1 832
+  weight: 1434 Kg
+- id: 800
+  manufacturer: Aston Martin
+  model: DBS
+  year: 2008
+  class: A 746
+  weight: 1695 Kg
+- id: 801
+  manufacturer: Koenigsegg
+  model: CCX
+  year: 2006
+  class: S1 870
+  weight: 1332 Kg
+- id: 802
+  manufacturer: W Motors
+  model: Lykan Hypersport
+  year: 2016
+  class: S1 877
+  weight: 1380 Kg
+- id: 803
+  manufacturer: Pagani
+  model: Huayra
+  year: 2012
+  class: S1 900
+  weight: 1350 Kg
+- id: 804
+  manufacturer: Mercedes-Benz
+  model: 280 SL
+  year: 1967
+  class: D 478
+  weight: 1415 Kg
+- id: 805
+  manufacturer: Spania GTA
+  model: GTA Spano
+  year: 2016
+  class: S2 915
+  weight: 1450 Kg
+- id: 806
+  manufacturer: Fiat
+  model: Dino 2.4 Coupe
+  year: 1969
+  class: D 498
+  weight: 1400 Kg
+- id: 807
+  manufacturer: Lynk &amp; Co
+  model: 05+
+  year: 2022
+  class: B 622
+  weight: 1798 Kg
+- id: 808
+  manufacturer: MG
+  model: Cyberster
+  year: 2023
+  class: A 767
+  weight: 1985 Kg
+- id: 809
+  manufacturer: Wuling
+  model: Hongguang Mini EV Macaron
+  year: 2022
+  class: D 136
+  weight: 700 Kg
+- id: 810
+  manufacturer: Volkswagen
+  model: Santana
+  year: 2012
+  class: D 340
+  weight: 1100 Kg
+- id: 811
+  manufacturer: Hyundai
+  model: Kona N
+  year: 2022
+  class: B 684
+  weight: 1515 Kg
+- id: 812
+  manufacturer: Hyundai
+  model: IONIQ 6
+  year: 2022
+  class: B 686
+  weight: 2055 Kg
+- id: 813
+  manufacturer: Lynk &amp; Co
+  model: 02 Hatchback
+  year: 2022
+  class: B 637
+  weight: 1580 Kg
+- id: 814
+  manufacturer: Hyundai
+  model: i30N
+  year: 2020
+  class: B 670
+  weight: 1429 Kg
+- id: 815
+  manufacturer: MG
+  model: MG7
+  year: 2023
+  class: B 636
+  weight: 1650 Kg
+- id: 816
+  manufacturer: Aston Martin
+  model: Valkyrie AMR Pro
+  year: 2022
+  class: S2 998
+  weight: 1075 Kg
+- id: 817
+  manufacturer: Bentley
+  model: Continental GT Convertible
+  year: 2021
+  class: A 759
+  weight: 2414 Kg
+- id: 818
+  manufacturer: Mercedes-Benz
+  model: AMG Hammer Wagon
+  year: 1987
+  class: B 675
+  weight: 1726 Kg
+- id: 819
+  manufacturer: Jaguar
+  model: XE SV Project 8
+  year: 2019
+  class: S1 830
+  weight: 1764 Kg
+- id: 820
+  manufacturer: Automobili Pininfarina
+  model: Battista
+  year: 2020
+  class: S2 928
+  weight: 2000 Kg
+- id: 821
+  manufacturer: Lancia
+  model: Fulvia Coupé Rallye 1.6 HF
+  year: 1968
+  class: C 526
+  weight: 823 Kg
+- id: 822
+  manufacturer: Volkswagen
+  model: ID.4
+  year: 2021
+  class: C 527
+  weight: 2116 Kg
+- id: 823
+  manufacturer: DS Automobiles
+  model: "23"
+  year: 1975
+  class: D 330
+  weight: 1340 Kg
+- id: 824
+  manufacturer: Mercedes-AMG
+  model: SL 63
+  year: 2021
+  class: A 789
+  weight: 1953 Kg
+- id: 825
+  manufacturer: Lotus
+  model: Esprit V8
+  year: 2002
+  class: A 731
+  weight: 1293 Kg
+- id: 826
+  manufacturer: Mercedes-Benz
+  model: 500 E
+  year: 1992
+  class: B 616
+  weight: 1749 Kg
+- id: 827
+  manufacturer: Volkswagen
+  model: Double Cab Pick-up
+  year: 1966
+  class: D 100
+  weight: 1130 Kg
+- id: 828
+  manufacturer: McLaren
+  model: Sabre
+  year: 2021
+  class: S1 887
+  weight: 1478 Kg
+- id: 829
+  manufacturer: Ginetta
+  model: G10 RM
+  year: 2019
+  class: A 769
+  weight: 950 Kg
+- id: 830
+  manufacturer: Ford
+  model: Supervan 4
+  year: 2022
+  class: S2 953
+  weight: 1989 Kg
+- id: 831
+  manufacturer: Shelby
+  model: GT500
+  year: 1967
+  class: C 577
+  weight: 1721 Kg
+- id: 832
+  manufacturer: McLaren
+  model: Artura
+  year: 2023
+  class: S1 860
+  weight: 1535 Kg
+- id: 833
+  manufacturer: Audi
+  model: TT RS Coupe
+  year: 2020
+  class: A 765
+  weight: 1500 Kg
+- id: 834
+  manufacturer: Ford
+  model: Mustang SVT Cobra
+  year: 2003
+  class: B 639
+  weight: 1696 Kg
+- id: 835
+  manufacturer: Jaguar
+  model: F-Type SVR
+  year: 2020
+  class: S1 806
+  weight: 1705 Kg
+- id: 836
+  manufacturer: Ford
+  model: Mustang GT
+  year: 2024
+  class: A 739
+  weight: 1736 Kg
+- id: 837
+  manufacturer: Ford
+  model: F-150 Raptor R
+  year: 2023
+  class: B 659
+  weight: 2756 Kg
+- id: 838
+  manufacturer: BMW
+  model: '#1 M Motorsport M8 GTE'
+  year: 2018
+  class: S2 910
+  weight: 1320 Kg
+- id: 839
+  manufacturer: Cadillac
+  model: '#3 Cadillac Racing ATS-V.R'
+  year: 2015
+  class: S1 890
+  weight: 1405 Kg
+- id: 840
+  manufacturer: Chevrolet
+  model: '#3 Corvette Racing C8.R'
+  year: 2020
+  class: S2 910
+  weight: 1320 Kg
+- id: 841
+  manufacturer: Mercedes-AMG
+  model: GT3
+  year: 2018
+  class: S1 890
+  weight: 1375 Kg
+- id: 842
+  manufacturer: Lexus
+  model: '#14 VASSER SULLIVAN RC F GT3'
+  year: 2020
+  class: S1 890
+  weight: 1325 Kg
+- id: 843
+  manufacturer: Ferrari
+  model: '#62 Risi Competizione 488 GTE'
+  year: 2019
+  class: S2 910
+  weight: 1320 Kg
+- id: 844
+  manufacturer: Porsche
+  model: 911 GT3 R
+  year: 2018
+  class: S1 890
+  weight: 1310 Kg
+- id: 845
+  manufacturer: Chevrolet
+  model: Summit Racing Pro Stock Camaro
+  year: 2013
+  class: S2 919
+  weight: 1068 Kg
+- id: 846
+  manufacturer: Ford
+  model: '#66 GTLM Le Mans'
+  year: 2016
+  class: S2 910
+  weight: 1320 Kg
+- id: 847
+  manufacturer: Hyundai
+  model: '#98 Bryan Herta Autosport Elantra N'
+  year: 2021
+  class: A 800
+  weight: 1360 Kg
+- id: 848
+  manufacturer: Mitsubishi
+  model: '#1 Sierra Enterprises Lancer Evolution Time Attack'
+  year: 2005
+  class: S2 967
+  weight: 1256 Kg
+- id: 849
+  manufacturer: Porsche
+  model: '#92 GT Team 911 RSR'
+  year: 2017
+  class: S2 910
+  weight: 1300 Kg
+- id: 850
+  manufacturer: Hyundai
+  model: N Vision 74
+  year: 2022
+  class: A 799
+  weight: 2472 Kg
+- id: 851
+  manufacturer: Lamborghini
+  model: Countach LPI 800-4
+  year: 2021
+  class: S1 865
+  weight: 1867 Kg
+- id: 852
+  manufacturer: BMW
+  model: M635CSi
+  year: 1986
+  class: C 589
+  weight: 1510 Kg
+- id: 853
+  manufacturer: Lotus
+  model: Esprit Turbo
+  year: 1980
+  class: C 538
+  weight: 1229 Kg
+- id: 854
+  manufacturer: Citroën
+  model: BX4TC
+  year: 1986
+  class: C 567
+  weight: 1280 Kg
+- id: 855
+  manufacturer: Ford
+  model: Mustang Dark Horse
+  year: 2024
+  class: A 772
+  weight: 1791 Kg
+- id: 856
+  manufacturer: Hyundai
+  model: iONIQ 5 N
+  year: 2023
+  class: A 756
+  weight: 2214 Kg
+- id: 857
+  manufacturer: Toyota
+  model: GR Yaris
+  year: 2021
+  class: B 672
+  weight: 1310 Kg
+- id: 858
+  manufacturer: Porsche
+  model: Taycan Cross Turismo Turbo S
+  year: 2023
+  class: A 800
+  weight: 2358 Kg
+- id: 859
+  manufacturer: Kia
+  model: EV6 GT
+  year: 2023
+  class: A 719
+  weight: 2175 Kg
+- id: 860
+  manufacturer: Universal Studios
+  model: Jeep Wrangler Sahara &#39;Jurassic Park&#39;
+  year: 1992
+  class: D 344
+  weight: 1439 Kg
+- id: 861
+  manufacturer: Universal Studios
+  model: K.I.T.T.
+  year: 1982
+  class: A 743
+  weight: 1449 Kg
+- id: 862
+  manufacturer: Universal Studios
+  model: Back To The Future Time Machine
+  year: 1981
+  class: D 455
+  weight: 1320 Kg
+- id: 863
+  manufacturer: Universal Studios
+  model: Back To The Future Time Machine 2
+  year: 1981
+  class: D 453
+  weight: 1320 Kg
+- id: 864
+  manufacturer: Universal Studios
+  model: Back To The Future Time Machine 3
+  year: 1981
+  class: D 335
+  weight: 1330 Kg
+- id: 865
+  manufacturer: Aston Martin
+  model: Vanquish Zagato Coupé
+  year: 2017
+  class: S1 803
+  weight: 1765 Kg
+- id: 866
+  manufacturer: Lamborghini
+  model: Aventador LP 780-4 Ultimae
+  year: 2021
+  class: S1 878
+  weight: 1750 Kg
+- id: 867
+  manufacturer: Volkswagen
+  model: SP-2
+  year: 1976
+  class: D 252
+  weight: 890 Kg
+- id: 868
+  manufacturer: Mazda
+  model: MX-5 Miata RF
+  year: 2022
+  class: B 626
+  weight: 1112 Kg
+- id: 869
+  manufacturer: Volkswagen
+  model: Thing
+  year: 1973
+  class: D 100
+  weight: 871 Kg
+- id: 870
+  manufacturer: Autozam
+  model: AZ-1
+  year: 1993
+  class: D 450
+  weight: 720 Kg
+- id: 871
+  manufacturer: Mitsubishi
+  model: Montero Evolution
+  year: 1997
+  class: D 457
+  weight: 1990 Kg
+- id: 872
+  manufacturer: Nissan
+  model: Stagea RS Four V
+  year: 1997
+  class: C 547
+  weight: 1620 Kg
+- id: 873
+  manufacturer: Toyota
+  model: Sera
+  year: 1991
+  class: D 447
+  weight: 930 Kg
+- id: 874
+  manufacturer: Ford
+  model: Focus ST
+  year: 2022
+  class: A 707
+  weight: 1437 Kg
+- id: 875
+  manufacturer: Toyota
+  model: Camry TRD
+  year: 2023
+  class: B 645
+  weight: 1622 Kg
+- id: 876
+  manufacturer: Ford
+  model: Fiesta ST
+  year: 2023
+  class: B 615
+  weight: 1205 Kg
+- id: 877
+  manufacturer: Dodge
+  model: Durango SRT Hellcat
+  year: 2021
+  class: A 744
+  weight: 2510 Kg
+- id: 878
+  manufacturer: Chevrolet
+  model: Camaro Super Sport Coupe Forza Edition
+  year: 1969
+  class: A 800
+  weight: 1500 Kg
+- id: 879
+  manufacturer: Mitsubishi
+  model: Lancer Evolution III GSR
+  year: 1995
+  class: B 632
+  weight: 1260 Kg
+- id: 880
+  manufacturer: Subaru
+  model: WRX
+  year: 2022
+  class: B 663
+  weight: 1495 Kg
+- id: 881
+  manufacturer: Toyota
+  model: Chaser GT Twin Turbo
+  year: 1991
+  class: C 597
+  weight: 1540 Kg
+- id: 882
+  manufacturer: Volvo
+  model: C30 Polestar
+  year: 2013
+  class: B 626
+  weight: 1456 Kg
+- id: 883
+  manufacturer: Toyota
+  model: Soarer 2.5 GT-T
+  year: 1997
+  class: B 601
+  weight: 1570 Kg
+- id: 884
+  manufacturer: Mitsubishi
+  model: FTO GP Version R
+  year: 1998
+  class: C 585
+  weight: 1150 Kg
+- id: 885
+  manufacturer: Aston Martin
+  model: Lagonda
+  year: 1990
+  class: C 502
+  weight: 2064 Kg
+- id: 886
+  manufacturer: Subaru
+  model: SVX
+  year: 1996
+  class: C 574
+  weight: 1624 Kg
+- id: 887
+  manufacturer: Porsche
+  model: 911 GT3 RS
+  year: 2023
+  class: S1 867
+  weight: 1450 Kg
+- id: 888
+  manufacturer: Porsche
+  model: 911 Rallye
+  year: 2023
+  class: A 800
+  weight: 1611 Kg
+- id: 889
+  manufacturer: Porsche
+  model: 911 GT3 R
+  year: 2023
+  class: S1 890
+  weight: 1540 Kg
+- id: 890
+  manufacturer: Porsche
+  model: 911 Turbo S
+  year: 2023
+  class: S1 857
+  weight: 1565 Kg
+- id: 891
+  manufacturer: Nissan
+  model: Z NISMO
+  year: 2024
+  class: A 765
+  weight: 1680 Kg
+- id: 892
+  manufacturer: Bentley
+  model: Flying Spur
+  year: 2021
+  class: A 719
+  weight: 2437 Kg
+- id: 893
+  manufacturer: Mercedes-Benz
+  model: E 55 AMG Wagon
+  year: 2006
+  class: B 698
+  weight: 2038 Kg
+- id: 894
+  manufacturer: BMW
+  model: M5 CS
+  year: 2022
+  class: S1 827
+  weight: 1825 Kg
+- id: 895
+  manufacturer: Cadillac
+  model: CTS-V Sport Wagon
+  year: 2014
+  class: A 724
+  weight: 1994 Kg
+- id: 896
+  manufacturer: Deberti
+  model: 'Chevrolet C10 "Slayer"'
+  year: 1965
+  class: S1 802
+- id: 897
+  manufacturer: Dodge
+  model: Challenger SRT Super Stock
+  year: 2022
+  class: S1 802
+  weight: 2014 Kg
+- id: 898
+  manufacturer: Ford
+  model: Mustang SVT Cobra R
+  year: 1995
+  class: B 625
+  weight: 1463 Kg
