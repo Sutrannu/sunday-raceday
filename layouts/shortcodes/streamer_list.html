@@ -1,0 +1,8 @@
+<ul>
+  {{ $pages := where $.Site.RegularPages "Section" "streamers" }}
+  {{ range sort $pages "File.BaseFileName" "desc" }}
+    <div class="bg-white mb3 pa4 gray overflow-hidden">
+      <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></br>
+    </div>
+  {{ end }}
+</ul>
