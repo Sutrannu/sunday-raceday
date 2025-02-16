@@ -97,10 +97,10 @@
 }
 #ad_frame #tunename {
   background-color: #706694;
-  width: 10vw;
-  height: 4vw;
-  top: 7vw;
-  left: 61vw;
+  width: 15vw;
+  height: 3.8vw;
+  top: 7.5vw;
+  left: 59vw;
   padding: 1vw 0;
   transform: rotate(15deg);
   line-height: .9em;

@@ -5,6 +5,7 @@ theme = 'ananke'
 [params]
   favicon = "/sunday-raceday/images/logo.png"
   custom_css = ["css/race.css"]
+  repository = "https://github.com/Sutrannu/sunday-raceday"
 [params.meta]
   favicon = false
 [[params.ananke_socials]]
