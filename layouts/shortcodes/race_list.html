@@ -2,10 +2,19 @@
   {{ $pages := where $.Site.RegularPages "Section" "race" }}
   {{ range sort $pages "File.BaseFileName" "desc" }}
     <div class="bg-white mb3 pa4 gray overflow-hidden">
-      <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></br>
-      <span>{{ .Params.callout }}</span>,
-      <span>{{ .Params.car }}</span>,
-      <span style="font-family: 'Courier New', Courier, monospace;">{{ .Params.share_code }}</span>
+      <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a> &bull;
+      <i>{{ .Params.callout }}</i> &bull; 
+      {{ if .Params.car }}
+      <span>{{ .Params.car }}</span>
+      {{ else }}
+      <span>
+        {{ $allCars := index $.Site.Data.cars }}
+        {{ $cars := where $allCars "id" .Params.car_id }}
+        {{ $car := index $cars 0 }}
+        {{ $car.year }} {{ $car.manufacturer }} {{ $car.model }}
+      </span>
+      {{ end }} &bull;
+      <span style="font-family: 'Courier New', Courier, monospace;"> [{{ .Params.share_code }}]</span>
     </div>
   {{ end }}
 </ul>
