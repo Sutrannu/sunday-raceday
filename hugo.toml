@@ -8,6 +8,6 @@ theme = 'ananke'
   repository = "https://github.com/Sutrannu/sunday-raceday"
 [params.meta]
   favicon = false
-[[params.ananke_socials]]
-  name = "Discord"
-  url = "https://t.co/uQa7fOuaKp"
+#[[params.ananke_socials]]
+#  name = "Discord"
+#  url = "https://t.co/uQa7fOuaKp"
