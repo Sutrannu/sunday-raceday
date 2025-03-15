@@ -1,4 +1,4 @@
-#ad_frame {
+#promo_frame {
   background-color:white;
   border: solid 1px #000;
   width: 80vw;
@@ -12,7 +12,7 @@
   background-size: cover;
   overflow: hidden;
 }
-#ad_frame .text {
+#promo_frame .text {
   position: absolute;
   font-family: "Atma", cursive;
   font-weight: 400;
