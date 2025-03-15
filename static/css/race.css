@@ -23,21 +23,21 @@
   padding: 0;
   margin: 0;
 }
-#ad_frame .text span {
+#promo_frame .text span {
   padding: 0;
   margin: 0;
 }
-#ad_frame .text span.label {
+#promo_frame .text span.label {
   display: block;
   font-size: 1.5vw;
   margin: .2vw;
   padding: 0;
   font-family: "Atma", cursive;
 }
-#ad_frame .text span.by {
+#promo_frame .text span.by {
   font-size: 1.5vw;
 }
-#ad_frame #glamour {
+#promo_frame #glamour {
   border: solid 1px #000;
   width: 70vw;
   height: 40vw;
@@ -46,12 +46,12 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
-#ad_frame div {
+#promo_frame div {
   border: dotted 3px rgba(0, 0, 0, .4);
   /*border-color:#888 #333 #000 #666;*/
   box-shadow: 3px 3px 2px 1px rgba(0, 0, 255, .2);
 }
-#ad_frame #call {
+#promo_frame #call {
   background-color:rgb(83,131,236);
   width: 25vw;
   height: 4vw;
@@ -60,7 +60,7 @@
   padding: .4vw 5px;
   transform: rotate(-15deg);
 }
-#ad_frame #picktune {
+#promo_frame #picktune {
   background-color: #F3AF56;
   width: 25vw;
   height: 5.5vw;
@@ -71,7 +71,7 @@
   line-height: .9em;
   color: #595959;
 }
-#ad_frame #car {
+#promo_frame #car {
   background-color: #48752C;
   width: 30vw;
   height: 4vw;
@@ -81,10 +81,10 @@
   transform: rotate(15deg);
   text-wrap: nowrap;
 }
-#ad_frame #car span {
+#promo_frame #car span {
   font-size: 1.8vw;
 }
-#ad_frame #code {
+#promo_frame #code {
   background-color: #634FA2;
   width: 25vw;
   height: 5vw;
@@ -95,7 +95,7 @@
   line-height: .9em;
   font-family: monospace;
 }
-#ad_frame #tunename {
+#promo_frame #tunename {
   background-color: #706694;
   width: 15vw;
   height: 3.8vw;
@@ -105,7 +105,7 @@
   transform: rotate(15deg);
   line-height: .9em;
 }
-#ad_frame #class {
+#promo_frame #class {
   background-color: #334524;
   width: 10vw;
   height: 5vw;
