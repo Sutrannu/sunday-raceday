@@ -1,5 +1,5 @@
 <input type="text" id="searchInput" placeholder="Search for cars..." onkeyup="filterCars()" style="width:100%;">
-<ul id="carList" style="list-style-type:none;width:100%">
+<ul id="carList" style="list-style-type:none;width:100%" class="center cf pv5 ph3 ph4-ns mw7">
 {{ range $.Site.Data.cars }}
     {{ $full := printf "%s" .model | printf "%s %s" .manufacturer | printf "%d %s" .year | printf "%s" }}
     {{ $car := . }}
@@ -12,7 +12,7 @@
             {{ break }}
         {{ end }}
     {{ end }}
-    <li id="{{ replace $full " " "_" | lower }}{{ if $used }}_used{{ end }}" class="car">
+    <li id="{{ replace $full " " "_" | lower }}{{ if $used }}_used{{ end }}" class="car" style="display:block;">
         <a style="text-decoration: none; color:inherit;" href="https://www.kudosprime.com/fh5/car_sheet.php?id={{ .id }}">
             {{ if isset . "year" }}
                 <span style="font-family:Consolas,menlo,monospace;font-size:.85em;">
@@ -27,8 +27,8 @@
             <span style="font-size: 1em">{{ .model | safeHTML }}</span>
         </a>
         {{ if $used }}
-        </br> 
-        <span style="font-size:.8em;float:right;">
+        
+        <span style="font-size:.8em; float:right; padding-left:2em;">
             Last Used,
             <a href="../race/{{ $racedate }}">
                 {{ $racedate }}
