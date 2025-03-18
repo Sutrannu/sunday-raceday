@@ -14,7 +14,6 @@
           */}}
         {{ .CurrentSection.Title }}
       </aside>
-      {{ partial "social-share.html" . }}
       <h1 class="f1 athelas mt3 mb1">
         {{- .Title -}}
       </h1>
@@ -49,7 +48,6 @@
     </header>
     <div class="nested-copy-line-height lh-copy {{ $.Param "post_content_classes"  | default "serif"}} f4 nested-links {{ $.Param "text_color" | default "mid-gray" }} {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl4-l" "pr4-l" }} w-two-thirds-l">
       {{- .Content -}}
-      {{- partial "tags.html" . -}}
       <div class="mt6 instapaper_ignoref">
       {{ if .Site.Config.Services.Disqus.Shortname }}
         {{ template "_internal/disqus.html" . }}
