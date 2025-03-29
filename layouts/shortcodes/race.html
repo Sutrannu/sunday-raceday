@@ -8,12 +8,13 @@
     {{ if .Page.Params.car }}
     <div id="car" class="text"><span>{{ .Page.Params.car }}</span></div>
     {{ else }}
+    {{ $allCars := index $.Site.Data.cars }}
+    {{ $cars := where $allCars "id" .Page.Params.car_id }}
+    {{ $car := index $cars 0 }}
+    <a style="text-decoration: none; color:inherit;" href="https://www.kudosprime.com/fh5/car_sheet.php?id={{ $car.id }}">
     <div id="car" class="text"><span>
-      {{ $allCars := index $.Site.Data.cars }}
-      {{ $cars := where $allCars "id" .Page.Params.car_id }}
-      {{ $car := index $cars 0 }}
       {{ $car.year }} {{ $car.manufacturer }} {{ $car.model }}
-    </span></div>
+    </span></div></a>
     {{ end }}
     <div id="code" class="text"><span class="label">Share Code</span>{{ .Page.Params.share_code }}</div>
     {{ if .Page.Params.tune_name }}
