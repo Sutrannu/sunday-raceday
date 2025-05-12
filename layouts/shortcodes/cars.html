@@ -23,6 +23,9 @@
                     &nbsp;&nbsp;&nbsp;&nbsp;
                 </span>
             {{ end }}
+            {{ if not (isset . "autoshow") }}
+                <span style="font-family:Consolas,menlo,monospace;font-size:.85em">&#128274; </span>
+            {{ end }}
             <span style="font-size:1em;color:#000;">{{ .manufacturer | safeHTML }}</span>
             <span style="font-size: 1em">{{ .model | safeHTML }}</span>
         </a>
