@@ -46,3 +46,22 @@ menu:
     - Rush (PR Stunts)
       - Canyons
         - Jump a parade float off a mountain
+- How do I get that cool decal?
+  - Start menu
+    - Cars tab
+    - Buy New Cars
+    - Go to the Festival? Yes.
+  - Garage tab
+  - Designs and Paints
+  - Apply Vinyls and Decals
+    - Swith tabs to choose the side of the car
+  - Select the + on the left
+  - Apply Vinyl Shape
+  - Click the Search button labeled at the bottom
+    - Increase max layers above 500
+    - Enter the user's name in the Creator field
+    - Click search
+  - Choose the decal
+  - Click OK a few times
+  - Move size and rotate as needed
+  - Click OK to apply
