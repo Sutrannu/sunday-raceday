@@ -23,8 +23,11 @@
                     &nbsp;&nbsp;&nbsp;&nbsp;
                 </span>
             {{ end }}
+            {{ if eq .id 369 554 439 }}
+                <span title="Rasj Disapproves" style="font-family:Consolas,menlo,monospace;font-size:.85em">&#x1F6B3; </span>
+            {{ end }}
             {{ if not (isset . "autoshow") }}
-                <span style="font-family:Consolas,menlo,monospace;font-size:.85em">&#128274; </span>
+                <span title="Not in the Autoshow" style="font-family:Consolas,menlo,monospace;font-size:.85em">&#128274; </span>
             {{ end }}
             <span style="font-size:1em;color:#000;">{{ .manufacturer | safeHTML }}</span>
             <span style="font-size: 1em">{{ .model | safeHTML }}</span>
