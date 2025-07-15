@@ -1,4 +1,5 @@
 <input type="text" id="searchInput" placeholder="Search for cars..." onkeyup="filterCars()" style="width:100%;">
+<button onclick="randoCar()">Rando</button>
 <ul id="carList" style="list-style-type:none;width:100%" class="center cf pv5 ph3 ph4-ns mw7">
 {{ range $.Site.Data.cars }}
     {{ $full := printf "%s" .model | printf "%s %s" .manufacturer | printf "%d %s" .year | printf "%s" }}
@@ -54,6 +55,19 @@ function filterCars() {
     for (i = 0; i < li.length; i++) {
         txtValue = li[i].id;
         if (txtValue.toLowerCase().indexOf(filter) > -1) {
+            li[i].style.display = "";
+        } else {
+            li[i].style.display = "none";
+        }
+    }
+}
+function randoCar() {
+    ul = document.getElementById("carList");
+    li = ul.getElementsByTagName('li');
+    pick = Math.floor(Math.random() * li.length);
+    for (i = 0; i < li.length; i++) {
+        txtValue = li[i].id;
+        if (i == pick) {
             li[i].style.display = "";
         } else {
             li[i].style.display = "none";
