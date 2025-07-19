@@ -1,6 +1,6 @@
   <div id="promo_frame">
     <div id="glamour" style="background-image: url('{{ .Page.Site.BaseURL }}/images/{{ .Page.Params.car_image }}');"></div>
-    <div id="call" class="text">{{ .Page.Params.callout }}</div>
+    <div id="call" class="text">{{ .Page.Params.callout | markdownify }}</div>
     <div id="picktune" class="text">
       <span class="by">Car Chosen by</span> {{ .Page.Params.car_by }}<br>
       <span class="by">Tune by</span> {{ .Page.Params.tune_by }}
