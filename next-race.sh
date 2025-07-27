@@ -3,7 +3,7 @@
 WD="$(dirname "$(readlink -f $0)")"
 LAST_RACE="$(ls -t "$WD/content/race/" | head -1)"
 LAST_SUNDAY="${LAST_RACE%.*}"
-THIS_SUNDAY="$(date -d "next Sunday" +'%F')"
+THIS_SUNDAY="$(date -d "this Sunday" +'%F')"
 THIS_RACE="${THIS_SUNDAY}.md"
 if [ ! -f "${WD}/content/race/${THIS_RACE}" ]; then
   cp "${WD}/content/race/${LAST_RACE}" "${WD}/content/race/${THIS_RACE}"
