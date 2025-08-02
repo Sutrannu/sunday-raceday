@@ -53,7 +53,7 @@ function filterCars() {
     ul = document.getElementById("carList");
     li = ul.getElementsByTagName('li');
     for (i = 0; i < li.length; i++) {
-        txtValue = li[i].id;
+        txtValue = li[i].id.replaceAll("_", " ");
         if (txtValue.toLowerCase().indexOf(filter) > -1) {
             li[i].style.display = "";
         } else {
