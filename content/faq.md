@@ -65,3 +65,4 @@ menu:
   - Click OK a few times
   - Move size and rotate as needed
   - Click OK to apply
+- What's [Hando Ball]({{< relref "handoball.md" >}})?
