@@ -16,7 +16,7 @@
       {{ $car.year }} {{ $car.manufacturer }} {{ $car.model }}
     </span></div></a>
     {{ end }}
-    <div id="code" class="text"><span class="label">Share Code</span>{{ .Page.Params.share_code }}</div>
+    <div id="code" class="text"><span class="label">Share Code </span>{{ .Page.Params.share_code }}</div>
     {{ if .Page.Params.tune_name }}
       <div id="tunename" class="text"><span>{{ .Page.Params.tune_name }}</span></div>
     {{ end }}
@@ -24,4 +24,3 @@
       <div id="class" class="text"><span class="label">Class: </span><span>{{ .Page.Params.class }}</span></div>
     {{ end }}
   </div>
-
