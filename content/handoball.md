@@ -19,6 +19,11 @@ or is it football? or either?
 
 ~ Hando, the A/V Guy (the ball)
 
+{{< video
+  src="video/handoball.mp4"
+  width="600"
+>}}
+
 ## How to play
 
 When everyone is on Event Lab Island, have a look around for Hando's flag. If you can't find it, best to head for the largest group of cars. Hando's probably already in the scrum.
