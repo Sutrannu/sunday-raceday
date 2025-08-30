@@ -1,6 +1,16 @@
 <input type="text" id="searchInput" placeholder="Search for cars..." onkeyup="filterCars()" style="width:100%;">
-<button onclick="randoCar()">Rando</button>
-<ul id="carList" style="list-style-type:none;width:100%" class="center cf pv5 ph3 ph4-ns mw7">
+<button class="dib ph3 mv0 white bg-blue br2" onclick="randoCar()">Rando</button>
+<label class="dib ph3 mv0 white bg-blue br2" for="locked-toggle">
+<input type="checkbox" id="locked-toggle" class="mr2" onchange="filterCars()" checked>
+locked</label>
+<label class="dib ph3 mv0 white bg-blue br2" for="used-toggle">
+<input type="checkbox" id="used-toggle" class="mr2" onchange="filterCars()" checked>
+used</label>
+<label class="dib ph3 mv0 white bg-blue br2" for="trike-toggle">
+<input type="checkbox" id="trike-toggle" class="mr2" onchange="filterCars()" checked>
+trikes</label>
+<span id="count"></span>
+<ul id="carList" style="list-style-type:none;width:100%" class="center cf ph4-ns mw7">
 {{ range $.Site.Data.cars }}
     {{ $full := printf "%s" .model | printf "%s %s" .manufacturer | printf "%d %s" .year | printf "%s" }}
     {{ $car := . }}
@@ -13,7 +23,7 @@
             {{ break }}
         {{ end }}
     {{ end }}
-    <li id="{{ replace $full " " "_" | lower }}{{ if $used }}_used{{ end }}" class="car" style="display:block;">
+    <li id="{{ replace $full " " "_" | lower }}{{ if $used }}_used{{ end }}" class="car{{ if not (isset . "autoshow") }} locked{{ end }}{{ if $used }} used{{ end }}{{ if eq .id 369 554 439 }} trike{{ end }}" style="display:block;">
         <a style="text-decoration: none; color:inherit;" href="https://www.kudosprime.com/fh5/car_sheet.php?id={{ .id }}">
             {{ if isset . "year" }}
                 <span style="font-family:Consolas,menlo,monospace;font-size:.85em;">
@@ -46,32 +56,63 @@
 {{ end }}
 </ul>
 <script>
-function filterCars() {
-    var input, filter, ul, li, a, i, txtValue;
-    input = document.getElementById('searchInput');
-    filter = input.value.toLowerCase();
+function getCars(){
     ul = document.getElementById("carList");
     li = ul.getElementsByTagName('li');
+}
+function filterCars() {
+    var i, txtValue, matches, locked, used, trike;
+    let count = 0;
+    const input = document.getElementById('searchInput');
+    const filter = input.value.toLowerCase();
+    const ul = document.getElementById("carList");
+    const li = ul.getElementsByTagName('li');
+    const lockedToggle = document.getElementById('locked-toggle');
+    const usedToggle = document.getElementById('used-toggle');
+    const trikeToggle = document.getElementById('trike-toggle');
     for (i = 0; i < li.length; i++) {
+        locked = !(!lockedToggle.checked && li[i].classList.contains('locked'));
+        used = !(!usedToggle.checked && li[i].classList.contains('used'));
+        trike = !(!trikeToggle.checked && li[i].classList.contains('trike'));
         txtValue = li[i].id.replaceAll("_", " ");
-        if (txtValue.toLowerCase().indexOf(filter) > -1) {
+        if (txtValue.length > 0) {
+            matches = (txtValue.toLowerCase().indexOf(filter) > -1);
+        } else {
+            matches = true;
+        }
+        if (locked && used && trike && matches) {
             li[i].style.display = "";
+            count++
         } else {
             li[i].style.display = "none";
         }
     }
+    document.getElementById('count').innerHTML = "("+count+")";
 }
 function randoCar() {
-    ul = document.getElementById("carList");
-    li = ul.getElementsByTagName('li');
-    pick = Math.floor(Math.random() * li.length);
+    const ul = document.getElementById("carList");
+    const li = ul.getElementsByTagName('li');
+    const goodCars = [];
+    const lockedToggle = document.getElementById('locked-toggle');
+    const usedToggle = document.getElementById('used-toggle');
+    const trikeToggle = document.getElementById('trike-toggle');
     for (i = 0; i < li.length; i++) {
-        txtValue = li[i].id;
-        if (i == pick) {
-            li[i].style.display = "";
-        } else {
-            li[i].style.display = "none";
+        locked = !(!lockedToggle.checked && li[i].classList.contains('locked'));
+        used = !(!usedToggle.checked && li[i].classList.contains('used'));
+        trike = !(!trikeToggle.checked && li[i].classList.contains('trike'));
+        if (locked && used && trike) {
+            goodCars.push(li[i]);
         }
     }
+    pick = Math.floor(Math.random() * goodCars.length);
+    for (i = 0; i < goodCars.length; i++) {
+        txtValue = goodCars[i].id;
+        if (i == pick) {
+            goodCars[i].style.display = "";
+        } else {
+            goodCars[i].style.display = "none";
+        }
+    }
+    document.getElementById('count').innerHTML = "(1 rando)";
 }
 </script>
