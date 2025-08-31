@@ -8,26 +8,26 @@ menu:
 - How do I join the convoy?
   - Ask someone on discord to send you an invite
 - Do I need to drive a specific car?
-  - Yes. You need to have the tune applied to the car, too
+  - Yes, and you need to have the tune applied to the car, too
   - **If this is your first time**, you don't need to sweat this
     - When a race event starts, the car selection will appear first
     - Move one space to the left and choose to borrow the
       leader's car for the race
+  - The car and tune are in the [list of races](../race).
+    A link is posted in discord on Sunday.
   - The car and tune _should_ be somewhere in the discord channel
-    posted in the last week
+    posted in the last week.
   - You need to buy the car in the Car
     Show, if you don't own it
   - Search for the tune by the share code, or the name
 - The event started and I'm not in it. What now?
   1. Panic!
   1. Let the convoy know you missed it so they can panic too
-  1. Quit the convoy
-  1. Join the new convoy
-      - Everyone else will quit the event and leave the convoy
-        - Go to online play, manage convoy, leave convoy
+  1. Everyone in the race will _not touch anything_ until the
+     race times out
   1. Try again
 - I'm stuck!
-  - That's not a question
+  - _That's not a question_
   - Open the menu and look for a "Reset your car" option at the bottom
     of the screen
 - Should I panic?
@@ -36,6 +36,15 @@ menu:
   - The last, but usually not the least, race is a really long one.
   - like, 15-20 minutes
   - There is usually a nature break right before
+  - Do no cross the finish line unless you are in last place.
+    Last goes first, then the rest.
+- What's "Bread"?
+  - _Scramble with Bread_ is a rediculous track we race every week
+    1. Don't trust the racing line \>\>\>
+    1. If you get reset, spin in circles until you see a checkpoint
+       callout in the sky
+    1. Last goes first (see long boi)
+    1. Blame RenAigu
 - Did I win?
   - It's really about the journey
   - We keep score and post it in Discord
