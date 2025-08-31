@@ -21,7 +21,7 @@ you need to play through some of the game and unlock online play. How much?
 About an hour or so.
 
 This will also help you to get a little cash for buying cars. Every
-week a racer picks the car we all drive, and another [creates a tune](./tuning/)
+week a racer [picks the car](./cars/) we all drive, and another [creates a tune](./tuning/)
 that we all apply to the car. Both cost in-game currency you collect
 by playing, racing, blah, blah. Racing on Sundays quickly becomes
 enough to sustain your new habit.
