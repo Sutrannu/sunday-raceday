@@ -1,14 +1,12 @@
 ---
-title: Hando Ball
+title: Handoball
 hero: handoball-hero.webp
 featured_image: /images/handoball-hero.webp
 ---
 
-There is a magical land called Event Lab Island. It's a land of boring nothingness
-that some dare to visit even if it crashes their game.
-
-Perhaps it's the stark expanse of concrete wasteland, and the under-stimulation
-that lead to Hand Ball.
+In a magical land called Event Lab Island &emdash;
+a land of boring nothingness that some dare to visit even if their game crashes 
+&emdash; Handoball is played.
 
 > Hando Ball: a combination of futbal, rugby and olympic diving
 or is it football? or either?
@@ -19,10 +17,7 @@ or is it football? or either?
 
 ~ Hando, the A/V Guy (the ball)
 
-{{< video
-  src="video/handoball.mp4"
-  width="600"
->}}
+{{< video src="video/handoball.mp4" width="600" >}}
 
 ## How to play
 
