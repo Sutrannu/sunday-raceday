@@ -42,7 +42,7 @@ It's FH5. When the convoy leader starts an event (race), you need to
 - Be ready to hit the button to join the event
 
 That's enough to induce panic in most drivers.
-So, come ready for fun and a little panic.
+So, come ready for fun and sadistically "random" tracks.
 
 ## More Questions
 
