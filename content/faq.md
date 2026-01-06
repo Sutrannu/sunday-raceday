@@ -45,6 +45,7 @@ menu:
        callout in the sky
     1. Last goes first (see long boi)
     1. Blame RenAigu
+- How do I buy a car from [Backstage]({{< relref "backstage.md" >}})?
 - Did I win?
   - It's really about the journey
   - We keep score and post it in Discord
