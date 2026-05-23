@@ -56,6 +56,7 @@ menu:
     - Rush (PR Stunts)
       - Canyons
         - Jump a parade float off a mountain
+- How can I [make some money]({{< relref "waymomoney.md" >}}) in FH6?
 - How do I get that cool decal?
   - Start menu
     - Cars tab
