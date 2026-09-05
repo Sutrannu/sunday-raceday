@@ -8,10 +8,13 @@
     {{ if .Page.Params.car }}
     <div id="car" class="text"><span>{{ .Page.Params.car | markdownify }}</span></div>
     {{ else }}
-    {{ $allCars := index $.Site.Data.cars }}
+    {{ $allCars := $.Site.Data.fh6cars }}
+    {{ if eq .Page.Params.game "fh5" }}
+      {{ $allCars = $.Site.Data.cars }}
+    {{ end }}
     {{ $cars := where $allCars "id" .Page.Params.car_id }}
     {{ $car := index $cars 0 }}
-    <a style="text-decoration: none; color:inherit;" href="https://www.kudosprime.com/fh5/car_sheet.php?id={{ $car.id }}">
+    <a style="text-decoration: none; color:inherit;" href="https://www.kudosprime.com/{{ .Page.Params.game }}/car_sheet.php?id={{ $car.id }}">
     <div id="car" class="text"><span>
       {{ $car.year }} {{ $car.manufacturer | markdownify }} {{ $car.model | markdownify }}
     </span></div></a>

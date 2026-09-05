@@ -1,0 +1,4256 @@
+- id: 100
+  manufacturer: Chevrolet
+  model: IMPALA SUPER SPORT 409
+  class: C 427
+  weight: 1759 Kg
+  year: 1964
+  autoshow: true
+- id: 101
+  manufacturer: Chevrolet
+  model: CORVETTE STINGRAY 427
+  class: B 510
+  weight: 1535 Kg
+  year: 1967
+  autoshow: false
+- id: 102
+  manufacturer: Chevrolet
+  model: CAMARO SUPER SPORT COUPE
+  class: C 471
+  weight: 1600 Kg
+  year: 1969
+  autoshow: true
+- id: 103
+  manufacturer: Chevrolet
+  model: NOVA SUPER SPORT 396
+  class: C 431
+  weight: 1574 Kg
+  year: 1969
+  autoshow: true
+- id: 104
+  manufacturer: Chevrolet
+  model: CAMARO Z28
+  class: C 430
+  weight: 1610 Kg
+  year: 1970
+  autoshow: true
+- id: 105
+  manufacturer: Chevrolet
+  model: CHEVELLE SUPER SPORT 454
+  class: C 424
+  weight: 1723 Kg
+  year: 1970
+  autoshow: true
+- id: 106
+  manufacturer: Chevrolet
+  model: CORVETTE ZR_1
+  class: C 497
+  weight: 1530 Kg
+  year: 1970
+  autoshow: true
+- id: 107
+  manufacturer: Chevrolet
+  model: EL CAMINO SUPER SPORT 454
+  class: C 430
+  weight: 1733 Kg
+  year: 1970
+  autoshow: true
+- id: 108
+  manufacturer: Chevrolet
+  model: K_10 CUSTOM
+  class: D 268
+  weight: 1785 Kg
+  year: 1972
+  autoshow: true
+- id: 109
+  manufacturer: Chevrolet
+  model: CAMARO Z28
+  class: D 364
+  weight: 1615 Kg
+  year: 1979
+  autoshow: true
+- id: 10
+  manufacturer: Alfa Romeo
+  model: 155 Q4
+  class: C 439
+  weight: 1445 Kg
+  year: 1992
+  autoshow: true
+- id: 110
+  manufacturer: Chevrolet
+  model: MONTE CARLO SUPER SPORT
+  class: D 282
+  weight: 1598 Kg
+  year: 1988
+  autoshow: true
+- id: 111
+  manufacturer: Chevrolet
+  model: CORVETTE ZR_1
+  class: B 576
+  weight: 1590 Kg
+  year: 1995
+  autoshow: true
+- id: 112
+  manufacturer: Chevrolet
+  model: IMPALA SUPER SPORT
+  class: C 407
+  weight: 1831 Kg
+  year: 1996
+  autoshow: true
+- id: 113
+  manufacturer: Chevrolet
+  model: CORVETTE Z06
+  class: A 602
+  weight: 1415 Kg
+  year: 2002
+  autoshow: true
+- id: 114
+  manufacturer: Chevrolet
+  model: CORVETTE ZR1
+  class: S1 712
+  weight: 1520 Kg
+  year: 2009
+  autoshow: true
+- id: 115
+  manufacturer: Chevrolet
+  model: CAMARO Z/28
+  class: A 695
+  weight: 1740 Kg
+  year: 2015
+  autoshow: true
+- id: 116
+  manufacturer: Chevrolet
+  model: CORVETTE Z06
+  class: S1 755
+  weight: 1604 Kg
+  year: 2015
+  autoshow: true
+- id: 117
+  manufacturer: Chevrolet
+  model: CAMARO ZL1
+  class: S1 727
+  weight: 1761 Kg
+  year: 2017
+  autoshow: true
+- id: 118
+  manufacturer: Chevrolet
+  model: CAMARO ZL1 1LE
+  class: S1 728
+  weight: 1740 Kg
+  year: 2018
+  autoshow: true
+- id: 119
+  manufacturer: Chevrolet
+  model: CORVETTE ZR1
+  class: S1 778
+  weight: 1615 Kg
+  year: 2019
+  autoshow: false
+- id: 11
+  manufacturer: Alfa Romeo
+  model: 8C COMPETIZIONE
+  class: A 635
+  weight: 1585 Kg
+  year: 2007
+  autoshow: true
+- id: 120
+  manufacturer: Chevrolet
+  model: CORVETTE STINGRAY COUPE
+  class: A 699
+  weight: 1622 Kg
+  year: 2020
+  autoshow: true
+- id: 121
+  manufacturer: Chevrolet
+  model: Silverado LT Trail Boss
+  class: C 449
+  weight: 2313 Kg
+  year: 2020
+  autoshow: true
+- id: 122
+  manufacturer: Chevrolet
+  model: Corvette Z06
+  class: S1 763
+  weight: 1613 Kg
+  year: 2023
+  autoshow: true
+- id: 123
+  manufacturer: Chevrolet
+  model: CORVETTE E_RAY
+  class: S1 737
+  weight: 1764 Kg
+  year: 2024
+  autoshow: true
+- id: 124
+  manufacturer: Datsun
+  model: 2000 ROADSTER
+  class: D 323
+  weight: 968 Kg
+  year: 1969
+  autoshow: false
+- id: 125
+  manufacturer: Datsun
+  model: "510"
+  class: D 143
+  weight: 965 Kg
+  year: 1970
+  autoshow: true
+- id: 126
+  manufacturer: Datsun
+  model: '#269 240Z Attacking the Clock Racing Hill Climb'
+  class: R 951
+  weight: 1179 Kg
+  year: 1972
+  autoshow: false
+- id: 127
+  manufacturer: Deberti
+  model: JEEP WRANGLER UNLIMITED
+  class: A 645
+  weight: 2109 Kg
+  year: 2018
+  autoshow: true
+- id: 128
+  manufacturer: Deberti
+  model: CHEVROLET SILVERADO 1500 DRIFT TRUCK
+  class: S1 707
+  weight: 1588 Kg
+  year: 2018
+  autoshow: true
+- id: 129
+  manufacturer: Deberti
+  model: FORD SUPER DUTY F_250 LARIAT 'TRANSFORMER'
+  class: B 548
+  weight: 3511 Kg
+  year: 2019
+  autoshow: true
+- id: 12
+  manufacturer: Alfa Romeo
+  model: 4C
+  class: A 644
+  weight: 940 Kg
+  year: 2014
+  autoshow: true
+- id: 130
+  manufacturer: Deberti
+  model: TOYOTA TACOMA TRD THE PERFORMANCE TRUCK
+  class: S1 717
+  weight: 1458 Kg
+  year: 2019
+  autoshow: true
+- id: 131
+  manufacturer: DeLorean
+  model: DMC_12
+  class: D 357
+  weight: 1290 Kg
+  year: 1982
+  autoshow: true
+- id: 132
+  manufacturer: Dodge
+  model: DART HEMI SUPER STOCK
+  class: B 540
+  weight: 1370 Kg
+  year: 1968
+  autoshow: false
+- id: 133
+  manufacturer: Dodge
+  model: CHARGER DAYTONA HEMI
+  class: C 479
+  weight: 1758 Kg
+  year: 1969
+  autoshow: true
+- id: 134
+  manufacturer: Dodge
+  model: CHARGER R/T
+  class: C 417
+  weight: 1665 Kg
+  year: 1969
+  autoshow: false
+- id: 135
+  manufacturer: Dodge
+  model: CHALLENGER R/T
+  class: C 443
+  weight: 1724 Kg
+  year: 1970
+  autoshow: false
+- id: 136
+  manufacturer: Dodge
+  model: CORONET SUPER BEE
+  class: C 455
+  weight: 1551 Kg
+  year: 1970
+  autoshow: true
+- id: 137
+  manufacturer: Dodge
+  model: VIPER GTS ACR
+  class: B 598
+  weight: 1565 Kg
+  year: 1999
+  autoshow: true
+- id: 138
+  manufacturer: Dodge
+  model: VIPER GTS ACR Forza Edition
+  class: A 700
+  weight: 1388 Kg
+  year: 1999
+  autoshow: false
+- id: 139
+  manufacturer: Dodge
+  model: RAM SRT10
+  class: B 547
+  weight: 2336 Kg
+  year: 2006
+  autoshow: true
+- id: 13
+  manufacturer: Alfa Romeo
+  model: GIULIA QUADRIFOGLIO
+  class: A 667
+  weight: 1701 Kg
+  year: 2017
+  autoshow: true
+- id: 140
+  manufacturer: Dodge
+  model: VIPER SRT10 ACR
+  class: S1 735
+  weight: 1546 Kg
+  year: 2008
+  autoshow: true
+- id: 141
+  manufacturer: SRT
+  model: SRT VIPER GTS
+  class: S1 707
+  weight: 1495 Kg
+  year: 2013
+  autoshow: true
+- id: 142
+  manufacturer: Dodge
+  model: CHALLENGER SRT HELLCAT
+  class: A 631
+  weight: 2013 Kg
+  year: 2015
+  autoshow: true
+- id: 143
+  manufacturer: Dodge
+  model: CHARGER SRT HELLCAT
+  class: A 637
+  weight: 2075 Kg
+  year: 2015
+  autoshow: true
+- id: 144
+  manufacturer: Dodge
+  model: VIPER ACR
+  class: S1 786
+  weight: 1528 Kg
+  year: 2016
+  autoshow: false
+- id: 145
+  manufacturer: Dodge
+  model: CHALLENGER SRT DEMON
+  class: A 678
+  weight: 1927 Kg
+  year: 2018
+  autoshow: true
+- id: 146
+  manufacturer: Dodge
+  model: Durango SRT Hellcat
+  class: A 628
+  weight: 2510 Kg
+  year: 2021
+  autoshow: true
+- id: 147
+  manufacturer: Dodge
+  model: Challenger SRT Super Stock
+  class: A 695
+  weight: 2014 Kg
+  year: 2022
+  autoshow: true
+- id: 148
+  manufacturer: Ferrari
+  model: 250 GT BERLINETTA LUSSO
+  class: C 475
+  weight: 1020 Kg
+  year: 1962
+  autoshow: true
+- id: 149
+  manufacturer: Ferrari
+  model: 250 GTO
+  class: C 494
+  weight: 1043 Kg
+  year: 1962
+  autoshow: true
+- id: 14
+  manufacturer: Alumi Craft
+  model: CLASS 10 RACE CAR
+  class: B 532
+  weight: 998 Kg
+  year: 2015
+  autoshow: true
+- id: 150
+  manufacturer: Ferrari
+  model: '#24 FERRARI SPA 330 P4'
+  class: A 684
+  weight: 1030 Kg
+  year: 1967
+  autoshow: true
+- id: 151
+  manufacturer: Ferrari
+  model: DINO 246 GT
+  class: C 428
+  weight: 1080 Kg
+  year: 1969
+  autoshow: true
+- id: 152
+  manufacturer: Ferrari
+  model: 512 S
+  class: S1 774
+  weight: 948 Kg
+  year: 1970
+  autoshow: true
+- id: 153
+  manufacturer: Ferrari
+  model: 288 GTO
+  class: A 643
+  weight: 1280 Kg
+  year: 1984
+  autoshow: false
+- id: 154
+  manufacturer: Ferrari
+  model: F40
+  class: A 678
+  weight: 1352 Kg
+  year: 1987
+  autoshow: true
+- id: 155
+  manufacturer: Ferrari
+  model: F40 COMPETIZIONE
+  class: R 948
+  weight: 1050 Kg
+  year: 1989
+  autoshow: true
+- id: 156
+  manufacturer: Ferrari
+  model: 512 TR
+  class: A 615
+  weight: 1674 Kg
+  year: 1992
+  autoshow: false
+- id: 157
+  manufacturer: Ferrari
+  model: F355 BERLINETTA
+  class: B 588
+  weight: 1450 Kg
+  year: 1994
+  autoshow: false
+- id: 158
+  manufacturer: Ferrari
+  model: F50
+  class: A 678
+  weight: 1350 Kg
+  year: 1995
+  autoshow: true
+- id: 159
+  manufacturer: Ferrari
+  model: F50 GT
+  class: R 948
+  weight: 908 Kg
+  year: 1996
+  autoshow: false
+- id: 15
+  manufacturer: Alumi Craft
+  model: '#122 CLASS 1 BUGGY'
+  class: B 571
+  weight: 1701 Kg
+  year: 2021
+  autoshow: true
+- id: 160
+  manufacturer: Ferrari
+  model: ENZO FERRARI
+  class: S1 755
+  weight: 1480 Kg
+  year: 2002
+  autoshow: true
+- id: 161
+  manufacturer: Ferrari
+  model: FXX
+  class: S2 900
+  weight: 1239 Kg
+  year: 2005
+  autoshow: true
+- id: 162
+  manufacturer: Ferrari
+  model: 430 SCUDERIA
+  class: S1 702
+  weight: 1429 Kg
+  year: 2007
+  autoshow: true
+- id: 163
+  manufacturer: Ferrari
+  model: 458 ITALIA
+  class: S1 721
+  weight: 1485 Kg
+  year: 2009
+  autoshow: true
+- id: 164
+  manufacturer: Ferrari
+  model: 599XX
+  class: S2 840
+  weight: 1413 Kg
+  year: 2010
+  autoshow: true
+- id: 165
+  manufacturer: Ferrari
+  model: 599XX EVOLUTION
+  class: S2 894
+  weight: 1378 Kg
+  year: 2012
+  autoshow: false
+- id: 166
+  manufacturer: Ferrari
+  model: 458 SPECIALE
+  class: S1 768
+  weight: 1395 Kg
+  year: 2013
+  autoshow: true
+- id: 167
+  manufacturer: Ferrari
+  model: LAFERRARI
+  class: S2 857
+  weight: 1480 Kg
+  year: 2013
+  autoshow: true
+- id: 168
+  manufacturer: Ferrari
+  model: FXX K
+  class: R 936
+  weight: 1284 Kg
+  year: 2014
+  autoshow: true
+- id: 169
+  manufacturer: Ferrari
+  model: 488 GTB
+  class: S1 770
+  weight: 1475 Kg
+  year: 2015
+  autoshow: true
+- id: 16
+  manufacturer: Alumi Craft
+  model: '#6165 TRICK TRUCK'
+  class: C 485
+  weight: 2608 Kg
+  year: 2022
+  autoshow: true
+- id: 170
+  manufacturer: Ferrari
+  model: F12TDF
+  class: S1 788
+  weight: 1520 Kg
+  year: 2015
+  autoshow: true
+- id: 171
+  manufacturer: Ferrari
+  model: 812 SUPERFAST
+  class: S1 780
+  weight: 1630 Kg
+  year: 2017
+  autoshow: true
+- id: 172
+  manufacturer: Ferrari
+  model: J50
+  class: S1 772
+  weight: 1525 Kg
+  year: 2017
+  autoshow: true
+- id: 173
+  manufacturer: Ferrari
+  model: J50 Preorder
+  class: S1 800
+  weight: 1384 Kg
+  year: 2017
+  autoshow: false
+- id: 174
+  manufacturer: Ferrari
+  model: FXX_K EVO
+  class: '? 957'
+  weight: 1270 Kg
+  year: 2018
+  autoshow: true
+- id: 175
+  manufacturer: Ferrari
+  model: FXX_K Evo Welcome Pack
+  class: R 998
+  weight: 1045 Kg
+  year: 2018
+  autoshow: false
+- id: 176
+  manufacturer: Ferrari
+  model: PORTOFINO
+  class: S1 714
+  weight: 1664 Kg
+  year: 2018
+  autoshow: true
+- id: 177
+  manufacturer: Ferrari
+  model: 488 PISTA
+  class: S2 803
+  weight: 1385 Kg
+  year: 2019
+  autoshow: true
+- id: 178
+  manufacturer: Ferrari
+  model: F8 TRIBUTO
+  class: S2 802
+  weight: 1466 Kg
+  year: 2019
+  autoshow: false
+- id: 179
+  manufacturer: Ferrari
+  model: MONZA SP2
+  class: S1 773
+  weight: 1589 Kg
+  year: 2019
+  autoshow: true
+- id: 17
+  manufacturer: AMG TRANSPORT DYNAMICS
+  model: M12S WARTHOG CST
+  class: A 663
+  weight: 2300 Kg
+  year: 2554
+  autoshow: true
+- id: 180
+  manufacturer: Ferrari
+  model: ROMA
+  class: S1 735
+  weight: 1645 Kg
+  year: 2020
+  autoshow: false
+- id: 181
+  manufacturer: Ferrari
+  model: SF90 STRADALE
+  class: S2 851
+  weight: 1671 Kg
+  year: 2020
+  autoshow: true
+- id: 182
+  manufacturer: Ferrari
+  model: 296 GTB
+  class: S2 811
+  weight: 1575 Kg
+  year: 2022
+  autoshow: false
+- id: 183
+  manufacturer: Abarth
+  model: FIAT 131
+  class: D 399
+  weight: 980 Kg
+  year: 1980
+  autoshow: true
+- id: 184
+  manufacturer: Ford
+  model: DE LUXE FIVE_WINDOW COUPE
+  class: D 100
+  weight: 1088 Kg
+  year: 1932
+  autoshow: true
+- id: 185
+  manufacturer: Ford
+  model: MUSTANG GT COUPE
+  class: D 388
+  weight: 1162 Kg
+  year: 1965
+  autoshow: true
+- id: 186
+  manufacturer: Ford
+  model: '#2 GT40 MK II'
+  class: A 666
+  weight: 1217 Kg
+  year: 1966
+  autoshow: true
+- id: 187
+  manufacturer: Ford
+  model: MUSTANG GT 2+2 FASTBACK
+  class: D 394
+  weight: 1609 Kg
+  year: 1968
+  autoshow: true
+- id: 188
+  manufacturer: Ford
+  model: MUSTANG GT 2+2 FASTBACK Forza Edition
+  class: A 700
+  weight: 1390 Kg
+  year: 1968
+  autoshow: false
+- id: 189
+  manufacturer: Ford
+  model: MUSTANG BOSS 302
+  class: C 468
+  weight: 1474 Kg
+  year: 1969
+  autoshow: true
+- id: 18
+  manufacturer: Apollo
+  model: INTENSA EMOZIONE
+  class: R 916
+  weight: 1250 Kg
+  year: 2019
+  autoshow: false
+- id: 190
+  manufacturer: Ford
+  model: CAPRI RS3100
+  class: D 394
+  weight: 1050 Kg
+  year: 1973
+  autoshow: true
+- id: 191
+  manufacturer: Ford
+  model: XB FALCON GT
+  class: C 422
+  weight: 1382 Kg
+  year: 1973
+  autoshow: true
+- id: 192
+  manufacturer: Ford
+  model: '#5 ESCORT RS1800 MKII'
+  class: B 544
+  weight: 980 Kg
+  year: 1977
+  autoshow: true
+- id: 193
+  manufacturer: Ford
+  model: F_150 XLT LARIAT
+  class: D 263
+  weight: 1726 Kg
+  year: 1986
+  autoshow: true
+- id: 194
+  manufacturer: Ford
+  model: F_150 XLT LARIAT Forza Edition
+  class: S2 850
+  weight: 1400 Kg
+  year: 1986
+  autoshow: false
+- id: 195
+  manufacturer: Ford
+  model: RS200 EVOLUTION
+  class: S1 710
+  weight: 1118 Kg
+  year: 1985
+  autoshow: true
+- id: 196
+  manufacturer: Ford
+  model: SIERRA COSWORTH RS500
+  class: C 484
+  weight: 1240 Kg
+  year: 1987
+  autoshow: false
+- id: 197
+  manufacturer: Ford
+  model: ESCORT RS COSWORTH
+  class: C 456
+  weight: 1275 Kg
+  year: 1992
+  autoshow: true
+- id: 198
+  manufacturer: Ford
+  model: SVT COBRA R
+  class: C 432
+  weight: 1417 Kg
+  year: 1993
+  autoshow: true
+- id: 199
+  manufacturer: Ford
+  model: SUPERVAN 3
+  class: S1 740
+  weight: 890 Kg
+  year: 1994
+  autoshow: true
+- id: 19
+  manufacturer: Ariel
+  model: ATOM 500 V8
+  class: S2 825
+  weight: 650 Kg
+  year: 2013
+  autoshow: true
+- id: 1
+  manufacturer: Abarth
+  model: 595 ESSEESSE
+  class: D 100
+  weight: 570 Kg
+  year: 1968
+  autoshow: true
+- id: 200
+  manufacturer: Ford
+  model: RACING PUMA
+  class: C 401
+  weight: 1174 Kg
+  year: 1999
+  autoshow: true
+- id: 201
+  manufacturer: Ford
+  model: SVT COBRA R
+  class: B 528
+  weight: 1628 Kg
+  year: 2000
+  autoshow: true
+- id: 202
+  manufacturer: Ford
+  model: '#4 FORD FOCUS RS'
+  class: A 639
+  weight: 1271 Kg
+  year: 2001
+  autoshow: true
+- id: 203
+  manufacturer: Ford
+  model: F_150 SVT LIGHTNING
+  class: C 474
+  weight: 2118 Kg
+  year: 2003
+  autoshow: false
+- id: 204
+  manufacturer: Ford
+  model: FOCUS RS
+  class: C 484
+  weight: 1280 Kg
+  year: 2003
+  autoshow: true
+- id: 205
+  manufacturer: Ford
+  model: GT
+  class: A 676
+  weight: 1538 Kg
+  year: 2005
+  autoshow: false
+- id: 206
+  manufacturer: Ford
+  model: FOCUS RS
+  class: B 551
+  weight: 1468 Kg
+  year: 2009
+  autoshow: true
+- id: 207
+  manufacturer: Ford
+  model: CROWN VICTORIA POLICE INTERCEPTOR
+  class: D 354
+  weight: 1840 Kg
+  year: 2010
+  autoshow: true
+- id: 208
+  manufacturer: Ford
+  model: TRANSIT SUPERSPORTVAN
+  class: D 235
+  weight: 2038 Kg
+  year: 2011
+  autoshow: true
+- id: 209
+  manufacturer: Ford
+  model: Mustang SHELBY GT500
+  class: A 647
+  weight: 1768 Kg
+  year: 2013
+  autoshow: true
+- id: 20
+  manufacturer: Ariel
+  model: NOMAD
+  class: A 601
+  weight: 670 Kg
+  year: 2016
+  autoshow: true
+- id: 210
+  manufacturer: Ford
+  model: '#11 ROCKSTAR F_150 TROPHY TRUCK'
+  class: A 613
+  weight: 2835 Kg
+  year: 2014
+  autoshow: true
+- id: 211
+  manufacturer: Ford
+  model: FPV LIMITED EDITION PURSUIT UTE
+  class: B 563
+  weight: 1790 Kg
+  year: 2014
+  autoshow: true
+- id: 212
+  manufacturer: Ford
+  model: RANGER T6 RALLY RAID
+  class: B 530
+  weight: 1975 Kg
+  year: 2014
+  autoshow: false
+- id: 213
+  manufacturer: Ford
+  model: GT
+  class: S1 757
+  weight: 1521 Kg
+  year: 2017
+  autoshow: true
+- id: 214
+  manufacturer: Ford
+  model: SHELBY GT350R
+  class: S1 721
+  weight: 1660 Kg
+  year: 2016
+  autoshow: true
+- id: 215
+  manufacturer: Ford
+  model: '#14 RAHAL LETTERMAN LANIGAN RACING GRC FIESTA'
+  class: S1 772
+  weight: 1246 Kg
+  year: 2017
+  autoshow: true
+- id: 216
+  manufacturer: Ford
+  model: '#25 ''BROCKY'' ULTRA4 BRONCO RTR'
+  class: A 644
+  weight: 2041 Kg
+  year: 2017
+  autoshow: true
+- id: 217
+  manufacturer: Ford
+  model: FOCUS RS
+  class: B 588
+  weight: 1563 Kg
+  year: 2017
+  autoshow: true
+- id: 218
+  manufacturer: Ford
+  model: M_SPORT FIESTA RS
+  class: S1 707
+  weight: 1274 Kg
+  year: 2017
+  autoshow: false
+- id: 219
+  manufacturer: Ford
+  model: MUSTANG RTR SPEC 5
+  class: A 648
+  weight: 1736 Kg
+  year: 2018
+  autoshow: true
+- id: 21
+  manufacturer: Aston Martin
+  model: DB5
+  class: C 417
+  weight: 1465 Kg
+  year: 1964
+  autoshow: true
+- id: 220
+  manufacturer: Ford
+  model: '#2069 FORD PERFORMANCE BRONCO R'
+  class: C 441
+  weight: 2948 Kg
+  year: 2020
+  autoshow: true
+- id: 221
+  manufacturer: Ford
+  model: MUSTANG SHELBY GT500
+  class: S1 734
+  weight: 1892 Kg
+  year: 2020
+  autoshow: true
+- id: 222
+  manufacturer: Ford
+  model: SUPER DUTY F_450 DRW PLATINUM
+  class: D 379
+  weight: 3895 Kg
+  year: 2020
+  autoshow: true
+- id: 223
+  manufacturer: Ford
+  model: Super Duty F_450 DRW PLATINUM FORZA EDITION
+  class: A 700
+  weight: 2892 Kg
+  year: 2020
+  autoshow: false
+- id: 224
+  manufacturer: Ford
+  model: Bronco Raptor
+  class: C 473
+  weight: 2600 Kg
+  year: 2022
+  autoshow: true
+- id: 225
+  manufacturer: Ford
+  model: F_150 LIGHTNING PLATINUM
+  class: C 500
+  weight: 3207 Kg
+  year: 2022
+  autoshow: false
+- id: 226
+  manufacturer: Ford
+  model: Focus ST
+  class: B 594
+  weight: 1437 Kg
+  year: 2022
+  autoshow: true
+- id: 227
+  manufacturer: Ford
+  model: Supervan 4
+  class: R 919
+  weight: 1989 Kg
+  year: 2022
+  autoshow: false
+- id: 228
+  manufacturer: Ford
+  model: F_150 Raptor R
+  class: B 536
+  weight: 2756 Kg
+  year: 2023
+  autoshow: true
+- id: 229
+  manufacturer: Ford
+  model: F_150 Raptor R Welcome Pack
+  class: B 600
+  weight: 2756 Kg
+  year: 2023
+  autoshow: false
+- id: 22
+  manufacturer: Aston Martin
+  model: VULCAN
+  class: S2 884
+  weight: 1360 Kg
+  year: 2016
+  autoshow: true
+- id: 230
+  manufacturer: Ford
+  model: Fiesta ST
+  class: C 500
+  weight: 1205 Kg
+  year: 2023
+  autoshow: true
+- id: 231
+  manufacturer: Ford
+  model: Mustang Dark Horse
+  class: A 669
+  weight: 1791 Kg
+  year: 2024
+  autoshow: true
+- id: 232
+  manufacturer: Ford
+  model: Mustang GT
+  class: A 628
+  weight: 1736 Kg
+  year: 2024
+  autoshow: true
+- id: 233
+  manufacturer: Formula Drift
+  model: '#98 BMW 325I'
+  class: S1 726
+  weight: 1270 Kg
+  year: 1989
+  autoshow: true
+- id: 234
+  manufacturer: Formula Drift
+  model: '#34 TOYOTA SUPRA MKIV'
+  class: S1 759
+  weight: 1292 Kg
+  year: 1995
+  autoshow: true
+- id: 235
+  manufacturer: Formula Drift
+  model: '#777 NISSAN 240SX'
+  class: S1 748
+  weight: 1406 Kg
+  year: 1997
+  autoshow: true
+- id: 236
+  manufacturer: Formula Drift
+  model: '#43 DODGE VIPER SRT10'
+  class: S1 748
+  weight: 1315 Kg
+  year: 2006
+  autoshow: false
+- id: 237
+  manufacturer: Formula Drift
+  model: '#117 599 GTB FIORANO'
+  class: S1 767
+  weight: 1451 Kg
+  year: 2007
+  autoshow: true
+- id: 238
+  manufacturer: Formula Drift
+  model: '#99 MAZDA RX_8'
+  class: S1 737
+  weight: 1281 Kg
+  year: 2009
+  autoshow: true
+- id: 239
+  manufacturer: Formula Drift
+  model: '#777 CHEVROLET CORVETTE'
+  class: S1 760
+  weight: 1361 Kg
+  year: 2013
+  autoshow: true
+- id: 23
+  manufacturer: Aston Martin
+  model: DB11
+  class: A 679
+  weight: 1875 Kg
+  year: 2017
+  autoshow: true
+- id: 240
+  manufacturer: Formula Drift
+  model: '#13 FORD MUSTANG'
+  class: S1 739
+  weight: 1406 Kg
+  year: 2015
+  autoshow: false
+- id: 241
+  manufacturer: Formula Drift
+  model: '#530 HSV MALOO GEN_F'
+  class: S1 710
+  weight: 1315 Kg
+  year: 2016
+  autoshow: true
+- id: 242
+  manufacturer: Formula Drift
+  model: '#411 TOYOTA COROLLA HATCHBACK'
+  class: S1 754
+  weight: 1432 Kg
+  year: 2019
+  autoshow: true
+- id: 243
+  manufacturer: Formula Drift
+  model: '#151 TOYOTA GR SUPRA'
+  class: S1 779
+  weight: 1432 Kg
+  year: 2020
+  autoshow: true
+- id: 244
+  manufacturer: Formula Drift
+  model: '#91 BMW M2'
+  class: S1 748
+  weight: 1292 Kg
+  year: 2020
+  autoshow: true
+- id: 245
+  manufacturer: Funco Motorsports
+  model: F9
+  class: S1 752
+  weight: 1270 Kg
+  year: 2018
+  autoshow: true
+- id: 246
+  manufacturer: GMC
+  model: JIMMY
+  class: C 416
+  weight: 1818 Kg
+  year: 1970
+  autoshow: true
+- id: 247
+  manufacturer: GMC
+  model: SYCLONE
+  class: C 446
+  weight: 1639 Kg
+  year: 1991
+  autoshow: true
+- id: 248
+  manufacturer: GMC
+  model: TYPHOON
+  class: C 435
+  weight: 1724 Kg
+  year: 1992
+  autoshow: true
+- id: 249
+  manufacturer: GMC
+  model: HUMMER EV PICKUP
+  class: A 610
+  weight: 4111 Kg
+  year: 2022
+  autoshow: true
+- id: 24
+  manufacturer: Aston Martin
+  model: VULCAN AMR PRO
+  class: S2 898
+  weight: 1360 Kg
+  year: 2017
+  autoshow: true
+- id: 250
+  manufacturer: Gordon Murray Automotive
+  model: T.50
+  class: S2 871
+  weight: 1017 Kg
+  year: 2020
+  autoshow: true
+- id: 251
+  manufacturer: Hennessey
+  model: VENOM GT
+  class: S2 845
+  weight: 1218 Kg
+  year: 2012
+  autoshow: false
+- id: 252
+  manufacturer: Hennessey
+  model: Ford F_150 VELOCIRAPTOR 6X6
+  class: B 520
+  weight: 3038 Kg
+  year: 2019
+  autoshow: true
+- id: 253
+  manufacturer: Hennessey
+  model: VENOM F5
+  class: S2 870
+  weight: 1385 Kg
+  year: 2021
+  autoshow: true
+- id: 254
+  manufacturer: Holden
+  model: TORANA A9X
+  class: C 413
+  weight: 1143 Kg
+  year: 1977
+  autoshow: true
+- id: 255
+  manufacturer: Honda
+  model: S800
+  class: D 134
+  weight: 710 Kg
+  year: 1970
+  autoshow: true
+- id: 256
+  manufacturer: Honda
+  model: CIVIC RS
+  class: D 254
+  weight: 735 Kg
+  year: 1974
+  autoshow: false
+- id: 257
+  manufacturer: Honda
+  model: CIVIC CRX MUGEN
+  class: D 390
+  weight: 825 Kg
+  year: 1984
+  autoshow: true
+- id: 258
+  manufacturer: Honda
+  model: City E II
+  class: D 203
+  weight: 670 Kg
+  year: 1984
+  autoshow: true
+- id: 259
+  manufacturer: Honda
+  model: CIVIC SI
+  class: D 253
+  weight: 887 Kg
+  year: 1986
+  autoshow: true
+- id: 25
+  manufacturer: Aston Martin
+  model: DBS SUPERLEGGERA
+  class: S1 736
+  weight: 1799 Kg
+  year: 2019
+  autoshow: false
+- id: 260
+  manufacturer: Honda
+  model: '#19 101 Motorsport CRX WTAC'
+  class: S2 877
+  weight: 816 Kg
+  year: 1990
+  autoshow: false
+- id: 261
+  manufacturer: Honda
+  model: CR_X SIR
+  class: C 465
+  weight: 980 Kg
+  year: 1991
+  autoshow: false
+- id: 262
+  manufacturer: Honda
+  model: Beat
+  class: D 283
+  weight: 760 Kg
+  year: 1991
+  autoshow: true
+- id: 263
+  manufacturer: Honda
+  model: '#21 Hardrace/JDMYard Civic WTAC'
+  class: R 913
+  weight: 920 Kg
+  year: 1992
+  autoshow: false
+- id: 264
+  manufacturer: Honda
+  model: NSX_R
+  class: B 572
+  weight: 1230 Kg
+  year: 1992
+  autoshow: true
+- id: 266
+  manufacturer: Honda
+  model: ACTY
+  class: ""
+  weight: 770 Kg
+  year: 1994
+  autoshow: true
+- id: 267
+  manufacturer: Honda
+  model: PRELUDE SI
+  class: C 410
+  weight: 1302 Kg
+  year: 1994
+  autoshow: true
+- id: 268
+  manufacturer: Honda
+  model: Civic Type R
+  class: C 430
+  weight: 1090 Kg
+  year: 1997
+  autoshow: true
+- id: 269
+  manufacturer: Honda
+  model: '#33 Integra WTAC'
+  class: S2 860
+  weight: 940 Kg
+  year: 2001
+  autoshow: false
+- id: 26
+  manufacturer: Aston Martin
+  model: VALHALLA CONCEPT CAR
+  class: R 960
+  weight: 1405 Kg
+  year: 2019
+  autoshow: false
+- id: 271
+  manufacturer: Honda
+  model: S2000
+  class: ""
+  weight: 1250 Kg
+  year: 2003
+  autoshow: true
+- id: 272
+  manufacturer: Honda
+  model: CIVIC TYPE_R
+  class: C 480
+  weight: 1190 Kg
+  year: 2004
+  autoshow: true
+- id: 273
+  manufacturer: Honda
+  model: '#52 Evasive Motorsports S2000 WTAC'
+  class: S2 888
+  weight: 1089 Kg
+  year: 2004
+  autoshow: false
+- id: 274
+  manufacturer: Honda
+  model: NSX_R
+  class: B 570
+  weight: 1270 Kg
+  year: 2005
+  autoshow: true
+- id: 275
+  manufacturer: Honda
+  model: NSX_R GT
+  class: A 608
+  weight: 1270 Kg
+  year: 2005
+  autoshow: false
+- id: 276
+  manufacturer: Honda
+  model: CIVIC TYPE_R
+  class: C 454
+  weight: 1345 Kg
+  year: 2007
+  autoshow: true
+- id: 277
+  manufacturer: Honda
+  model: Civic Type R (FD2)
+  class: '? ???'
+  weight: ??? Kg
+  year: 2008
+  autoshow: false
+- id: 278
+  manufacturer: Honda
+  model: CIVIC  TYPE R
+  class: B 585
+  weight: 1382 Kg
+  year: 2015
+  autoshow: true
+- id: 279
+  manufacturer: Honda
+  model: RIDGELINE BAJA TROPHY TRUCK
+  class: B 579
+  weight: 2132 Kg
+  year: 2015
+  autoshow: true
+- id: 27
+  manufacturer: Aston Martin
+  model: VANTAGE
+  class: A 696
+  weight: 1586 Kg
+  year: 2019
+  autoshow: true
+- id: 280
+  manufacturer: Honda
+  model: Civic Type R
+  class: A 608
+  weight: 1414 Kg
+  year: 2018
+  autoshow: true
+- id: 281
+  manufacturer: Honda
+  model: E
+  class: D 398
+  weight: ??? Kg
+  year: 2022
+  autoshow: true
+- id: 282
+  manufacturer: Honda
+  model: Civic Type R
+  class: A 620
+  weight: 1446 Kg
+  year: 2023
+  autoshow: true
+- id: 283
+  manufacturer: HSV
+  model: GEN_F GTS
+  class: A 601
+  weight: 1881 Kg
+  year: 2014
+  autoshow: true
+- id: 284
+  manufacturer: HSV
+  model: LIMITED EDITION GEN_F GTS MALOO
+  class: A 629
+  weight: 1830 Kg
+  year: 2014
+  autoshow: true
+- id: 285
+  manufacturer: Hyundai
+  model: VELOSTER N
+  class: B 532
+  weight: 1409 Kg
+  year: 2019
+  autoshow: true
+- id: 286
+  manufacturer: Hyundai
+  model: i30N
+  class: B 553
+  weight: 1429 Kg
+  year: 2020
+  autoshow: true
+- id: 287
+  manufacturer: Hyundai
+  model: i20 N
+  class: B 564
+  weight: 1190 Kg
+  year: 2021
+  autoshow: true
+- id: 288
+  manufacturer: Hyundai
+  model: N Vision 74
+  class: A 692
+  weight: 2472 Kg
+  year: 2022
+  autoshow: true
+- id: 289
+  manufacturer: Hyundai
+  model: iONIQ 5 N
+  class: A 657
+  weight: 2214 Kg
+  year: 2023
+  autoshow: true
+- id: 28
+  manufacturer: Aston Martin
+  model: DBX
+  class: A 618
+  weight: 2245 Kg
+  year: 2021
+  autoshow: false
+- id: 290
+  manufacturer: Jaguar
+  model: D_TYPE
+  class: B 506
+  weight: 953 Kg
+  year: 1956
+  autoshow: true
+- id: 291
+  manufacturer: Jaguar
+  model: E_TYPE
+  class: C 414
+  weight: 1315 Kg
+  year: 1961
+  autoshow: false
+- id: 292
+  manufacturer: Jaguar
+  model: LIGHTWEIGHT E_TYPE
+  class: B 568
+  weight: 1040 Kg
+  year: 1964
+  autoshow: true
+- id: 293
+  manufacturer: Jaguar
+  model: SPORT XJR_15
+  class: S1 716
+  weight: 1050 Kg
+  year: 1991
+  autoshow: true
+- id: 294
+  manufacturer: Jaguar
+  model: XJ220
+  class: A 676
+  weight: 1470 Kg
+  year: 1993
+  autoshow: true
+- id: 295
+  manufacturer: Jaguar
+  model: XJ220S TWR
+  class: S1 750
+  weight: 1079 Kg
+  year: 1993
+  autoshow: true
+- id: 296
+  manufacturer: Jaguar
+  model: C_X75
+  class: S2 810
+  weight: 1701 Kg
+  year: 2010
+  autoshow: true
+- id: 297
+  manufacturer: Jeep
+  model: JT
+  class: D 350
+  weight: 1874 Kg
+  year: 2020
+  autoshow: true
+- id: 298
+  manufacturer: Jeep
+  model: TRAILCAT
+  class: A 635
+  weight: 2087 Kg
+  year: 2016
+  autoshow: true
+- id: 299
+  manufacturer: Jeep
+  model: GRAND CHEROKEE TRACKHAWK
+  class: A 631
+  weight: 2427 Kg
+  year: 2018
+  autoshow: true
+- id: 29
+  manufacturer: Aston Martin
+  model: Valkyrie AMR Pro
+  class: R 989
+  weight: 1075 Kg
+  year: 2022
+  autoshow: true
+- id: 2
+  manufacturer: Abarth
+  model: 695 BIPOSTO
+  class: B 540
+  weight: 997 Kg
+  year: 2016
+  autoshow: false
+- id: 300
+  manufacturer: Jeep
+  model: WRANGLER RUBICON
+  class: D 350
+  weight: 1874 Kg
+  year: 2012
+  autoshow: false
+- id: 301
+  manufacturer: Jimco
+  model: '#240 FASTBALL RACING SPEC TROPHY TRUCK'
+  class: B 511
+  weight: 2313 Kg
+  year: 2019
+  autoshow: true
+- id: 302
+  manufacturer: Jimco
+  model: '#179 HAMMERHEAD CLASS 1'
+  class: A 652
+  weight: 1800 Kg
+  year: 2020
+  autoshow: true
+- id: 303
+  manufacturer: Koenigsegg
+  model: CCGT
+  class: S2 900
+  weight: 1100 Kg
+  year: 2008
+  autoshow: true
+- id: 304
+  manufacturer: Koenigsegg
+  model: AGERA
+  class: S2 810
+  weight: 1435 Kg
+  year: 2011
+  autoshow: true
+- id: 305
+  manufacturer: Koenigsegg
+  model: ONE:1
+  class: S2 890
+  weight: 1360 Kg
+  year: 2015
+  autoshow: false
+- id: 306
+  manufacturer: Koenigsegg
+  model: REGERA
+  class: S2 886
+  weight: 1628 Kg
+  year: 2016
+  autoshow: true
+- id: 307
+  manufacturer: Koenigsegg
+  model: AGERA RS
+  class: S2 890
+  weight: 1395 Kg
+  year: 2017
+  autoshow: true
+- id: 308
+  manufacturer: Koenigsegg
+  model: JESKO
+  class: S2 899
+  weight: 1420 Kg
+  year: 2020
+  autoshow: true
+- id: 309
+  manufacturer: Koenigsegg
+  model: Gemera
+  class: S2 900
+  weight: 2041 Kg
+  year: 2024
+  autoshow: false
+- id: 30
+  manufacturer: Aston Martin
+  model: Valkyrie
+  class: R 925
+  weight: 1350 Kg
+  year: 2023
+  autoshow: true
+- id: 310
+  manufacturer: KTM
+  model: X_BOW GT4
+  class: S1 749
+  weight: 1067 Kg
+  year: 2018
+  autoshow: true
+- id: 311
+  manufacturer: Lamborghini
+  model: MIURA P400
+  class: B 505
+  weight: 1245 Kg
+  year: 1967
+  autoshow: true
+- id: 312
+  manufacturer: Lamborghini
+  model: COUNTACH LP5000 QV
+  class: A 622
+  weight: 1490 Kg
+  year: 1988
+  autoshow: false
+- id: 313
+  manufacturer: Lamborghini
+  model: DIABLO SV
+  class: A 649
+  weight: 1576 Kg
+  year: 1997
+  autoshow: false
+- id: 314
+  manufacturer: Lamborghini
+  model: DIABLO GTR
+  class: S2 823
+  weight: 1400 Kg
+  year: 1999
+  autoshow: false
+- id: 315
+  manufacturer: Lamborghini
+  model: MURCIELAGO LP 670_4 SV
+  class: S1 707
+  weight: 1721 Kg
+  year: 2010
+  autoshow: true
+- id: 316
+  manufacturer: Lamborghini
+  model: SESTO ELEMENTO
+  class: S2 871
+  weight: 999 Kg
+  year: 2011
+  autoshow: false
+- id: 317
+  manufacturer: Lamborghini
+  model: AVENTADOR LP700_4
+  class: S1 753
+  weight: 1731 Kg
+  year: 2012
+  autoshow: false
+- id: 318
+  manufacturer: Lamborghini
+  model: GALLARDO LP 570_4 SPYDER PERFORMANTE
+  class: A 685
+  weight: 1641 Kg
+  year: 2012
+  autoshow: true
+- id: 319
+  manufacturer: Lamborghini
+  model: VENENO
+  class: S2 834
+  weight: 1646 Kg
+  year: 2013
+  autoshow: true
+- id: 31
+  manufacturer: Audi
+  model: SPORT QUATTRO
+  class: B 526
+  weight: 1273 Kg
+  year: 1983
+  autoshow: false
+- id: 320
+  manufacturer: Lamborghini
+  model: HURACÁN LP 610_4
+  class: S1 738
+  weight: 1552 Kg
+  year: 2014
+  autoshow: true
+- id: 321
+  manufacturer: Lamborghini
+  model: CENTENARIO LP 770_4
+  class: S1 792
+  weight: 1675 Kg
+  year: 2016
+  autoshow: true
+- id: 322
+  manufacturer: Lamborghini
+  model: AVENTADOR SVJ
+  class: S1 794
+  weight: 1636 Kg
+  year: 2018
+  autoshow: true
+- id: 323
+  manufacturer: Lamborghini
+  model: URUS
+  class: A 659
+  weight: 2200 Kg
+  year: 2019
+  autoshow: true
+- id: 324
+  manufacturer: Lamborghini
+  model: ESSENZA SCV12
+  class: R 911
+  weight: 1447 Kg
+  year: 2020
+  autoshow: true
+- id: 325
+  manufacturer: Lamborghini
+  model: HURACÁN EVO
+  class: S1 761
+  weight: 1552 Kg
+  year: 2020
+  autoshow: false
+- id: 326
+  manufacturer: Lamborghini
+  model: HURACÁN STO
+  class: S1 783
+  weight: 1469 Kg
+  year: 2020
+  autoshow: true
+- id: 327
+  manufacturer: Lamborghini
+  model: SIÁN ROADSTER
+  class: S1 797
+  weight: 1736 Kg
+  year: 2020
+  autoshow: true
+- id: 328
+  manufacturer: Lamborghini
+  model: Aventador LP 780_4 Ultimae
+  class: S1 794
+  weight: 1750 Kg
+  year: 2021
+  autoshow: true
+- id: 329
+  manufacturer: Lamborghini
+  model: Countach LPI 800_4
+  class: S1 773
+  weight: 1867 Kg
+  year: 2021
+  autoshow: true
+- id: 32
+  manufacturer: Audi
+  model: '#2 AUDI SPORT QUATTRO S1'
+  class: S1 726
+  weight: 1090 Kg
+  year: 1986
+  autoshow: true
+- id: 330
+  manufacturer: Lamborghini
+  model: HURACÁN TECNICA
+  class: S1 747
+  weight: 1543 Kg
+  year: 2022
+  autoshow: true
+- id: 331
+  manufacturer: Lamborghini
+  model: Huracán Sterrato
+  class: S1 738
+  weight: 1630 Kg
+  year: 2023
+  autoshow: true
+- id: 332
+  manufacturer: Lamborghini
+  model: Revuelto
+  class: S2 829
+  weight: 1836 Kg
+  year: 2024
+  autoshow: true
+- id: 333
+  manufacturer: Lancia
+  model: STRATOS HF STRADALE
+  class: C 483
+  weight: 980 Kg
+  year: 1974
+  autoshow: false
+- id: 334
+  manufacturer: Lancia
+  model: DELTA S4
+  class: B 564
+  weight: 1200 Kg
+  year: 1986
+  autoshow: true
+- id: 335
+  manufacturer: Lancia
+  model: DELTA HF INTEGRALE EVO
+  class: C 489
+  weight: 1300 Kg
+  year: 1992
+  autoshow: true
+- id: 336
+  manufacturer: Land Rover
+  model: RANGE ROVER SPORT SVR
+  class: A 604
+  weight: 2335 Kg
+  year: 2015
+  autoshow: true
+- id: 337
+  manufacturer: Land Rover
+  model: DEFENDER 110 X
+  class: C 427
+  weight: 2386 Kg
+  year: 2020
+  autoshow: true
+- id: 338
+  manufacturer: Lexus
+  model: LFA
+  class: A 699
+  weight: 1480 Kg
+  year: 2010
+  autoshow: true
+- id: 339
+  manufacturer: Lexus
+  model: LFA Forza Edition
+  class: S2 900
+  weight: 1260 Kg
+  year: 2010
+  autoshow: false
+- id: 33
+  manufacturer: Audi
+  model: RS 4 AVANT
+  class: B 544
+  weight: 1620 Kg
+  year: 2001
+  autoshow: true
+- id: 340
+  manufacturer: Lexus
+  model: RC F
+  class: A 623
+  weight: 1795 Kg
+  year: 2015
+  autoshow: true
+- id: 341
+  manufacturer: Lexus
+  model: LC 500
+  class: B 592
+  weight: 1935 Kg
+  year: 2021
+  autoshow: true
+- id: 342
+  manufacturer: Lincoln
+  model: CONTINENTAL
+  class: D 267
+  weight: 2236 Kg
+  year: 1962
+  autoshow: false
+- id: 343
+  manufacturer: Lotus
+  model: ELISE GT1
+  class: S1 709
+  weight: 1100 Kg
+  year: 1997
+  autoshow: true
+- id: 344
+  manufacturer: Lotus
+  model: ELISE SERIES 1 SPORT 190
+  class: B 589
+  weight: 670 Kg
+  year: 1999
+  autoshow: true
+- id: 345
+  manufacturer: Lotus
+  model: Exige Cup 430
+  class: S1 732
+  weight: 1093 Kg
+  year: 2018
+  autoshow: false
+- id: 346
+  manufacturer: Lotus
+  model: Scura Motorsport Exige WTAC
+  class: R 998
+  weight: 830 Kg
+  year: 2018
+  autoshow: false
+- id: 347
+  manufacturer: Lotus
+  model: EVIJA
+  class: R 937
+  weight: 1680 Kg
+  year: 2020
+  autoshow: true
+- id: 348
+  manufacturer: Lotus
+  model: Evija Forza Edition
+  class: S2 900
+  weight: 1600 Kg
+  year: 2020
+  autoshow: false
+- id: 349
+  manufacturer: Lotus
+  model: EMIRA
+  class: A 656
+  weight: 1405 Kg
+  year: 2023
+  autoshow: false
+- id: 34
+  manufacturer: Audi
+  model: RS 6
+  class: B 556
+  weight: 1825 Kg
+  year: 2003
+  autoshow: true
+- id: 350
+  manufacturer: Lucid
+  model: Air Sapphire
+  class: S2 820
+  weight: 2403 Kg
+  year: 2024
+  autoshow: true
+- id: 351
+  manufacturer: Maserati
+  model: GHIBLI CUP
+  class: B 591
+  weight: 1365 Kg
+  year: 1997
+  autoshow: true
+- id: 352
+  manufacturer: Maserati
+  model: MC12
+  class: S1 751
+  weight: 1531 Kg
+  year: 2004
+  autoshow: false
+- id: 353
+  manufacturer: Maserati
+  model: MC12 VERSIONE CORSA
+  class: R 912
+  weight: 1200 Kg
+  year: 2008
+  autoshow: true
+- id: 354
+  manufacturer: Maserati
+  model: MC20
+  class: S1 753
+  weight: 1704 Kg
+  year: 2022
+  autoshow: true
+- id: 355
+  manufacturer: Mazda
+  model: COSMO 110S SERIES II
+  class: D 394
+  weight: 957 Kg
+  year: 1972
+  autoshow: false
+- id: 356
+  manufacturer: Mazda
+  model: RX_3 Forza Edition
+  class: B 600
+  weight: 810 Kg
+  year: 1973
+  autoshow: false
+- id: 357
+  manufacturer: Mazda
+  model: RX_3
+  class: D 328
+  weight: 934 Kg
+  year: 1973
+  autoshow: true
+- id: 359
+  manufacturer: Mazda
+  model: RX_7 GSL_SE
+  class: ""
+  weight: 1168 Kg
+  year: 1985
+  autoshow: false
+- id: 35
+  manufacturer: Audi
+  model: RS 4
+  class: B 593
+  weight: 1650 Kg
+  year: 2006
+  autoshow: true
+- id: 360
+  manufacturer: Mazda
+  model: SAVANNA RX_7
+  class: C 451
+  weight: 1352 Kg
+  year: 1990
+  autoshow: true
+- id: 361
+  manufacturer: Mazda
+  model: '#55 MAZDA 787B'
+  class: R 988
+  weight: 830 Kg
+  year: 1991
+  autoshow: false
+- id: 362
+  manufacturer: Mazda
+  model: RX_7 Type R
+  class: B 548
+  weight: 1260 Kg
+  year: 1992
+  autoshow: true
+- id: 363
+  manufacturer: Mazda
+  model: MX_5 MIATA
+  class: D 329
+  weight: 1057 Kg
+  year: 1994
+  autoshow: true
+- id: 364
+  manufacturer: Mazda
+  model: MX_5 MIATA Forza Edition
+  class: S2 850
+  weight: 950 Kg
+  year: 1994
+  autoshow: false
+- id: 365
+  manufacturer: Mazda
+  model: MAZDASPEED MX_5
+  class: C 469
+  weight: 1147 Kg
+  year: 2005
+  autoshow: true
+- id: 366
+  manufacturer: Mazda
+  model: FURAI
+  class: R 926
+  weight: 675 Kg
+  year: 2008
+  autoshow: false
+- id: 367
+  manufacturer: Mazda
+  model: MAZDASPEED 3
+  class: B 536
+  weight: 1461 Kg
+  year: 2010
+  autoshow: true
+- id: 368
+  manufacturer: Mazda
+  model: RX_8 R3
+  class: B 508
+  weight: 1390 Kg
+  year: 2011
+  autoshow: true
+- id: 369
+  manufacturer: Mazda
+  model: MX_5
+  class: C 432
+  weight: 1176 Kg
+  year: 2013
+  autoshow: true
+- id: 36
+  manufacturer: Audi
+  model: R8 LMS
+  class: S2 810
+  weight: 1390 Kg
+  year: 2009
+  autoshow: true
+- id: 370
+  manufacturer: Mazda
+  model: MX_5
+  class: C 499
+  weight: 1048 Kg
+  year: 2016
+  autoshow: true
+- id: 371
+  manufacturer: Mazda
+  model: MX_5 Cup
+  class: B 586
+  weight: 1077 Kg
+  year: 2017
+  autoshow: true
+- id: 372
+  manufacturer: Mazda
+  model: MX_5 Miata RF
+  class: B 509
+  weight: 1112 Kg
+  year: 2022
+  autoshow: true
+- id: 373
+  manufacturer: McLaren
+  model: F1
+  class: S1 713
+  weight: 1288 Kg
+  year: 1993
+  autoshow: true
+- id: 374
+  manufacturer: McLaren
+  model: F1 GT
+  class: S1 769
+  weight: 1120 Kg
+  year: 1997
+  autoshow: true
+- id: 375
+  manufacturer: McLaren
+  model: 12C COUPE
+  class: S1 727
+  weight: 1434 Kg
+  year: 2011
+  autoshow: true
+- id: 376
+  manufacturer: McLaren
+  model: P1
+  class: S2 848
+  weight: 1495 Kg
+  year: 2013
+  autoshow: true
+- id: 377
+  manufacturer: McLaren
+  model: 650S SPIDER
+  class: S1 765
+  weight: 1468 Kg
+  year: 2014
+  autoshow: true
+- id: 378
+  manufacturer: McLaren
+  model: 570S COUPE
+  class: S1 721
+  weight: 1452 Kg
+  year: 2015
+  autoshow: true
+- id: 379
+  manufacturer: McLaren
+  model: 600LT COUPE
+  class: S1 780
+  weight: 1356 Kg
+  year: 2018
+  autoshow: true
+- id: 37
+  manufacturer: Audi
+  model: RS 6
+  class: B 598
+  weight: 1985 Kg
+  year: 2009
+  autoshow: true
+- id: 380
+  manufacturer: McLaren
+  model: SPEEDTAIL
+  class: S2 835
+  weight: 1597 Kg
+  year: 2019
+  autoshow: true
+- id: 381
+  manufacturer: McLaren
+  model: 620R
+  class: S1 773
+  weight: 1420 Kg
+  year: 2021
+  autoshow: true
+- id: 382
+  manufacturer: McLaren
+  model: 765LT
+  class: S2 829
+  weight: 1339 Kg
+  year: 2021
+  autoshow: true
+- id: 383
+  manufacturer: McLaren
+  model: Sabre
+  class: S1 787
+  weight: 1478 Kg
+  year: 2021
+  autoshow: false
+- id: 384
+  manufacturer: McLaren
+  model: Artura
+  class: S1 766
+  weight: 1535 Kg
+  year: 2023
+  autoshow: true
+- id: 385
+  manufacturer: Mercedes_AMG
+  model: GT S
+  class: A 691
+  weight: 1621 Kg
+  year: 2015
+  autoshow: true
+- id: 386
+  manufacturer: Mercedes_AMG
+  model: C 63 S COUPE
+  class: A 645
+  weight: 1800 Kg
+  year: 2016
+  autoshow: true
+- id: 387
+  manufacturer: Mercedes_AMG
+  model: GT R
+  class: S1 764
+  weight: 1555 Kg
+  year: 2017
+  autoshow: true
+- id: 388
+  manufacturer: Mercedes_AMG
+  model: E 63 S
+  class: A 674
+  weight: 2048 Kg
+  year: 2018
+  autoshow: true
+- id: 389
+  manufacturer: Mercedes_AMG
+  model: GT 4_DOOR COUPE
+  class: A 664
+  weight: 2045 Kg
+  year: 2018
+  autoshow: false
+- id: 38
+  manufacturer: Audi
+  model: TT RS COUPE
+  class: B 593
+  weight: 1494 Kg
+  year: 2010
+  autoshow: true
+- id: 390
+  manufacturer: Mercedes_AMG
+  model: GT Black Series
+  class: S1 782
+  weight: 1640 Kg
+  year: 2021
+  autoshow: true
+- id: 391
+  manufacturer: Mercedes_AMG
+  model: GT BLACK SERIES Welcome Pack
+  class: S2 900
+  weight: 1160 Kg
+  year: 2020
+  autoshow: false
+- id: 392
+  manufacturer: Mercedes_AMG
+  model: ONE
+  class: S2 900
+  weight: 1695 Kg
+  year: 2021
+  autoshow: true
+- id: 393
+  manufacturer: Mercedes_AMG
+  model: SL 63
+  class: A 690
+  weight: 1953 Kg
+  year: 2021
+  autoshow: true
+- id: 394
+  manufacturer: Mercedes_Benz
+  model: 300 SL COUPÉ
+  class: D 388
+  weight: 1343 Kg
+  year: 1954
+  autoshow: true
+- id: 395
+  manufacturer: Mercedes_Benz
+  model: 300 SLR
+  class: B 599
+  weight: 900 Kg
+  year: 1955
+  autoshow: true
+- id: 396
+  manufacturer: Mercedes_Benz
+  model: AMG HAMMER COUPE
+  class: B 565
+  weight: 1651 Kg
+  year: 1987
+  autoshow: true
+- id: 397
+  manufacturer: Mercedes_Benz
+  model: 190E 2.5_16 EVOLUTION II
+  class: C 460
+  weight: 1340 Kg
+  year: 1990
+  autoshow: true
+- id: 398
+  manufacturer: Mercedes_Benz
+  model: 190E 2.5_16 EVOLUTION II Forza Edition
+  class: A 700
+  weight: 1260 Kg
+  year: 1990
+  autoshow: false
+- id: 399
+  manufacturer: Mercedes_Benz
+  model: AMG CLK GTR
+  class: S1 713
+  weight: 1440 Kg
+  year: 1998
+  autoshow: false
+- id: 39
+  manufacturer: Audi
+  model: RS 3 SPORTBACK
+  class: B 565
+  weight: 1575 Kg
+  year: 2011
+  autoshow: true
+- id: 3
+  manufacturer: Acura
+  model: INTEGRA TYPE_R
+  class: C 471
+  weight: 1197 Kg
+  year: 2001
+  autoshow: true
+- id: 400
+  manufacturer: Mercedes_Benz
+  model: SL 65 AMG BLACK SERIES
+  class: A 699
+  weight: 1912 Kg
+  year: 2009
+  autoshow: true
+- id: 401
+  manufacturer: Mercedes_Benz
+  model: C 63 AMG COUPÉ BLACK SERIES
+  class: A 654
+  weight: 1748 Kg
+  year: 2012
+  autoshow: true
+- id: 402
+  manufacturer: Mercedes_Benz
+  model: A 45 AMG
+  class: B 582
+  weight: 1480 Kg
+  year: 2013
+  autoshow: true
+- id: 403
+  manufacturer: Mercedes_Benz
+  model: G 65 AMG
+  class: B 530
+  weight: 2580 Kg
+  year: 2013
+  autoshow: true
+- id: 404
+  manufacturer: Mercedes_Benz
+  model: G 63 AMG 6X6
+  class: C 489
+  weight: 4105 Kg
+  year: 2014
+  autoshow: false
+- id: 405
+  manufacturer: Mercedes_Benz
+  model: UNIMOG U5023
+  class: D 100
+  weight: 7000 Kg
+  year: 2014
+  autoshow: true
+- id: 406
+  manufacturer: Mercedes_Benz
+  model: X_CLASS
+  class: D 258
+  weight: 2161 Kg
+  year: 2018
+  autoshow: true
+- id: 407
+  manufacturer: Mercedes_AMG
+  model: SLC 43 Final Edition
+  class: A 620
+  weight: 1606 Kg
+  year: 2020
+  autoshow: true
+- id: 408
+  manufacturer: Meyers
+  model: MANX
+  class: D 201
+  weight: 560 Kg
+  year: 1971
+  autoshow: true
+- id: 409
+  manufacturer: Meyers
+  model: Manx 2.0
+  class: B 540
+  weight: 748 Kg
+  year: 2023
+  autoshow: true
+- id: 40
+  manufacturer: Audi
+  model: RS 5 COUPÉ
+  class: A 613
+  weight: 1737 Kg
+  year: 2011
+  autoshow: true
+- id: 410
+  manufacturer: MG
+  model: METRO 6R4
+  class: A 627
+  weight: 1030 Kg
+  year: 1986
+  autoshow: true
+- id: 411
+  manufacturer: Mini
+  model: COOPER S
+  class: D 158
+  weight: 671 Kg
+  year: 1965
+  autoshow: true
+- id: 412
+  manufacturer: Mini
+  model: JOHN COOPER WORKS GP
+  class: B 509
+  weight: 1160 Kg
+  year: 2012
+  autoshow: true
+- id: 413
+  manufacturer: Mini
+  model: X_RAID ALL4 RACING COUNTRYMAN
+  class: B 523
+  weight: 1950 Kg
+  year: 2013
+  autoshow: true
+- id: 414
+  manufacturer: Mini
+  model: X_RAID JOHN COOPER WORKS BUGGY
+  class: B 514
+  weight: 1963 Kg
+  year: 2018
+  autoshow: true
+- id: 415
+  manufacturer: Mini
+  model: JOHN COOPER WORKS GP
+  class: B 599
+  weight: 1295 Kg
+  year: 2021
+  autoshow: false
+- id: 416
+  manufacturer: Mitsubishi
+  model: '#269 Attacking the Clock Racing Minicab Time Attack'
+  class: D 166
+  weight: 635 Kg
+  year: 1990
+  autoshow: true
+- id: 417
+  manufacturer: Mitsubishi
+  model: GALANT VR_4
+  class: C 432
+  weight: 1350 Kg
+  year: 1992
+  autoshow: true
+- id: 418
+  manufacturer: Mitsubishi
+  model: ECLIPSE GSX
+  class: C 436
+  weight: 1451 Kg
+  year: 1995
+  autoshow: true
+- id: 419
+  manufacturer: Mitsubishi
+  model: Lancer Evolution III GSR
+  class: B 517
+  weight: 1260 Kg
+  year: 1995
+  autoshow: false
+- id: 41
+  manufacturer: Audi
+  model: R8 COUPÉ V10 PLUS 5.2 FSI QUATTRO
+  class: A 694
+  weight: 1670 Kg
+  year: 2013
+  autoshow: true
+- id: 420
+  manufacturer: Mitsubishi
+  model: Montero Exceed 2800 TD
+  class: D 190
+  weight: 2130 Kg
+  year: 1995
+  autoshow: true
+- id: 421
+  manufacturer: Mitsubishi
+  model: GTO
+  class: C 495
+  weight: 1680 Kg
+  year: 1997
+  autoshow: true
+- id: 422
+  manufacturer: Mitsubishi
+  model: Montero Evolution
+  class: D 346
+  weight: 1990 Kg
+  year: 1997
+  autoshow: false
+- id: 423
+  manufacturer: Mitsubishi
+  model: Lancer Evolution VI GSR TM Edition
+  class: B 574
+  weight: 1280 Kg
+  year: 2001
+  autoshow: true
+- id: 424
+  manufacturer: Mitsubishi
+  model: LANCER EVOLUTION VIII MR
+  class: B 555
+  weight: 1410 Kg
+  year: 2004
+  autoshow: true
+- id: 425
+  manufacturer: Mitsubishi
+  model: LANCER EVOLUTION VIII MR Welcome Pack
+  class: A 700
+  weight: 1285 Kg
+  year: 2004
+  autoshow: false
+- id: 426
+  manufacturer: Mitsubishi
+  model: '#1 Sierra Sierra Enterprises Lancer Evolution Time Atta'
+  class: R 962
+  weight: 1256 Kg
+  year: 2005
+  autoshow: false
+- id: 427
+  manufacturer: Mitsubishi
+  model: Lancer Evolution IX MR
+  class: B 521
+  weight: 1490 Kg
+  year: 2006
+  autoshow: false
+- id: 428
+  manufacturer: Mitsubishi
+  model: LANCER EVOLUTION X GSR
+  class: B 534
+  weight: 1540 Kg
+  year: 2008
+  autoshow: true
+- id: 429
+  manufacturer: Nissan
+  model: FAIRLADY Z 432
+  class: D 369
+  weight: 1047 Kg
+  year: 1969
+  autoshow: true
+- id: 42
+  manufacturer: Audi
+  model: RS 4 AVANT
+  class: A 607
+  weight: 1795 Kg
+  year: 2013
+  autoshow: true
+- id: 430
+  manufacturer: Nissan
+  model: SKYLINE 2000GT_R
+  class: D 380
+  weight: 1100 Kg
+  year: 1971
+  autoshow: false
+- id: 431
+  manufacturer: Nissan
+  model: SKYLINE H/T 2000GT_R
+  class: C 407
+  weight: 1145 Kg
+  year: 1973
+  autoshow: true
+- id: 432
+  manufacturer: Nissan
+  model: '#11 SKYLINE TURBO SUPER SILHOUETTE'
+  class: S2 847
+  weight: 1005 Kg
+  year: 1983
+  autoshow: false
+- id: 433
+  manufacturer: Nissan
+  model: SAFARI TURBO
+  class: D 123
+  weight: 1665 Kg
+  year: 1985
+  autoshow: false
+- id: 434
+  manufacturer: Nissan
+  model: BE_1
+  class: D 175
+  weight: 700 Kg
+  year: 1987
+  autoshow: false
+- id: 435
+  manufacturer: Nissan
+  model: SKYLINE GTS_R (R31)
+  class: C 432
+  weight: 1345 Kg
+  year: 1987
+  autoshow: true
+- id: 436
+  manufacturer: Nissan
+  model: Silvia K's
+  class: C 455
+  weight: 1140 Kg
+  year: 1989
+  autoshow: true
+- id: 437
+  manufacturer: Nissan
+  model: Pao
+  class: D 145
+  weight: 760 Kg
+  year: 1989
+  autoshow: false
+- id: 438
+  manufacturer: Nissan
+  model: S_CARGO
+  class: D 131
+  weight: 950 Kg
+  year: 1989
+  autoshow: true
+- id: 439
+  manufacturer: Nissan
+  model: S_Cargo Forza Edition
+  class: S1 800
+  weight: 803 Kg
+  year: 1989
+  autoshow: false
+- id: 43
+  manufacturer: Audi
+  model: RS 7 SPORTBACK
+  class: A 620
+  weight: 1955 Kg
+  year: 2013
+  autoshow: true
+- id: 440
+  manufacturer: Nissan
+  model: '#12 Skyline GT_R (BNR32 Gr. A) JTC'
+  class: S2 858
+  weight: 1261 Kg
+  year: 1990
+  autoshow: false
+- id: 441
+  manufacturer: Nissan
+  model: PULSAR GTI_R
+  class: C 486
+  weight: 1240 Kg
+  year: 1990
+  autoshow: true
+- id: 442
+  manufacturer: Nissan
+  model: Figaro
+  class: D 234
+  weight: 810 Kg
+  year: 1991
+  autoshow: false
+- id: 443
+  manufacturer: Nissan
+  model: Skyline GT_R
+  class: B 541
+  weight: 1480 Kg
+  year: 1992
+  autoshow: true
+- id: 444
+  manufacturer: Nissan
+  model: 240SX SE
+  class: D 339
+  weight: 1322 Kg
+  year: 1993
+  autoshow: false
+- id: 445
+  manufacturer: Nissan
+  model: '#32 Skyline WTAC ''Xtreme GTR'''
+  class: R 923
+  weight: 1450 Kg
+  year: 1993
+  autoshow: false
+- id: 446
+  manufacturer: Nissan
+  model: FAIRLADY Z VERSION S TWIN TURBO
+  class: C 497
+  weight: 1520 Kg
+  year: 1994
+  autoshow: true
+- id: 447
+  manufacturer: Nissan
+  model: SILVIA K'S
+  class: C 499
+  weight: 1265 Kg
+  year: 1994
+  autoshow: true
+- id: 448
+  manufacturer: Nissan
+  model: NISMO GT_R LM
+  class: B 544
+  weight: 1580 Kg
+  year: 1995
+  autoshow: true
+- id: 449
+  manufacturer: Nissan
+  model: Gloria Gran Turismo
+  class: C 498
+  weight: 1590 Kg
+  year: 1995
+  autoshow: true
+- id: 44
+  manufacturer: Audi
+  model: RS 6 AVANT
+  class: A 640
+  weight: 1935 Kg
+  year: 2015
+  autoshow: true
+- id: 450
+  manufacturer: Nissan
+  model: SKYLINE GT_R V_SPEC
+  class: B 555
+  weight: 1540 Kg
+  year: 1997
+  autoshow: false
+- id: 451
+  manufacturer: Nissan
+  model: Stagea RS Four V
+  class: C 439
+  weight: 1620 Kg
+  year: 1997
+  autoshow: true
+- id: 452
+  manufacturer: Nissan
+  model: '#23 Pennzoil NISMO Skyline GT_R'
+  class: S2 848
+  weight: 1200 Kg
+  year: 1998
+  autoshow: false
+- id: 453
+  manufacturer: Nissan
+  model: R390 (GT1)
+  class: S1 774
+  weight: 1027 Kg
+  year: 1998
+  autoshow: false
+- id: 454
+  manufacturer: Nissan
+  model: SILVIA K'S AERO
+  class: C 494
+  weight: 1265 Kg
+  year: 1998
+  autoshow: true
+- id: 456
+  manufacturer: Nissan
+  model: '#36 Dream Project S15 Silvia WTAC'
+  class: ""
+  weight: 1054 Kg
+  year: 2000
+  autoshow: false
+- id: 457
+  manufacturer: Nissan
+  model: Skyline GT_R V_Spec II
+  class: B 590
+  weight: 1560 Kg
+  year: 2000
+  autoshow: true
+- id: 458
+  manufacturer: Nissan
+  model: Silvia Spec_R
+  class: B 551
+  weight: 1240 Kg
+  year: 2002
+  autoshow: true
+- id: 459
+  manufacturer: Nissan
+  model: FAIRLADY Z
+  class: B 534
+  weight: 1501 Kg
+  year: 2003
+  autoshow: true
+- id: 45
+  manufacturer: Audi
+  model: S1
+  class: B 527
+  weight: 1315 Kg
+  year: 2015
+  autoshow: true
+- id: 460
+  manufacturer: Nissan
+  model: 370Z
+  class: B 568
+  weight: 1482 Kg
+  year: 2010
+  autoshow: false
+- id: 461
+  manufacturer: Nissan
+  model: GT_R BLACK EDITION (R35)
+  class: S1 703
+  weight: 1763 Kg
+  year: 2012
+  autoshow: true
+- id: 462
+  manufacturer: Nissan
+  model: GT_R Black Edition (R35) Forza Edition
+  class: S2 850
+  weight: 1805 Kg
+  year: 2012
+  autoshow: false
+- id: 464
+  manufacturer: Nissan
+  model: GT_R (R35)
+  class: ""
+  weight: 1784 Kg
+  year: 2017
+  autoshow: true
+- id: 465
+  manufacturer: Nissan
+  model: 370Z NISMO
+  class: A 603
+  weight: 1537 Kg
+  year: 2019
+  autoshow: true
+- id: 466
+  manufacturer: Nissan
+  model: GT_R NISMO (R35)
+  class: S1 736
+  weight: 1754 Kg
+  year: 2020
+  autoshow: true
+- id: 467
+  manufacturer: Formula Drift
+  model: '#64 FORSBERG RACING NISSAN Z'
+  class: S1 783
+  weight: 1406 Kg
+  year: 2023
+  autoshow: true
+- id: 469
+  manufacturer: Nissan
+  model: GT_R NISMO
+  class: ""
+  weight: 1754 Kg
+  year: 2024
+  autoshow: true
+- id: 46
+  manufacturer: Audi
+  model: R8 V10 PLUS
+  class: S1 731
+  weight: 1555 Kg
+  year: 2016
+  autoshow: true
+- id: 470
+  manufacturer: Nissan
+  model: Z NISMO
+  class: A 652
+  weight: 1680 Kg
+  year: 2024
+  autoshow: true
+- id: 471
+  manufacturer: Noble
+  model: M600
+  class: S1 793
+  weight: 1250 Kg
+  year: 2010
+  autoshow: true
+- id: 472
+  manufacturer: Opel
+  model: MANTA 400
+  class: B 576
+  weight: 990 Kg
+  year: 1984
+  autoshow: true
+- id: 473
+  manufacturer: Pagani
+  model: ZONDA CINQUE ROADSTER
+  class: S2 812
+  weight: 1296 Kg
+  year: 2010
+  autoshow: true
+- id: 474
+  manufacturer: Pagani
+  model: ZONDA R
+  class: R 918
+  weight: 1150 Kg
+  year: 2009
+  autoshow: true
+- id: 475
+  manufacturer: Pagani
+  model: HUAYRA BC
+  class: S2 851
+  weight: 1218 Kg
+  year: 2016
+  autoshow: true
+- id: 476
+  manufacturer: Pagani
+  model: HUAYRA R
+  class: R 954
+  weight: 1110 Kg
+  year: 2021
+  autoshow: false
+- id: 477
+  manufacturer: Peel
+  model: P50
+  class: D 100
+  weight: 141 Kg
+  year: 1962
+  autoshow: true
+- id: 478
+  manufacturer: Peel
+  model: P50 Trolli Edition
+  class: '? ???'
+  weight: ??? Kg
+  year: 1962
+  autoshow: false
+- id: 479
+  manufacturer: Penhall
+  model: THE CHOLLA
+  class: B 541
+  weight: 998 Kg
+  year: 2011
+  autoshow: true
+- id: 47
+  manufacturer: Audi
+  model: RS 4 AVANT
+  class: A 637
+  weight: 1790 Kg
+  year: 2018
+  autoshow: true
+- id: 480
+  manufacturer: Peugeot
+  model: 205 TURBO 16
+  class: C 500
+  weight: 1145 Kg
+  year: 1984
+  autoshow: false
+- id: 481
+  manufacturer: Peugeot
+  model: 205 RALLYE
+  class: D 350
+  weight: 790 Kg
+  year: 1991
+  autoshow: true
+- id: 482
+  manufacturer: Peugeot
+  model: 207 SUPER 2000
+  class: A 632
+  weight: 1100 Kg
+  year: 2007
+  autoshow: true
+- id: 483
+  manufacturer: Plymouth
+  model: FURY
+  class: D 361
+  weight: 1631 Kg
+  year: 1958
+  autoshow: true
+- id: 484
+  manufacturer: Plymouth
+  model: BARRACUDA FORMULA_S
+  class: C 445
+  weight: 1574 Kg
+  year: 1968
+  autoshow: true
+- id: 485
+  manufacturer: Plymouth
+  model: CUDA 426 HEMI
+  class: C 441
+  weight: 1760 Kg
+  year: 1971
+  autoshow: true
+- id: 486
+  manufacturer: Polaris
+  model: RZR PRO XP FACTORY RACING LIMITED EDITION
+  class: C 439
+  weight: 934 Kg
+  year: 2021
+  autoshow: true
+- id: 487
+  manufacturer: Polaris
+  model: RZR PRO XP ULTIMATE
+  class: C 496
+  weight: 848 Kg
+  year: 2021
+  autoshow: true
+- id: 488
+  manufacturer: Pontiac
+  model: FIREBIRD TRANS AM
+  class: D 311
+  weight: 1724 Kg
+  year: 1977
+  autoshow: true
+- id: 489
+  manufacturer: Pontiac
+  model: FIREBIRD TRANS AM GTA
+  class: D 382
+  weight: 1580 Kg
+  year: 1987
+  autoshow: true
+- id: 48
+  manufacturer: Audi
+  model: R8 V10 performance
+  class: S1 738
+  weight: 1650 Kg
+  year: 2020
+  autoshow: true
+- id: 490
+  manufacturer: Porsche
+  model: '#3 917 LH'
+  class: S1 776
+  weight: 927 Kg
+  year: 1970
+  autoshow: true
+- id: 491
+  manufacturer: Porsche
+  model: '#3 917 LH Forza Edition'
+  class: R 998
+  weight: 900 Kg
+  year: 1970
+  autoshow: false
+- id: 492
+  manufacturer: Porsche
+  model: 911 CARRERA RS
+  class: C 490
+  weight: 1111 Kg
+  year: 1973
+  autoshow: true
+- id: 493
+  manufacturer: Porsche
+  model: 911 TURBO 3.3
+  class: B 550
+  weight: 1300 Kg
+  year: 1982
+  autoshow: false
+- id: 494
+  manufacturer: Porsche
+  model: '#185 959 PRODRIVE RALLY RAID'
+  class: A 623
+  weight: 1507 Kg
+  year: 1985
+  autoshow: true
+- id: 495
+  manufacturer: Porsche
+  model: "959"
+  class: A 661
+  weight: 1447 Kg
+  year: 1987
+  autoshow: false
+- id: 496
+  manufacturer: Porsche
+  model: 944 TURBO
+  class: B 539
+  weight: 1413 Kg
+  year: 1989
+  autoshow: true
+- id: 497
+  manufacturer: Porsche
+  model: 911 TURBO S LEICHTBAU
+  class: A 652
+  weight: 1290 Kg
+  year: 1993
+  autoshow: true
+- id: 498
+  manufacturer: Porsche
+  model: 928 GTS
+  class: B 563
+  weight: 1630 Kg
+  year: 1993
+  autoshow: true
+- id: 499
+  manufacturer: Porsche
+  model: 968 TURBO S
+  class: B 594
+  weight: 1300 Kg
+  year: 1993
+  autoshow: true
+- id: 49
+  manufacturer: Audi
+  model: RS 3 SEDAN
+  class: A 617
+  weight: 1630 Kg
+  year: 2020
+  autoshow: true
+- id: 4
+  manufacturer: Acura
+  model: RSX TYPE_S
+  class: C 462
+  weight: 1279 Kg
+  year: 2002
+  autoshow: true
+- id: 500
+  manufacturer: Porsche
+  model: 911 GT2
+  class: A 644
+  weight: 1295 Kg
+  year: 1995
+  autoshow: false
+- id: 502
+  manufacturer: Porsche
+  model: 911 GT1 STRASSENVERSION
+  class: ""
+  weight: 1200 Kg
+  year: 1998
+  autoshow: true
+- id: 503
+  manufacturer: Porsche
+  model: CARRERA GT
+  class: S1 758
+  weight: 1478 Kg
+  year: 2003
+  autoshow: false
+- id: 504
+  manufacturer: Porsche
+  model: 911 GT3
+  class: A 674
+  weight: 1433 Kg
+  year: 2004
+  autoshow: true
+- id: 505
+  manufacturer: Porsche
+  model: Cayman GT3 WTAC
+  class: S2 856
+  weight: 1200 Kg
+  year: 2005
+  autoshow: false
+- id: 506
+  manufacturer: Porsche
+  model: 911 GT3 RS 4.0
+  class: S1 726
+  weight: 1360 Kg
+  year: 2012
+  autoshow: true
+- id: 507
+  manufacturer: Porsche
+  model: 918 SPYDER
+  class: S2 858
+  weight: 1675 Kg
+  year: 2014
+  autoshow: true
+- id: 508
+  manufacturer: Porsche
+  model: 911 GT3 RS
+  class: S1 760
+  weight: 1430 Kg
+  year: 2019
+  autoshow: false
+- id: 509
+  manufacturer: Porsche
+  model: 718 CAYMAN GTS
+  class: A 675
+  weight: 1422 Kg
+  year: 2018
+  autoshow: true
+- id: 50
+  manufacturer: Audi
+  model: RS 6 AVANT
+  class: A 650
+  weight: 2075 Kg
+  year: 2021
+  autoshow: true
+- id: 510
+  manufacturer: Porsche
+  model: 911 GT2 RS
+  class: S2 803
+  weight: 1450 Kg
+  year: 2018
+  autoshow: true
+- id: 511
+  manufacturer: Porsche
+  model: CAYENNE TURBO
+  class: A 638
+  weight: 2175 Kg
+  year: 2018
+  autoshow: true
+- id: 512
+  manufacturer: Porsche
+  model: MACAN LPR RALLY RAID
+  class: B 528
+  weight: 2222 Kg
+  year: 2018
+  autoshow: true
+- id: 513
+  manufacturer: Porsche
+  model: '#70 PORSCHE MOTORSPORT 935'
+  class: S2 853
+  weight: 1380 Kg
+  year: 2019
+  autoshow: true
+- id: 514
+  manufacturer: Porsche
+  model: 911 CARRERA S
+  class: S1 714
+  weight: 1515 Kg
+  year: 2019
+  autoshow: true
+- id: 515
+  manufacturer: Porsche
+  model: TAYCAN TURBO S
+  class: S1 725
+  weight: 2323 Kg
+  year: 2020
+  autoshow: true
+- id: 516
+  manufacturer: Porsche
+  model: 911 GT3
+  class: S1 752
+  weight: 1435 Kg
+  year: 2021
+  autoshow: true
+- id: 517
+  manufacturer: Porsche
+  model: 718 Cayman GT4 RS
+  class: S1 737
+  weight: 1415 Kg
+  year: 2022
+  autoshow: true
+- id: 518
+  manufacturer: Porsche
+  model: MISSION R
+  class: S2 865
+  weight: 1500 Kg
+  year: 2022
+  autoshow: true
+- id: 519
+  manufacturer: Porsche
+  model: 911 GT3 RS
+  class: S1 758
+  weight: 1450 Kg
+  year: 2023
+  autoshow: true
+- id: 51
+  manufacturer: Audi
+  model: RS 7 SPORTBACK
+  class: A 655
+  weight: 2065 Kg
+  year: 2021
+  autoshow: true
+- id: 520
+  manufacturer: Porsche
+  model: 911 Rallye
+  class: A 700
+  weight: 1611 Kg
+  year: 2023
+  autoshow: true
+- id: 521
+  manufacturer: Porsche
+  model: 911 Turbo S
+  class: S1 774
+  weight: 1565 Kg
+  year: 2023
+  autoshow: true
+- id: 522
+  manufacturer: Radical
+  model: RXC TURBO
+  class: S2 842
+  weight: 940 Kg
+  year: 2015
+  autoshow: true
+- id: 523
+  manufacturer: RAM
+  model: 1500 TRX
+  class: B 514
+  weight: 2922 Kg
+  year: 2024
+  autoshow: true
+- id: 524
+  manufacturer: Reliant
+  model: SUPERVAN III
+  class: D 100
+  weight: 455 Kg
+  year: 1972
+  autoshow: true
+- id: 525
+  manufacturer: Renault
+  model: 8 GORDINI
+  class: D 322
+  weight: 855 Kg
+  year: 1967
+  autoshow: false
+- id: 526
+  manufacturer: Renault
+  model: 5 TURBO
+  class: C 417
+  weight: 970 Kg
+  year: 1980
+  autoshow: true
+- id: 527
+  manufacturer: Renault
+  model: CLIO WILLIAMS
+  class: D 400
+  weight: 1013 Kg
+  year: 1993
+  autoshow: true
+- id: 528
+  manufacturer: Renault
+  model: MEGANE R26.R
+  class: B 561
+  weight: 1230 Kg
+  year: 2008
+  autoshow: true
+- id: 529
+  manufacturer: Renault
+  model: MEGANE RS 250
+  class: B 538
+  weight: 1387 Kg
+  year: 2010
+  autoshow: true
+- id: 52
+  manufacturer: Audi
+  model: RS E_TRON GT
+  class: A 677
+  weight: 2347 Kg
+  year: 2021
+  autoshow: true
+- id: 530
+  manufacturer: Renault
+  model: MEGANE R.S.
+  class: B 547
+  weight: 1430 Kg
+  year: 2018
+  autoshow: true
+- id: 531
+  manufacturer: Rimac
+  model: NEVERA
+  class: R 913
+  weight: 2150 Kg
+  year: 2021
+  autoshow: false
+- id: 532
+  manufacturer: Rivian
+  model: R1T
+  class: A 607
+  weight: 3146 Kg
+  year: 2021
+  autoshow: true
+- id: 533
+  manufacturer: RJ Anderson
+  model: '#37 POLARIS RZR_ROCKSTAR ENERGY PRO 2 TRUCK'
+  class: A 674
+  weight: 1701 Kg
+  year: 2016
+  autoshow: true
+- id: 534
+  manufacturer: RJ Anderson
+  model: '#37 POLARIS RZR PRO 4 TRUCK'
+  class: A 677
+  weight: 1964 Kg
+  year: 2021
+  autoshow: false
+- id: 535
+  manufacturer: Saleen
+  model: S7 LM
+  class: S2 835
+  weight: 1338 Kg
+  year: 2017
+  autoshow: false
+- id: 536
+  manufacturer: Schuppan
+  model: 962CR
+  class: S1 764
+  weight: 1050 Kg
+  year: 1993
+  autoshow: false
+- id: 537
+  manufacturer: Shelby
+  model: COBRA 427 S/C
+  class: B 582
+  weight: 1066 Kg
+  year: 1965
+  autoshow: true
+- id: 538
+  manufacturer: Shelby
+  model: COBRA DAYTONA COUPE
+  class: B 515
+  weight: 1043 Kg
+  year: 1965
+  autoshow: true
+- id: 539
+  manufacturer: SIERRA Cars
+  model: '#23 YOKOHAMA ALPHA'
+  class: R 926
+  weight: 522 Kg
+  year: 2020
+  autoshow: true
+- id: 540
+  manufacturer: SIERRA Cars
+  model: 700R
+  class: ""
+  weight: 365 Kg
+  year: 2021
+  autoshow: true
+- id: 541
+  manufacturer: SIERRA Cars
+  model: RX3
+  class: A 635
+  weight: 420 Kg
+  year: 2021
+  autoshow: true
+- id: 542
+  manufacturer: Subaru
+  model: BRAT GL
+  class: D 159
+  weight: 935 Kg
+  year: 1980
+  autoshow: true
+- id: 543
+  manufacturer: Subaru
+  model: LEGACY RS
+  class: C 406
+  weight: 1356 Kg
+  year: 1990
+  autoshow: true
+- id: 544
+  manufacturer: Subaru
+  model: VIVIO RX_R
+  class: D 281
+  weight: 760 Kg
+  year: 1994
+  autoshow: true
+- id: 545
+  manufacturer: Subaru
+  model: Vivio RX_R Forza Edition
+  class: S2 900
+  weight: 725 Kg
+  year: 1994
+  autoshow: false
+- id: 546
+  manufacturer: Subaru
+  model: SVX
+  class: C 466
+  weight: 1624 Kg
+  year: 1996
+  autoshow: true
+- id: 547
+  manufacturer: Subaru
+  model: IMPREZA 22B STI Version
+  class: B 600
+  weight: 1270 Kg
+  year: 1998
+  autoshow: true
+- id: 549
+  manufacturer: Subaru
+  model: IMPREZA WRX STI
+  class: ""
+  weight: 1483 Kg
+  year: 2004
+  autoshow: true
+- id: 54
+  manufacturer: Austin_Healey
+  model: 3000 MKIII
+  class: D 352
+  weight: 1181 Kg
+  year: 1965
+  autoshow: true
+- id: 550
+  manufacturer: Subaru
+  model: IMPREZA WRX STI
+  class: B 570
+  weight: 1504 Kg
+  year: 2005
+  autoshow: true
+- id: 551
+  manufacturer: Subaru
+  model: LEGACY B4 2.0 GT
+  class: B 549
+  weight: 1430 Kg
+  year: 2005
+  autoshow: true
+- id: 552
+  manufacturer: Subaru
+  model: IMPREZA WRX STI
+  class: B 539
+  weight: 1540 Kg
+  year: 2008
+  autoshow: true
+- id: 553
+  manufacturer: Subaru
+  model: WRX STI
+  class: B 547
+  weight: 1535 Kg
+  year: 2011
+  autoshow: true
+- id: 554
+  manufacturer: Subaru
+  model: BRZ
+  class: C 463
+  weight: 1254 Kg
+  year: 2013
+  autoshow: true
+- id: 555
+  manufacturer: Subaru
+  model: WRX STI
+  class: B 555
+  weight: 1536 Kg
+  year: 2015
+  autoshow: true
+- id: 556
+  manufacturer: Subaru
+  model: WRX STI ARX SUPERCAR
+  class: S1 758
+  weight: 1279 Kg
+  year: 2018
+  autoshow: false
+- id: 557
+  manufacturer: Subaru
+  model: STI S209
+  class: B 574
+  weight: 1581 Kg
+  year: 2019
+  autoshow: false
+- id: 558
+  manufacturer: Subaru
+  model: BRZ
+  class: B 551
+  weight: 1286 Kg
+  year: 2022
+  autoshow: true
+- id: 559
+  manufacturer: Subaru
+  model: BRZ Forza Edition
+  class: A 700
+  weight: 1808 Kg
+  year: 2022
+  autoshow: false
+- id: 55
+  manufacturer: Autozam
+  model: AZ_1
+  class: D 342
+  weight: 720 Kg
+  year: 1993
+  autoshow: true
+- id: 560
+  manufacturer: Subaru
+  model: WRX
+  class: B 538
+  weight: 1495 Kg
+  year: 2022
+  autoshow: true
+- id: 561
+  manufacturer: Toyota
+  model: SPORTS 800
+  class: D 141
+  weight: 603 Kg
+  year: 1965
+  autoshow: true
+- id: 562
+  manufacturer: Toyota
+  model: Sports 800 Fanta Edition
+  class: D 141
+  weight: 603 Kg
+  year: 1965
+  autoshow: true
+- id: 563
+  manufacturer: Toyota
+  model: 2000GT
+  class: D 377
+  weight: 1157 Kg
+  year: 1969
+  autoshow: false
+- id: 564
+  manufacturer: Toyota
+  model: COROLLA SR5
+  class: D 197
+  weight: 937 Kg
+  year: 1974
+  autoshow: false
+- id: 565
+  manufacturer: Toyota
+  model: FJ40
+  class: D 157
+  weight: 1550 Kg
+  year: 1979
+  autoshow: true
+- id: 567
+  manufacturer: Toyota
+  model: SPRINTER TRUENO GT APEX
+  class: ""
+  weight: 950 Kg
+  year: 1985
+  autoshow: true
+- id: 568
+  manufacturer: Toyota
+  model: Sprinter Trueno GT Apex Forza Edition
+  class: B 600
+  weight: 893 Kg
+  year: 1985
+  autoshow: false
+- id: 569
+  manufacturer: Toyota
+  model: MR2 SC
+  class: D 397
+  weight: 1188 Kg
+  year: 1989
+  autoshow: false
+- id: 56
+  manufacturer: BAC
+  model: MONO
+  class: S1 766
+  weight: 614 Kg
+  year: 2014
+  autoshow: true
+- id: 570
+  manufacturer: Toyota
+  model: Chaser GT Twin Turbo
+  class: C 484
+  weight: 1540 Kg
+  year: 1991
+  autoshow: true
+- id: 571
+  manufacturer: Toyota
+  model: Sera
+  class: D 344
+  weight: 930 Kg
+  year: 1991
+  autoshow: true
+- id: 572
+  manufacturer: Toyota
+  model: CELICA GT_FOUR RC ST185
+  class: C 438
+  weight: 1460 Kg
+  year: 1992
+  autoshow: true
+- id: 573
+  manufacturer: Toyota
+  model: SUPRA 2.0 GT TWIN TURBO
+  class: C 453
+  weight: 1510 Kg
+  year: 1992
+  autoshow: true
+- id: 574
+  manufacturer: Toyota
+  model: '#1 T100 BAJA TRUCK'
+  class: B 584
+  weight: 1814 Kg
+  year: 1993
+  autoshow: true
+- id: 575
+  manufacturer: Toyota
+  model: CELICA GT_FOUR ST205
+  class: C 500
+  weight: 1440 Kg
+  year: 1994
+  autoshow: true
+- id: 576
+  manufacturer: Toyota
+  model: MR2 GT
+  class: B 522
+  weight: 1205 Kg
+  year: 1995
+  autoshow: true
+- id: 577
+  manufacturer: Toyota
+  model: J&J Motorsport Supra WTAC
+  class: S2 828
+  weight: 1410 Kg
+  year: 1995
+  autoshow: false
+- id: 578
+  manufacturer: Toyota
+  model: Starlet Glanza V
+  class: C 435
+  weight: 950 Kg
+  year: 1996
+  autoshow: false
+- id: 579
+  manufacturer: Toyota
+  model: Soarer 2.5 GT_T
+  class: C 491
+  weight: 1570 Kg
+  year: 1997
+  autoshow: true
+- id: 57
+  manufacturer: Bentley
+  model: BENTAYGA
+  class: A 612
+  weight: 2422 Kg
+  year: 2016
+  autoshow: false
+- id: 580
+  manufacturer: Toyota
+  model: Chaser 2.5 Tourer V
+  class: B 504
+  weight: 1480 Kg
+  year: 1997
+  autoshow: true
+- id: 581
+  manufacturer: Toyota
+  model: SUPRA RZ
+  class: B 529
+  weight: 1510 Kg
+  year: 1998
+  autoshow: true
+- id: 582
+  manufacturer: Toyota
+  model: Altezza RS200 Z Edition
+  class: C 461
+  weight: 1360 Kg
+  year: 1999
+  autoshow: false
+- id: 583
+  manufacturer: Toyota
+  model: CELICA SPORT SPECIALTY II
+  class: C 433
+  weight: 1161 Kg
+  year: 2003
+  autoshow: true
+- id: 584
+  manufacturer: Toyota
+  model: Crown Super Deluxe Taxi
+  class: D 181
+  weight: 1370 Kg
+  year: 2005
+  autoshow: true
+- id: 585
+  manufacturer: Toyota
+  model: GT86
+  class: C 460
+  weight: 1240 Kg
+  year: 2013
+  autoshow: true
+- id: 586
+  manufacturer: Toyota
+  model: LAND CRUISER ARCTIC TRUCKS AT37
+  class: D 332
+  weight: 2265 Kg
+  year: 2016
+  autoshow: false
+- id: 587
+  manufacturer: Toyota
+  model: JPN Taxi
+  class: D 248
+  weight: 1410 Kg
+  year: 2017
+  autoshow: true
+- id: 588
+  manufacturer: Toyota
+  model: 4RUNNER TRD PRO
+  class: C 421
+  weight: 2155 Kg
+  year: 2019
+  autoshow: true
+- id: 589
+  manufacturer: Toyota
+  model: TACOMA TRD PRO
+  class: C 409
+  weight: 2007 Kg
+  year: 2019
+  autoshow: true
+- id: 58
+  manufacturer: Bentley
+  model: Continental GT Convertible
+  class: A 649
+  weight: 2414 Kg
+  year: 2021
+  autoshow: true
+- id: 590
+  manufacturer: Toyota
+  model: Tacoma TRD Pro Forza Edition
+  class: R 998
+  weight: 1207 Kg
+  year: 2019
+  autoshow: false
+- id: 591
+  manufacturer: Toyota
+  model: GR SUPRA
+  class: A 616
+  weight: 1541 Kg
+  year: 2020
+  autoshow: true
+- id: 592
+  manufacturer: Toyota
+  model: GR Yaris
+  class: B 558
+  weight: 1310 Kg
+  year: 2021
+  autoshow: true
+- id: 593
+  manufacturer: Toyota
+  model: GR86
+  class: B 556
+  weight: 1275 Kg
+  year: 2022
+  autoshow: true
+- id: 594
+  manufacturer: Toyota
+  model: Camry TRD
+  class: B 525
+  weight: 1622 Kg
+  year: 2023
+  autoshow: true
+- id: 596
+  manufacturer: Toyota
+  model: Land Cruiser
+  class: ""
+  weight: 2285 Kg
+  year: 2025
+  autoshow: true
+- id: 598
+  manufacturer: GR
+  model: GT Prototype
+  class: ""
+  weight: 1725 Kg
+  year: 2025
+  autoshow: true
+- id: 599
+  manufacturer: TVR
+  model: CERBERA SPEED 12
+  class: S1 770
+  weight: 975 Kg
+  year: 1998
+  autoshow: true
+- id: 59
+  manufacturer: BMW
+  model: ISETTA 300 EXPORT
+  class: D 100
+  weight: 417 Kg
+  year: 1957
+  autoshow: true
+- id: 5
+  manufacturer: Acura
+  model: NSX Type S
+  class: S1 734
+  weight: 1770 Kg
+  year: 2022
+  autoshow: false
+- id: 600
+  manufacturer: TVR
+  model: SAGARIS
+  class: A 672
+  weight: 1078 Kg
+  year: 2005
+  autoshow: true
+- id: 601
+  manufacturer: TVR
+  model: GRIFFITH
+  class: S1 729
+  weight: 1200 Kg
+  year: 2018
+  autoshow: true
+- id: 602
+  manufacturer: Ultima
+  model: EVOLUTION COUPE 1020
+  class: R 925
+  weight: 950 Kg
+  year: 2015
+  autoshow: true
+- id: 603
+  manufacturer: Volkswagen
+  model: BEETLE
+  class: D 100
+  weight: 798 Kg
+  year: 1963
+  autoshow: true
+- id: 604
+  manufacturer: Volkswagen
+  model: TYPE 2 DE LUXE
+  class: D 100
+  weight: 1140 Kg
+  year: 1963
+  autoshow: true
+- id: 605
+  manufacturer: Volkswagen
+  model: CLASS 5/1600 BAJA BUG
+  class: D 260
+  weight: 1089 Kg
+  year: 1969
+  autoshow: true
+- id: 606
+  manufacturer: Volkswagen
+  model: PICKUP LX
+  class: D 100
+  weight: 986 Kg
+  year: 1982
+  autoshow: true
+- id: 607
+  manufacturer: Volkswagen
+  model: GOLF GTI
+  class: D 314
+  weight: 866 Kg
+  year: 1983
+  autoshow: true
+- id: 609
+  manufacturer: Volkswagen
+  model: GOLF GTI 16V MK2
+  class: ""
+  weight: 1100 Kg
+  year: 1992
+  autoshow: true
+- id: 60
+  manufacturer: BMW
+  model: 2002 TURBO
+  class: C 425
+  weight: 1080 Kg
+  year: 1973
+  autoshow: true
+- id: 610
+  manufacturer: Volkswagen
+  model: CORRADO VR6
+  class: C 426
+  weight: 1240 Kg
+  year: 1995
+  autoshow: true
+- id: 611
+  manufacturer: Volkswagen
+  model: GOLF R
+  class: B 526
+  weight: 1446 Kg
+  year: 2010
+  autoshow: true
+- id: 612
+  manufacturer: Volkswagen
+  model: SCIROCCO R
+  class: B 548
+  weight: 1344 Kg
+  year: 2011
+  autoshow: true
+- id: 613
+  manufacturer: Volkswagen
+  model: GOLF R
+  class: B 536
+  weight: 1476 Kg
+  year: 2014
+  autoshow: true
+- id: 614
+  manufacturer: Volkswagen
+  model: '#34 VOLKSWAGEN ANDRETTI RALLYCROSS BEETLE'
+  class: S1 764
+  weight: 1210 Kg
+  year: 2017
+  autoshow: true
+- id: 615
+  manufacturer: Volkswagen
+  model: GOLF R
+  class: B 546
+  weight: 1497 Kg
+  year: 2021
+  autoshow: true
+- id: 616
+  manufacturer: Volkswagen
+  model: Golf R
+  class: B 548
+  weight: 1550 Kg
+  year: 2022
+  autoshow: true
+- id: 617
+  manufacturer: Volvo
+  model: 242 TURBO EVOLUTION
+  class: C 435
+  weight: 1440 Kg
+  year: 1983
+  autoshow: true
+- id: 618
+  manufacturer: Wuling
+  model: SUNSHINE S
+  class: D 107
+  weight: 1265 Kg
+  year: 2013
+  autoshow: true
+- id: 619
+  manufacturer: Wuling
+  model: Sunshine S Forza Edition
+  class: S1 800
+  weight: 1157 Kg
+  year: 2020
+  autoshow: false
+- id: 61
+  manufacturer: BMW
+  model: M1
+  class: B 510
+  weight: 1300 Kg
+  year: 1981
+  autoshow: false
+- id: 620
+  manufacturer: Wuling
+  model: Hongguang Mini EV Macaron
+  class: D 100
+  weight: 700 Kg
+  year: 2022
+  autoshow: true
+- id: 621
+  manufacturer: Zenvo
+  model: TSR_S
+  class: R 906
+  weight: 1547 Kg
+  year: 2019
+  autoshow: true
+- id: 62
+  manufacturer: BMW
+  model: M3
+  class: C 474
+  weight: 1253 Kg
+  year: 1988
+  autoshow: true
+- id: 63
+  manufacturer: BMW
+  model: M5
+  class: C 469
+  weight: 1465 Kg
+  year: 1988
+  autoshow: true
+- id: 64
+  manufacturer: BMW
+  model: 850CSI
+  class: C 493
+  weight: 1923 Kg
+  year: 1995
+  autoshow: true
+- id: 65
+  manufacturer: BMW
+  model: M5
+  class: B 516
+  weight: 1711 Kg
+  year: 1995
+  autoshow: true
+- id: 66
+  manufacturer: BMW
+  model: M3
+  class: B 549
+  weight: 1460 Kg
+  year: 1997
+  autoshow: true
+- id: 67
+  manufacturer: BMW
+  model: M5
+  class: B 580
+  weight: 1769 Kg
+  year: 2003
+  autoshow: true
+- id: 68
+  manufacturer: BMW
+  model: M3
+  class: B 554
+  weight: 1549 Kg
+  year: 2005
+  autoshow: true
+- id: 69
+  manufacturer: BMW
+  model: M3
+  class: A 608
+  weight: 1655 Kg
+  year: 2008
+  autoshow: true
+- id: 6
+  manufacturer: Acura
+  model: Integra A_Spec
+  class: C 484
+  weight: 1394 Kg
+  year: 2023
+  autoshow: true
+- id: 70
+  manufacturer: BMW
+  model: Z4 M COUPE
+  class: B 579
+  weight: 1495 Kg
+  year: 2008
+  autoshow: true
+- id: 71
+  manufacturer: BMW
+  model: M5
+  class: B 595
+  weight: 1820 Kg
+  year: 2009
+  autoshow: true
+- id: 72
+  manufacturer: BMW
+  model: M3 GTS
+  class: A 678
+  weight: 1546 Kg
+  year: 2010
+  autoshow: true
+- id: 73
+  manufacturer: BMW
+  model: X5 M
+  class: B 546
+  weight: 2435 Kg
+  year: 2011
+  autoshow: true
+- id: 74
+  manufacturer: BMW
+  model: M5
+  class: A 652
+  weight: 1870 Kg
+  year: 2012
+  autoshow: true
+- id: 75
+  manufacturer: BMW
+  model: M4 COUPE
+  class: A 679
+  weight: 1537 Kg
+  year: 2014
+  autoshow: true
+- id: 76
+  manufacturer: BMW
+  model: I8
+  class: A 665
+  weight: 1533 Kg
+  year: 2015
+  autoshow: true
+- id: 77
+  manufacturer: BMW
+  model: M4 GTS
+  class: S1 711
+  weight: 1510 Kg
+  year: 2016
+  autoshow: true
+- id: 78
+  manufacturer: BMW
+  model: Z4 ROADSTER
+  class: A 634
+  weight: 1475 Kg
+  year: 2019
+  autoshow: true
+- id: 79
+  manufacturer: BMW
+  model: M2 Competition Coupé
+  class: A 656
+  weight: 1658 Kg
+  year: 2020
+  autoshow: true
+- id: 7
+  manufacturer: Alfa Romeo
+  model: GIULIA SPRINT GTA STRADALE
+  class: D 379
+  weight: 760 Kg
+  year: 1965
+  autoshow: true
+- id: 80
+  manufacturer: BMW
+  model: M8 COMPETITION COUPE
+  class: A 684
+  weight: 1975 Kg
+  year: 2020
+  autoshow: true
+- id: 81
+  manufacturer: BMW
+  model: M4 COMPETITION COUPÉ
+  class: A 666
+  weight: 1725 Kg
+  year: 2021
+  autoshow: true
+- id: 82
+  manufacturer: BMW
+  model: M4 Competition Coupé Welcome Pack
+  class: S1 800
+  weight: 1350 Kg
+  year: 2021
+  autoshow: false
+- id: 83
+  manufacturer: BMW
+  model: IX XDRIVE50
+  class: B 595
+  weight: 2510 Kg
+  year: 2022
+  autoshow: true
+- id: 84
+  manufacturer: BMW
+  model: M5 CS
+  class: S1 730
+  weight: 1825 Kg
+  year: 2022
+  autoshow: true
+- id: 85
+  manufacturer: BMW
+  model: M2
+  class: A 647
+  weight: 1700 Kg
+  year: 2023
+  autoshow: true
+- id: 86
+  manufacturer: BMW
+  model: M2 Forza Edition
+  class: A 700
+  weight: 1653 Kg
+  year: 2023
+  autoshow: false
+- id: 87
+  manufacturer: BMW
+  model: X6 M Competition
+  class: A 672
+  weight: 2474 Kg
+  year: 2024
+  autoshow: true
+- id: 88
+  manufacturer: Buick
+  model: REGAL GNX
+  class: C 454
+  weight: 1608 Kg
+  year: 1987
+  autoshow: true
+- id: 89
+  manufacturer: Cadillac
+  model: XTS LIMOUSINE
+  class: D 381
+  weight: 2495 Kg
+  year: 2013
+  autoshow: true
+- id: 8
+  manufacturer: Alfa Romeo
+  model: GIULIA TZ2
+  class: B 532
+  weight: 620 Kg
+  year: 1965
+  autoshow: true
+- id: 90
+  manufacturer: Cadillac
+  model: ATS_V
+  class: A 601
+  weight: 1678 Kg
+  year: 2016
+  autoshow: true
+- id: 91
+  manufacturer: Cadillac
+  model: CTS_V SEDAN
+  class: A 648
+  weight: 1872 Kg
+  year: 2016
+  autoshow: true
+- id: 92
+  manufacturer: Cadillac
+  model: CT4_V BLACKWING
+  class: A 650
+  weight: 1751 Kg
+  year: 2022
+  autoshow: true
+- id: 93
+  manufacturer: Cadillac
+  model: CT5_V BLACKWING
+  class: S1 701
+  weight: 1870 Kg
+  year: 2022
+  autoshow: true
+- id: 94
+  manufacturer: Can_Am
+  model: MAVERICK X RS TURBO R
+  class: B 568
+  weight: 751 Kg
+  year: 2018
+  autoshow: true
+- id: 95
+  manufacturer: Casey Currie Motorsports
+  model: '#4402 ULTRA 4 ‘TROPHY JEEP’'
+  class: A 641
+  weight: 2200 Kg
+  year: 2019
+  autoshow: false
+- id: 96
+  manufacturer: Chevrolet
+  model: CORVETTE
+  class: D 270
+  weight: 1315 Kg
+  year: 1953
+  autoshow: true
+- id: 97
+  manufacturer: Chevrolet
+  model: 150 UTILITY SEDAN
+  class: D 221
+  weight: 1501 Kg
+  year: 1955
+  autoshow: true
+- id: 98
+  manufacturer: Chevrolet
+  model: BEL AIR
+  class: D 320
+  weight: 1514 Kg
+  year: 1957
+  autoshow: true
+- id: 99
+  manufacturer: Chevrolet
+  model: CORVETTE
+  class: C 428
+  weight: 1397 Kg
+  year: 1960
+  autoshow: false
+- id: 9
+  manufacturer: Alfa Romeo
+  model: 33 STRADALE
+  class: B 593
+  weight: 700 Kg
+  year: 1968
+  autoshow: true
