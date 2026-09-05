@@ -8,7 +8,10 @@
       <span>{{ .Params.car }}</span>
       {{ else }}
       <span>
-        {{ $allCars := index $.Site.Data.cars }}
+        {{ $allCars := index $.Site.Data.fh6cars }}
+        {{ if eq .Page.Params.game "fh5" }}
+          {{ $allCars := index $.Site.Data.cars }}
+        {{ end }}
         {{ $cars := where $allCars "id" .Params.car_id }}
         {{ $car := index $cars 0 }}
         {{ $car.year }} {{ $car.manufacturer }} {{ $car.model }}
