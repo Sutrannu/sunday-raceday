@@ -35,6 +35,6 @@ Use the name as the description. Aren't you glad I told you to
 make it simple? Once you find it, view the
 Share Code. Write it down or take a screenshot.
 
-Post your tune name and tha share code in the Discord.
+Post your tune name and the share code in the Discord.
 
 You are a hero. 
