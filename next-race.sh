@@ -10,6 +10,7 @@ if [ ! -f "${WD}/content/race/${THIS_RACE}" ]; then
   sed -Ee 's/(^ {4}[a-z_]+:) .*/\1/' "${WD}/content/race/${LAST_RACE}" |\
     sed -Ee 's/(car_image:).*/\1 '"$THIS_SUNDAY"'-car.png/' |\
     sed -Ee 's/(car_by:).*/\1 '"$car_by"'/' |\
+    sed -Ee 's/(game:).*/\1 fh6/' |\
     tee "${WD}/content/race/${THIS_RACE}"
   # cp "${WD}/content/race/${LAST_RACE}" "${WD}/content/race/${THIS_RACE}"
   sed -i 's/'"$LAST_SUNDAY"'/'"$THIS_SUNDAY"'/' "${WD}/content/race/${THIS_RACE}"
